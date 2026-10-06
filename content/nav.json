@@ -5,16 +5,16 @@
       "url": "/",
       "children": [
         {
+          "label": "Accounting",
+          "url": "/accounting"
+        },
+        {
           "label": "Payroll",
           "url": "/payroll"
         },
         {
           "label": "Tax planning and preparation",
           "url": "/tax"
-        },
-        {
-          "label": "Accounting",
-          "url": "/accounting"
         },
         {
           "label": "Personal income tax",
