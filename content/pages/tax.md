@@ -1,11 +1,11 @@
 ---
 title: "Tax planning and preparation | Parker Swearngin LLC"
-url: "/services/tax"
+url: "/tax"
 meta_title: "Business Tax Preparation Lee's Summit MO | Parker Swearngin"
 meta_description: "Business tax preparation, planning, and e-filing in Lee's Summit, MO. A CPA firm with year-round advice and one fixed monthly fee, so no billing surprises."
 target_keyword: "business tax preparation Lee's Summit MO"
 secondary_keywords: ["business tax planning Lee's Summit","small business tax CPA Lee's Summit MO","corporate tax services Lee's Summit","business tax accountant near me","tax preparation for service businesses Lee's Summit","medical professional tax planning Missouri","real estate broker tax services Lee's Summit","law firm accounting and taxes Lee's Summit","veterinary practice tax planning Missouri","business tax filing Lee's Summit MO","estimated quarterly taxes Lee's Summit","S-corp tax planning Lee's Summit","LLC tax strategy Missouri","business deduction planning Lee's Summit","professional services tax advice Lee's Summit","self-employed business taxes Lee's Summit","pass-through entity taxes Missouri","year-end tax planning for businesses Lee's Summit","tax-efficient business structure Lee's Summit","payroll tax services Lee's Summit MO"]
-canonical_url: "https://parkerswearngin.com/services/tax"
+canonical_url: "https://parkerswearngin.com/tax"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
