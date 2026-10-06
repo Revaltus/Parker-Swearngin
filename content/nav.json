@@ -45,6 +45,10 @@
         {
           "label": "Professional Services",
           "url": "/professional-services"
+        },
+        {
+          "label": "Law Firms",
+          "url": "/law-firms"
         }
       ]
     },
@@ -71,40 +75,38 @@
       ]
     },
     {
-      "label": "Careers",
-      "url": "/careers"
-    },
-    {
-      "label": "Contact",
-      "url": "/contact"
-    },
-    {
-      "label": "Forms documents and links",
-      "url": "/resources/forms-documents-and-links"
-    },
-    {
-      "label": "Refund tracker",
-      "url": "/resources/refund-tracker"
-    },
-    {
-      "label": "Blog",
-      "url": "/resources/blog"
-    },
-    {
-      "label": "SafeSend Returns",
-      "url": "/resources/safe-send-returns"
-    },
-    {
-      "label": "Law Firms",
-      "url": "/industries/law-firms"
-    },
-    {
       "label": "Pricing",
       "url": "/pricing"
     },
     {
+      "label": "Careers",
+      "url": "/careers"
+    },
+    {
       "label": "Resources",
-      "url": "/resources"
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Forms documents and links",
+          "url": "/resources/forms-documents-and-links"
+        },
+        {
+          "label": "Refund tracker",
+          "url": "/resources/refund-tracker"
+        },
+        {
+          "label": "Blog",
+          "url": "/resources/blog"
+        },
+        {
+          "label": "SafeSend Returns",
+          "url": "/resources/safe-send-returns"
+        }
+      ]
+    },
+    {
+      "label": "Contact",
+      "url": "/contact"
     }
   ],
   "cta": {
