@@ -1,24 +1,59 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "shortName": "Korbey Lague",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "Parker Swearngin LLC",
+    "tagline": "Stay on a healthy financial path with dedicated, strategic advisory services",
+    "foundingYear": "Unknown"
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "620 SE State Route 291, Suite 106",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64063"
+    },
+    "phone": "(816) 434-6770",
+    "fax": "(816) 434-6771",
+    "email": "info@psllp.biz",
+    "hours": "Mon–Fri 9:00am–5:00pm; Sat and Sun closed"
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "primary": "#295234",
+    "secondary": "#063216",
+    "complementary": "#d8efdc",
+    "action": "#a26600",
+    "nearBlack": "#131b14",
+    "nearWhite": "#f7fbf8"
   },
-  "social": [],
-  "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "social": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/parkerswearnginllp/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/parker-swearngin-llp/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/parker-swearngin-llp/?viewAsMember=true"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.google.com/?cid=1238336497252037783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/parker-swearngin-llp"
+    }
+  ],
+  "certifications": [
+    {
+      "src": "",
+      "alt": "Lee's Summit Chamber of Commerce"
+    }
+  ],
+  "logo": {
+    "primary": "parker-swearngin-logo-llc.webp",
+    "alt": "Parker Swearngin LLC logo"
+  }
 }
