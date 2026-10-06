@@ -1,11 +1,11 @@
 ---
 title: "Personal income tax | Parker Swearngin LLC"
-url: "/services/personal-tax-prep-planning"
+url: "/personal-tax-prep-planning"
 meta_title: "Personal Income Tax Preparation Lee's Summit MO | CPA"
 meta_description: "CPA-led personal income tax preparation in Lee's Summit, MO. Secure digital filing, year-round planning, and IRS support. Schedule a consultation today."
 target_keyword: "personal income tax preparation Lee's Summit MO"
 secondary_keywords: ["tax preparation Lee's Summit","personal tax planning Lee's Summit MO","CPA personal income tax Lee's Summit","tax filing services Lee's Summit","individual tax return preparation Lee's Summit","tax prep for medical professionals Lee's Summit","tax planning real estate brokers Lee's Summit","self-employed tax preparation Lee's Summit MO","tax advisor Lee's Summit Missouri","business owner personal taxes Lee's Summit","veterinarian tax planning Lee's Summit","attorney tax preparation Lee's Summit","professional services tax Lee's Summit MO","income tax consultant Lee's Summit","retirement tax planning Lee's Summit","tax strategy Lee's Summit CPA","personal tax consultant near Lee's Summit","1099 tax preparation Lee's Summit","W2 tax filing Lee's Summit Missouri","estimated quarterly taxes Lee's Summit"]
-canonical_url: "https://parkerswearngin.com/services/personal-tax-prep-planning"
+canonical_url: "https://parkerswearngin.com/personal-tax-prep-planning"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

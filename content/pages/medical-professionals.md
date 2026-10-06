@@ -1,11 +1,11 @@
 ---
 title: "Accountant for medical professionals | Parker Swearngin LLC"
-url: "/industries/medical-professionals"
+url: "/medical-professionals"
 meta_title: "Accountant for Medical Professionals Lee's Summit MO"
 meta_description: "Accountant for medical professionals in Lee's Summit MO: CPA-led accounting, payroll, and tax for practices, one fixed monthly fee, no billing surprises."
 target_keyword: "accountant for medical professionals Lee's Summit MO"
 secondary_keywords: ["CPA for doctors Lee's Summit","tax accountant for physicians Missouri","medical practice accounting Lee's Summit","healthcare professional tax planning Lee's Summit MO","accountant for medical practices Lee's Summit","tax services for medical professionals Kansas City","dentist accountant Lee's Summit","doctor tax preparation Lee's Summit MO","medical business accounting services Lee's Summit","CPA for medical practices Kansas City","physician tax planning Lee's Summit","healthcare payroll accounting Lee's Summit MO","medical professional business tax Lee's Summit","accountant healthcare providers Lee's Summit","doctor bookkeeping services Lee's Summit MO","medical practice tax specialist Kansas City","CPA medical professionals Kansas City metro","physician accounting Lee's Summit Missouri","healthcare practice management accounting Lee's Summit","tax accounting medical professionals Lee's Summit"]
-canonical_url: "https://parkerswearngin.com/industries/medical-professionals"
+canonical_url: "https://parkerswearngin.com/medical-professionals"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

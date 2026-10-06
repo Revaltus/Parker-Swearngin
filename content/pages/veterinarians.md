@@ -1,11 +1,11 @@
 ---
 title: "Veterinary practice accounting | Parker Swearngin LLC"
-url: "/industries/veterinarians"
+url: "/veterinarians"
 meta_title: "Veterinary Practice Accounting Lee's Summit, MO | CPA"
 meta_description: "CPA-led veterinary practice accounting in Lee's Summit: bookkeeping, payroll, and tax planning for clinics at one fixed monthly fee. Schedule a consultation."
 target_keyword: "veterinary practice accounting Lee's Summit"
 secondary_keywords: ["CPA for veterinarians Lee's Summit MO","veterinary clinic accounting services","vet practice tax preparation Lee's Summit","veterinary business accounting","accounting for veterinary practices Missouri","vet practice payroll services Lee's Summit","veterinary practice bookkeeping Lee's Summit","veterinary business CPA services","vet practice entity structure analysis","veterinary business retirement planning","tax planning veterinary practice","veterinary clinic outsourced accounting"]
-canonical_url: "https://parkerswearngin.com/industries/veterinarians"
+canonical_url: "https://parkerswearngin.com/veterinarians"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

@@ -1,92 +1,112 @@
 {
   "primary": [
     {
+      "label": "Services",
+      "url": "/",
+      "children": [
+        {
+          "label": "Accounting",
+          "url": "/accounting"
+        },
+        {
+          "label": "Payroll",
+          "url": "/payroll"
+        },
+        {
+          "label": "Tax planning and preparation",
+          "url": "/tax"
+        },
+        {
+          "label": "Personal income tax",
+          "url": "/personal-tax-prep-planning"
+        }
+      ]
+    },
+    {
+      "label": "Industries",
+      "url": "/",
+      "children": [
+        {
+          "label": "Service Based Businesses",
+          "url": "/service-based-businesses"
+        },
+        {
+          "label": "Medical Professionals",
+          "url": "/medical-professionals"
+        },
+        {
+          "label": "Real estate CPA services",
+          "url": "/real-estate"
+        },
+        {
+          "label": "Veterinary practice accounting",
+          "url": "/veterinarians"
+        },
+        {
+          "label": "Professional Services",
+          "url": "/professional-services"
+        },
+        {
+          "label": "Law Firms",
+          "url": "/law-firms"
+        }
+      ]
+    },
+    {
       "label": "Who we are",
-      "url": "/who-we-are"
+      "url": "/who-we-are",
+      "children": [
+        {
+          "label": "Angela Parker",
+          "url": "/who-we-are/angela-parker"
+        },
+        {
+          "label": "Jennifer Swearngin",
+          "url": "/who-we-are/jennifer-swearngin"
+        },
+        {
+          "label": "Kathy Lange",
+          "url": "/who-we-are/kathy-lange"
+        },
+        {
+          "label": "Janet Williams",
+          "url": "/who-we-are/janet-williams"
+        }
+      ]
     },
     {
-      "label": "Angela Parker",
-      "url": "/who-we-are/angela-parker"
-    },
-    {
-      "label": "Jennifer Swearngin",
-      "url": "/who-we-are/jennifer-swearngin"
-    },
-    {
-      "label": "Kathy Lange",
-      "url": "/who-we-are/kathy-lange"
-    },
-    {
-      "label": "Janet Williams",
-      "url": "/who-we-are/janet-williams"
+      "label": "Pricing",
+      "url": "/pricing"
     },
     {
       "label": "Careers",
       "url": "/careers"
     },
     {
+      "label": "Resources",
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Forms documents and links",
+          "url": "/resources/forms-documents-and-links"
+        },
+        {
+          "label": "Refund tracker",
+          "url": "/resources/refund-tracker"
+        },
+        {
+          "label": "Blog",
+          "url": "/resources/blog"
+        },
+        {
+          "label": "SafeSend Returns",
+          "url": "/resources/safe-send-returns"
+        }
+      ]
+    },
+    {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Service Based Businesses",
-      "url": "/industries/service-based-businesses"
-    },
-    {
-      "label": "Medical Professionals",
-      "url": "/industries/medical-professionals"
-    },
-    {
-      "label": "Real estate CPA services",
-      "url": "/industries/real-estate"
-    },
-    {
-      "label": "Payroll",
-      "url": "/services/payroll"
-    },
-    {
-      "label": "Tax planning and preparation",
-      "url": "/services/tax"
-    },
-    {
-      "label": "Accounting",
-      "url": "/services/accounting"
-    },
-    {
-      "label": "Personal income tax",
-      "url": "/services/personal-tax-prep-planning"
-    },
-    {
-      "label": "Forms documents and links",
-      "url": "/resources/forms-documents-and-links"
-    },
-    {
-      "label": "Refund tracker",
-      "url": "/resources/refund-tracker"
-    },
-    {
-      "label": "Blog",
-      "url": "/resources/blog"
-    },
-    {
-      "label": "SafeSend Returns",
-      "url": "/resources/safe-send-returns"
-    },
-    {
-      "label": "Veterinary practice accounting",
-      "url": "/industries/veterinarians"
-    },
-    {
-      "label": "Law Firms",
-      "url": "/industries/law-firms"
-    },
-    {
-      "label": "Professional Services",
-      "url": "/industries/professional-services"
-    },
-    {
-      "label": "Pricing",
-      "url": "/pricing"
     }
   ],
   "cta": {
