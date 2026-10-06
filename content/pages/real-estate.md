@@ -1,11 +1,11 @@
 ---
 title: "Real estate CPA services | Parker Swearngin LLC"
-url: "/industries/real-estate"
+url: "/real-estate"
 meta_title: "CPA for Real Estate Brokers Lee's Summit MO | Tax & Payroll"
 meta_description: "Lee's Summit CPA for real estate brokers: tax planning, quarterly estimates, cost segregation, bookkeeping and payroll for a fixed monthly fee. Let's talk."
 target_keyword: "CPA for real estate brokers Lee's Summit MO"
 secondary_keywords: ["real estate broker tax services Lee's Summit","real estate agent accountant Lee's Summit","tax preparation for real estate professionals Missouri","real estate broker payroll services Lee's Summit","realtor CPA near Lee's Summit","real estate business accounting Lee's Summit","real estate agent tax deductions Missouri","real estate commission accounting","independent contractor tax planning real estate","real estate broker business tax return","real estate professional accounting services","1099 contractor accounting real estate","real estate brokerage accounting Missouri","real estate business structure advice","S-corp vs sole proprietor real estate","real estate agent retirement planning","real estate business cash flow management","real estate professional bookkeeping Lee's Summit","real estate tax strategy consultation","realtor quarterly tax payments Missouri"]
-canonical_url: "https://parkerswearngin.com/industries/real-estate"
+canonical_url: "https://parkerswearngin.com/real-estate"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
