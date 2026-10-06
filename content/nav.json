@@ -2,11 +2,51 @@
   "primary": [
     {
       "label": "Services",
-      "url": "/"
+      "url": "/",
+      "children": [
+        {
+          "label": "Payroll",
+          "url": "/payroll"
+        },
+        {
+          "label": "Tax planning and preparation",
+          "url": "/tax"
+        },
+        {
+          "label": "Accounting",
+          "url": "/accounting"
+        },
+        {
+          "label": "Personal income tax",
+          "url": "/personal-tax-prep-planning"
+        }
+      ]
     },
     {
       "label": "Industries",
-      "url": "/"
+      "url": "/",
+      "children": [
+        {
+          "label": "Service Based Businesses",
+          "url": "/service-based-businesses"
+        },
+        {
+          "label": "Medical Professionals",
+          "url": "/medical-professionals"
+        },
+        {
+          "label": "Real estate CPA services",
+          "url": "/real-estate"
+        },
+        {
+          "label": "Veterinary practice accounting",
+          "url": "/veterinarians"
+        },
+        {
+          "label": "Professional Services",
+          "url": "/professional-services"
+        }
+      ]
     },
     {
       "label": "Who we are",
@@ -39,34 +79,6 @@
       "url": "/contact"
     },
     {
-      "label": "Service Based Businesses",
-      "url": "/industries/service-based-businesses"
-    },
-    {
-      "label": "Medical Professionals",
-      "url": "/industries/medical-professionals"
-    },
-    {
-      "label": "Real estate CPA services",
-      "url": "/industries/real-estate"
-    },
-    {
-      "label": "Payroll",
-      "url": "/services/payroll"
-    },
-    {
-      "label": "Tax planning and preparation",
-      "url": "/services/tax"
-    },
-    {
-      "label": "Accounting",
-      "url": "/services/accounting"
-    },
-    {
-      "label": "Personal income tax",
-      "url": "/services/personal-tax-prep-planning"
-    },
-    {
       "label": "Forms documents and links",
       "url": "/resources/forms-documents-and-links"
     },
@@ -83,20 +95,16 @@
       "url": "/resources/safe-send-returns"
     },
     {
-      "label": "Veterinary practice accounting",
-      "url": "/industries/veterinarians"
-    },
-    {
       "label": "Law Firms",
       "url": "/industries/law-firms"
     },
     {
-      "label": "Professional Services",
-      "url": "/industries/professional-services"
-    },
-    {
       "label": "Pricing",
       "url": "/pricing"
+    },
+    {
+      "label": "Resources",
+      "url": "/resources"
     }
   ],
   "cta": {
