@@ -1,6 +1,14 @@
 {
   "primary": [
     {
+      "label": "Services",
+      "url": "/"
+    },
+    {
+      "label": "Industries",
+      "url": "/"
+    },
+    {
       "label": "Who we are",
       "url": "/who-we-are",
       "children": [
@@ -89,10 +97,6 @@
     {
       "label": "Pricing",
       "url": "/pricing"
-    },
-    {
-      "label": "What We Do",
-      "url": "/"
     }
   ],
   "cta": {
