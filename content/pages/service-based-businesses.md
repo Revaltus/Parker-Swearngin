@@ -1,11 +1,11 @@
 ---
 title: "Accounting for service based businesses | Parker Swearngin LLC"
-url: "/industries/service-based-businesses"
+url: "/service-based-businesses"
 meta_title: "Accounting for Service Based Businesses Lee's Summit MO"
 meta_description: "CPA-led accounting, payroll and tax for HVAC, drywall, concrete and asphalt subcontractors in Lee's Summit MO. One team, one monthly fee, no billing surprises."
 target_keyword: "accounting for service based businesses Lee's Summit MO"
 secondary_keywords: ["service business accountant Lee's Summit","CPA for service industry businesses Missouri","payroll services for service based companies Lee's Summit","business tax for service businesses Lee's Summit MO","outsourced accounting service businesses Lee's Summit","bookkeeping service businesses Lee's Summit MO","tax planning service industry Lee's Summit","entity type selection service business Lee's Summit","accounting advisor service businesses Lee's Summit","CPA for service based businesses near Lee's Summit MO"]
-canonical_url: "https://parkerswearngin.com/industries/service-based-businesses"
+canonical_url: "https://parkerswearngin.com/service-based-businesses"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
