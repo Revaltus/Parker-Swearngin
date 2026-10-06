@@ -2,23 +2,25 @@
   "primary": [
     {
       "label": "Who we are",
-      "url": "/who-we-are"
-    },
-    {
-      "label": "Angela Parker",
-      "url": "/who-we-are/angela-parker"
-    },
-    {
-      "label": "Jennifer Swearngin",
-      "url": "/who-we-are/jennifer-swearngin"
-    },
-    {
-      "label": "Kathy Lange",
-      "url": "/who-we-are/kathy-lange"
-    },
-    {
-      "label": "Janet Williams",
-      "url": "/who-we-are/janet-williams"
+      "url": "/who-we-are",
+      "children": [
+        {
+          "label": "Angela Parker",
+          "url": "/who-we-are/angela-parker"
+        },
+        {
+          "label": "Jennifer Swearngin",
+          "url": "/who-we-are/jennifer-swearngin"
+        },
+        {
+          "label": "Kathy Lange",
+          "url": "/who-we-are/kathy-lange"
+        },
+        {
+          "label": "Janet Williams",
+          "url": "/who-we-are/janet-williams"
+        }
+      ]
     },
     {
       "label": "Careers",
@@ -87,6 +89,10 @@
     {
       "label": "Pricing",
       "url": "/pricing"
+    },
+    {
+      "label": "What We Do",
+      "url": "/"
     }
   ],
   "cta": {
