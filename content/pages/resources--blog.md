@@ -1,8 +1,8 @@
 ---
 title: "Blog | Parker Swearngin LLC"
 url: "/resources/blog"
-meta_title: "CPA in Lee's Summit MO Blog | Parker Swearngin LLC"
-meta_description: "Plain-English tax, bookkeeping, payroll and advisory articles from a CPA in Lee's Summit MO team serving KC area owners. Fixed monthly fees, no surprises."
+meta_title: "CPA in Lee's Summit MO Blog | Parker Swearngin, LLP"
+meta_description: "Plain-English tax, bookkeeping, payroll and advisory articles from our CPA team in Lee's Summit MO, serving KC area owners. Fixed monthly fees, no surprises."
 target_keyword: "CPA in Lee's Summit MO"
 secondary_keywords: ["accounting services Lee's Summit Missouri","business tax preparation Lee's Summit","payroll services Lee's Summit MO","accountant for law firms Lee's Summit","veterinary practice accounting Lee's Summit","CPA for medical professionals Missouri","real estate broker tax services Missouri","bookkeeping and accounting Lee's Summit MO","business tax strategy Missouri","accounting system setup Lee's Summit","retirement plan analysis Missouri","entity formation and tax planning Lee's Summit","credit card rewards optimization CPA","Kansas City area CPA Lee's Summit"]
 canonical_url: "https://parkerswearngin.com/resources/blog"
@@ -27,7 +27,7 @@ Most owners don't need another 3,000-word tax explainer. They need to know what 
 ### Law firms
 icon: Scale
 
-IOLTA and trust accounting, uneven cash flow from contingency and billing cycles, and Clio integrated with QuickBooks. Built for anyone searching for an accountant for law firms in Lee's Summit. [Read law firm articles](/industries/law-firms)
+IOLTA and trust accounting, uneven cash flow from contingency and billing cycles, and Clio integrated with QuickBooks. Written for attorneys and practices looking for an accountant for law firms in Lee's Summit. [Read law firm articles](/industries/law-firms)
 
 ### Medical professionals
 icon: Stethoscope
@@ -55,7 +55,7 @@ icon: Wrench
 HVAC, drywall, concrete and asphalt owners: slow-paying general contractors, progress billing, and 1099 sub tracking that keeps payroll on time. [Read service-based business articles](/industries/service-based-businesses)
 
 <!-- block: content-prose -->
-## Missouri and Kansas tax updates that affect KC area businesses
+## Which Missouri and Kansas tax updates affect KC area businesses?
 
 Tax news is only useful if it tells you what to do. So our recurring series on state and regional tax issues follows the same short format every time:
 
@@ -66,7 +66,7 @@ Tax news is only useful if it tells you what to do. So our recurring series on s
 The series is written for owners in Lee's Summit, Kansas City MO and the KC metro, including those who cross the state line and file in both Missouri and Kansas. It covers business tax preparation in Lee's Summit and the bigger question of business tax strategy in Missouri. Everything is firm-authored. When we point to an outside source, it comes with a short intro and a team byline, so you hear our view and not a reprint.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Advisory topics for owners making bigger decisions
+## What business advisory help do owners need for bigger decisions?
 
 Business advisory and consulting is part of what we do alongside tax and accounting. These four topics come up most when an owner is about to make a bigger decision.
 
@@ -97,7 +97,7 @@ This is the practical track. Clean, current books are what let you see your cash
 
 The payroll guides cover scheduled payrolls, employee setup, salary changes, W2 and 1099 processing and filings, so a missed payment or a surprise tax bill stays off your calendar. If you want the service itself, see our [accounting](/services/accounting) and [payroll](/services/payroll) pages for payroll services in Lee's Summit MO.
 
-Because we bundle these services for a fixed monthly fee, the guides say plainly what a task takes and what it costs you: nothing extra. No billing surprises.
+Because we bundle these services for a fixed monthly fee, the guides say plainly what a task takes, and the fixed fee means no billing surprises.
 
 <!-- block: content-prose -->
 ## Real client stories from the KC area
@@ -133,7 +133,7 @@ A: Yes. Send your question through the contact page and our team will answer it 
 
 Have a tax, payroll or books question you'd like answered? Send it in. The best ones become future articles. Want pricing? You get a dedicated point of contact and bundled services for one fixed monthly fee.
 
-Sign up below for new articles in your inbox, or [Schedule a consultation](/contact) to talk with the team. You can also call the office or send your question through the contact page.
+Sign up below for new articles in your inbox, or [schedule a consultation](/contact) to talk with the team. You can also call the office or send your question through the contact page.
 
 ---
 ## SEO & AIO Metadata
@@ -286,9 +286,9 @@ Parker Swearngin LLC, a CPA firm in Lee's Summit, MO, publishes firm-authored ta
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "CPA in Lee's Summit MO Blog | Parker Swearngin LLC",
+  "name": "CPA in Lee's Summit MO Blog | Parker Swearngin, LLP",
   "url": "https://parkerswearngin.com/resources/blog",
-  "description": "Plain-English tax, bookkeeping, payroll and advisory articles from a CPA in Lee's Summit MO team serving KC area owners. Fixed monthly fees, no surprises.",
+  "description": "Plain-English tax, bookkeeping, payroll and advisory articles from our CPA team in Lee's Summit MO, serving KC area owners. Fixed monthly fees, no surprises.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",

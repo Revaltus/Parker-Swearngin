@@ -2,7 +2,7 @@
 title: "Home | Parker Swearngin LLC"
 url: "/"
 meta_title: "CPA in Lee's Summit MO | Fixed-Fee Accounting & Tax"
-meta_description: "Parker Swearngin is a CPA firm in Lee's Summit MO offering accounting, payroll and tax for one fixed monthly fee. Personal attention, no billing surprises."
+meta_description: "Parker Swearngin is a CPA in Lee's Summit MO. Accounting, payroll and tax for one fixed monthly fee, no billing surprises. Schedule a conversation today."
 target_keyword: "CPA in Lee's Summit MO"
 secondary_keywords: ["accountant Lee's Summit Missouri","business tax CPA Lee's Summit","payroll services Lee's Summit MO","outsourced accounting Lee's Summit","CPA for medical professionals Lee's Summit","accountant for real estate brokers Lee's Summit","business accounting services Lee's Summit MO","small business CPA Lee's Summit","tax preparation Lee's Summit Missouri","veterinarian accountant Lee's Summit","law firm accounting Lee's Summit MO","business tax planning Lee's Summit","accounting system setup Lee's Summit","retirement planning CPA Lee's Summit","payroll processing Lee's Summit MO","business consultant Lee's Summit Missouri","service-based business accountant Lee's Summit","cash management services Lee's Summit","professional services accountant Lee's Summit MO","business bookkeeping Lee's Summit","entity structure planning Lee's Summit","tax advisor Lee's Summit Missouri","business accounting firm Lee's Summit MO"]
 canonical_url: "https://parkerswearngin.com/"
@@ -26,7 +26,7 @@ llm_citation_note: "Parker Swearngin is a Lee's Summit, MO CPA firm that bundles
 
 You hired an accountant to take stress off your plate. Then an invoice arrived that was twice what you expected, or a tax bill showed up that nobody warned you about. Both are avoidable.
 
-Parker Swearngin is a CPA in Lee's Summit MO that bundles accounting, payroll and tax into one fixed monthly fee. You know the cost before the work starts. A team of seasoned tax professionals studies your numbers closely, and you get personal attention all year, not only in March. For owners looking for a small business CPA in Lee's Summit, that is how you stay on a healthy financial path.
+Parker Swearngin is a CPA firm in Lee's Summit MO that bundles accounting, payroll and tax into one fixed monthly fee. You know the cost before the work starts. A team of seasoned tax professionals studies your numbers closely, and you get personal attention all year, not only at tax time. For owners looking for a small business CPA in Lee's Summit, that is how you stay on a healthy financial path.
 
 [Schedule a consultation](/contact) | [See how the services fit together](/services/accounting)
 
@@ -36,31 +36,31 @@ Parker Swearngin is a CPA in Lee's Summit MO that bundles accounting, payroll an
 ### Accounting
 icon: Calculator
 
-Daily transaction classification, expense tracking and reporting, so your books are current when you need them. Business bookkeeping and outsourced accounting in Lee's Summit without the month-end scramble. [Learn more](/services/accounting)
+Daily transaction classification, expense tracking and reporting, so your books are current when you need them. Business bookkeeping and outsourced accounting in Lee's Summit without the month-end scramble. [Learn more about accounting services](/services/accounting)
 
 ### Payroll
 icon: Users
 
-Scheduled payrolls, employee setup, filings, W2 and 1099 processing and time tracking. Payroll services in Lee's Summit MO that stop deadlines from sneaking up on you. [Learn more](/services/payroll)
+Scheduled payrolls, employee setup, filings, W2 and 1099 processing and time tracking. Payroll services in Lee's Summit MO that stop deadlines from sneaking up on you. [Learn more about payroll services](/services/payroll)
 
 ### Business tax
 icon: Building2
 
-Tax preparation, planning, electronic filing and year-round advice. A business tax CPA in Lee's Summit who talks to you before the deadline, not after it. [Learn more](/services/tax)
+Tax preparation, planning, electronic filing and year-round advice. A business tax CPA in Lee's Summit who talks to you before the deadline, not after it. [Learn more about business tax services](/services/tax)
 
 ### Personal income tax
 icon: FileCheck
 
-Upload documents digitally, sign and file securely, and reach us all year with questions. Tax preparation in Lee's Summit, Missouri that feels organized instead of rushed. [Learn more](/services/personal-tax-prep-planning)
+Upload documents digitally, sign and file securely, and reach us all year with questions. Tax preparation in Lee's Summit, Missouri that feels organized instead of rushed. [Learn more about personal income tax services](/services/personal-tax-prep-planning)
 
 <!-- block: content-split | variant: image-left | image: business-advisory-planning.jpg | alt: "Advisor and business owner reviewing entity structure options on a laptop" | query: "business consultant reviewing plans with client" -->
 ## Entity, retirement and system decisions that move your cash and taxes
 
-The return is the last step. The decisions that shape it come earlier, and the firm advises on them as business consultants to Lee's Summit, Missouri owners.
+The return is the last step. The decisions that shape it come earlier, and the firm advises Lee's Summit, Missouri owners on them as business consultants.
 
-- **Entity Type Analysis.** The wrong entity can mean paying more tax than you owe, so we model the options before you commit to entity structure planning.
-- **Accounting System Setup.** A clean system from day one keeps your cash position visible and your bookkeeping costs down.
-- **Retirement Plan Analysis.** The right plan lowers this year's taxable income while building your own future, which makes it central to retirement planning with a CPA.
+- **Entity Type Analysis.** The wrong entity can mean paying more tax than necessary, so we model the options as part of entity structure planning before you commit.
+- **Accounting System Setup.** A clean system from day one keeps your cash position visible and your books easy to maintain.
+- **Retirement Plan Analysis.** The right plan lowers this year's taxable income while you build toward retirement, and a CPA can compare the options with you.
 - **Credit Card Rewards.** Points and cash back are worth real money when you pick cards that fit how the business spends.
 
 The team also handles new company setup and IRS examinations. When things get complicated, the firm stays at your side.
@@ -68,7 +68,7 @@ The team also handles new company setup and IRS examinations. When things get co
 [Explore business tax and advisory](/services/tax) | [Explore accounting system setup](/services/accounting)
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for the way your industry earns
+## Which industries does our Lee's Summit CPA firm serve?
 
 ### Law firms
 icon: Scale
@@ -93,7 +93,7 @@ Commission income arrives unevenly and estimated taxes are easy to miss. Cost Se
 ### Professional services
 icon: Briefcase
 
-Engineers and architects see uneven project revenue and need to track WIP and project profitability. Principals finally see which jobs actually pay. [See professional services](/industries/professional-services)
+Engineers and architects see uneven project revenue and need to track WIP and project profitability. Principals can see which projects are profitable. [See professional services](/industries/professional-services)
 
 ### Service-based businesses
 icon: Wrench
@@ -101,9 +101,9 @@ icon: Wrench
 Subcontractors in drywall, HVAC, concrete and asphalt wait on slow-paying GCs while payroll and 1099 subs still need tracking. One team keeps cash visible and compliance current. [See service-based business support](/industries/service-based-businesses)
 
 <!-- block: checklist-section | variant: with-image | image: client-review-meeting.jpg | alt: "Accounting team and returning client smiling during an annual review meeting" | query: "accounting team client review meeting" -->
-## Why clients stay with us year after year
+## Why do clients stay with our Lee's Summit CPA firm year after year?
 
-Some firms hand you off to a junior after the sales call, or disappear between tax deadlines. Parker Swearngin works the other way, and the client base shows it by returning every year.
+Some firms hand you off to a junior after the sales call, or disappear between tax deadlines. Parker Swearngin, LLP works the other way, and the client base shows it by returning every year.
 
 - Expertise, experience and a team mentality, so every client gets close analysis from more than one set of eyes
 - Seasoned tax professionals who know your return and your industry
@@ -113,14 +113,14 @@ Some firms hand you off to a junior after the sales call, or disappear between t
 
 <!-- Developer: reserve space here for verified Google reviews, client testimonials or credentials once the client supplies them. Do not publish placeholder ratings. -->
 
-When you are ready to see how that feels, [start a conversation](/contact).
+If this is the kind of attention you want, [start a conversation](/contact).
 
 <!-- block: content-prose -->
 ## Local to Lee's Summit, serving the KC metro
 
-Parker Swearngin is one of the leading firms in Lee's Summit, and the esteem we have earned in this community matters more to us than any ad. The firm is a Lee's Summit Chamber of Commerce member. Whether you need an accountant in Lee's Summit, Missouri or a business accounting firm in Lee's Summit MO, the team is nearby.
+Parker Swearngin, LLP is one of the leading firms in Lee's Summit, and the esteem the firm has earned in this community matters deeply to the team. The firm is a Lee's Summit Chamber of Commerce member. Whether you need an accountant in Lee's Summit, Missouri or a business accounting firm in Lee's Summit MO, the team is nearby.
 
-The firm also serves Kansas City, MO, the KC metro, Kansas, Missouri and surrounding areas. Know a colleague who is tired of surprise invoices? Send them our way. Referrals are how many good client relationships begin.
+The firm also serves Kansas City, MO, the KC metro, Kansas, Missouri and surrounding areas. Know a colleague who is tired of surprise invoices? Send them our way. Referrals are always welcome.
 
 <!-- Developer: insert embedded map and office address from brand.json here. -->
 
@@ -147,7 +147,7 @@ A: You describe where your finances feel stuck, whether that is a cash crunch, a
 
 A cash crunch. A tax bill you did not see coming. An accountant who stopped returning calls. Books that have not kept pace with growth. Any of these is reason enough to talk.
 
-The first step is a conversation. You tell us what is going on, we ask the questions that matter, and then you get a fixed monthly quote. No pressure and no surprises.
+The first step is a conversation. You tell us what is going on, we ask the questions that matter, and then you get a fixed monthly quote. There is no pressure, and the quote stays the same each month.
 
 [Schedule a consultation](/contact) | [Call the office](tel:{{firm.phone}})
 
@@ -306,7 +306,7 @@ Parker Swearngin is a Lee's Summit, MO CPA firm that bundles accounting, payroll
   "@type": "WebPage",
   "name": "CPA in Lee's Summit MO | Fixed-Fee Accounting & Tax",
   "url": "https://parkerswearngin.com/",
-  "description": "Parker Swearngin is a CPA firm in Lee's Summit MO offering accounting, payroll and tax for one fixed monthly fee. Personal attention, no billing surprises.",
+  "description": "Parker Swearngin is a CPA in Lee's Summit MO. Accounting, payroll and tax for one fixed monthly fee, no billing surprises. Schedule a conversation today.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",

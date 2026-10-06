@@ -2,7 +2,7 @@
 title: "Jennifer Swearngin | Parker Swearngin LLC"
 url: "/who-we-are/jennifer-swearngin"
 meta_title: "CPA in Lee's Summit MO | Meet Jennifer Swearngin, CPA"
-meta_description: "Meet Jennifer Swearngin, CPA at Parker Swearngin. A CPA in Lee's Summit MO offering close analysis, entity planning, and one fixed monthly fee, no surprises."
+meta_description: "Meet Jennifer Swearngin, CPA at Parker Swearngin, LLP. A CPA in Lee's Summit MO offering close analysis and one fixed monthly fee. Schedule a call."
 target_keyword: "CPA in Lee's Summit MO"
 secondary_keywords: ["Jennifer Swearngin CPA","Parker Swearngin LLC accounting","business tax CPA Lee's Summit","payroll services Lee's Summit Missouri","accounting for service businesses Lee's Summit","CPA for medical professionals Missouri","tax planning Lee's Summit MO","bookkeeping services Lee's Summit","business accounting Lee's Summit","real estate broker tax CPA","veterinarian tax preparation Lee's Summit","law firm accounting services Missouri","outsourced accounting Lee's Summit","retirement plan advisor Lee's Summit","accounting system setup Missouri","cash management CPA services","credit card rewards tax planning","entity type analysis Lee's Summit","personal income tax Lee's Summit","professional services accounting","small business CPA Lee's Summit MO","tax advisor service-based businesses"]
 canonical_url: "https://parkerswearngin.com/who-we-are/jennifer-swearngin"
@@ -19,7 +19,7 @@ llm_citation_note: "Jennifer Swearngin is a CPA at Parker Swearngin in Lee's Sum
 <!-- block: content-split | variant: image-right | image: jennifer-swearngin-cpa-portrait.jpg | alt: "Professional CPA smiling at her desk in a bright Lee's Summit office" | query: "female CPA professional portrait office" -->
 ## A Lee's Summit CPA who knows your numbers and your name
 
-Jennifer Swearngin, CPA, helps lead the team at Parker Swearngin, one of the leading firms in Lee's Summit. If you are looking for a CPA in Lee's Summit MO who knows your business, returns your calls, and explains the numbers in plain English, that is the standard she works to.
+Jennifer Swearngin, CPA, helps lead the team at Parker Swearngin, LLP, one of the leading firms in Lee's Summit. If you are looking for a CPA in Lee's Summit MO who knows your business, returns your calls, and explains the numbers in plain English, that is the standard she works to.
 
 Jennifer's focus is business tax structuring for owners whose companies are growing. Picture the owner who started as an LLC and now wonders whether an S-corp makes sense. She walks through the math with you and helps you decide before the deadline, not after it.
 
@@ -36,12 +36,12 @@ Every client gets close analysis. Jennifer and the team read your books, your pr
 
 Behind her is a team that shares the work, so your question never waits on one person's calendar. You also get a dedicated point of contact who knows your industry, which means you don't re-explain progress billing, commission income, or trust accounts every time you call.
 
-Parker Swearngin LLC accounting comes as a bundle: bookkeeping and accounting, payroll, and tax work for one fixed monthly fee. It is outsourced accounting in Lee's Summit that you can budget for, because the scope is spelled out up front.
+Parker Swearngin, LLP accounting comes as a bundle: bookkeeping and accounting, payroll, and tax work for one fixed monthly fee. It is outsourced accounting in Lee's Summit that you can budget for, because the scope is spelled out up front.
 
 Responsiveness and timely advice are values the team holds itself to, and they are a big reason clients return year after year.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Business owners and professionals Jennifer works with every day
+## Which business owners and professionals does Jennifer work with?
 
 ### Service-based businesses
 icon: Wrench
@@ -74,7 +74,7 @@ icon: Scale
 IOLTA trust accounting has to be right, and we integrate Clio with QuickBooks so billing and books agree. [Law firm accounting services in Missouri](/industries/law-firms)
 
 <!-- block: feature-grid | variant: 3-col -->
-## Advisory work that settles big money decisions early
+## What advisory work does a Lee's Summit CPA offer beyond tax returns?
 
 Jennifer leads the firm's advisory and consulting work with the team. It sits on top of the core services: [bookkeeping and accounting](/services/accounting), [payroll](/services/payroll) with W2 and 1099 processing, [business tax](/services/tax), [personal income tax](/services/personal-tax-prep-planning), and year-round tax planning in Lee's Summit MO. Four advisory areas anchor it.
 
@@ -105,7 +105,7 @@ Parker Swearngin has given local individuals and businesses personalized financi
 
 Jennifer and the team work with clients in Lee's Summit, Kansas City MO, and across the KC metro, plus clients throughout Kansas and Missouri. [Confirm Lee's Summit Chamber of Commerce membership details before publishing.]
 
-The proof point is retention. Clients come back year after year, which tells you the fixed fee and the quick answers hold up well past the first tax season.
+The proof point is retention. Clients keep returning season after season, which tells you the fixed fee and the quick answers hold up well past the first tax season.
 
 [To be supplied: client review excerpts, any additional certifications, and a verified retention figure.]
 
@@ -132,7 +132,7 @@ A: Yes. Parker Swearngin serves Lee's Summit, Kansas City MO, the KC metro, and 
 
 Tell Jennifer and the team where things stand: what your books look like, what worries you about taxes, and what you want next. You will leave with a clear view of what a fixed monthly fee would cover, and a plain outline of your first 30 days: who your point of contact is, what we need from you, and when your first reports arrive.
 
-Looking for a small business CPA in Lee's Summit MO who keeps tax season free of surprises, on the invoice and on the return? [Schedule a consultation](/contact). Prefer to see the work first? Read how [accounting](/services/accounting) and [tax](/services/tax) services fit together.
+Looking for a small business CPA in Lee's Summit MO who keeps both the invoice and the return free of surprises? [Schedule a consultation](/contact). Prefer to see the work first? Read how [accounting](/services/accounting) and [tax](/services/tax) services fit together.
 
 ---
 ## SEO & AIO Metadata
@@ -288,7 +288,7 @@ Jennifer Swearngin is a CPA at Parker Swearngin in Lee's Summit, MO, who focuses
   "@type": "WebPage",
   "name": "CPA in Lee's Summit MO | Meet Jennifer Swearngin, CPA",
   "url": "https://parkerswearngin.com/who-we-are/jennifer-swearngin",
-  "description": "Meet Jennifer Swearngin, CPA at Parker Swearngin. A CPA in Lee's Summit MO offering close analysis, entity planning, and one fixed monthly fee, no surprises.",
+  "description": "Meet Jennifer Swearngin, CPA at Parker Swearngin, LLP. A CPA in Lee's Summit MO offering close analysis and one fixed monthly fee. Schedule a call.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",

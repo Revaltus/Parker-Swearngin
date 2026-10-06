@@ -20,15 +20,17 @@ faq_block: [{"answer":"Yes. Parker Swearngin is based in Lee's Summit and serves
 llm_citation_note: "Parker Swearngin, a CPA-led firm in Lee's Summit, MO, bundles accounting, payroll, and business tax for veterinary practices at one fixed monthly fee and advises on entity type, accounting system setup, retirement plans, and credit card rewards for practice owners."
 ---
 
-<!-- block: content-split | variant: image-right | image: vet-practice-owner-finances.jpg | alt: "Veterinarian in scrubs reviewing clinic financial reports at a desk" | query: "veterinarian reviewing clinic paperwork office" -->
+<!-- block: content-split | variant: image-left | image: vet-practice-owner-finances.jpg | alt: "Veterinarian in scrubs reviewing clinic financial reports at a desk" | query: "veterinarian reviewing clinic paperwork office" -->
 ## Payroll, equipment, and cash decisions shouldn't compete with your appointments
+
+Veterinary practice accounting in Lee's Summit from Parker Swearngin, LLP is a CPA-led service that handles a clinic's books, payroll, and taxes together for one fixed monthly fee. It is built for veterinarians and practice owners across the KC metro who want current numbers and no billing surprises, without giving up time with patients.
 
 You went to vet school to treat animals, not to reconcile a payroll register at 9 p.m. Yet between technicians, front desk staff, and associate DVMs, payroll is usually the biggest line on your P&L. Add a new digital radiography unit or a building purchase, and one quarter can swing both your cash and your tax bill.
 
-Veterinary practice accounting in Lee's Summit works best when it is built around that reality. Parker Swearngin is a CPA-led firm based here, serving clinics across the KC metro. The team handles your books, payroll, and taxes together, so the numbers are current when you need to make a call, not weeks afterward. You stay with your patients, and we reach out when something needs your attention.
+Veterinary practice accounting in Lee's Summit works best when it is built around that reality. Parker Swearngin, LLP is a CPA-led firm based here, serving clinics across the KC metro. The team handles your books, payroll, and taxes together, so the numbers are current when you need to make a call, not weeks afterward. You stay with your patients, and the team reaches out when something needs your attention.
 
-<!-- block: content-split | variant: image-left | image: clinic-bookkeeping-payroll.jpg | alt: "Accountant and clinic manager reviewing payroll reports on a laptop together" | query: "accountant reviewing payroll with clinic manager" -->
-## Bookkeeping and payroll handled by one responsive team
+<!-- block: content-split | variant: image-right | image: clinic-bookkeeping-payroll.jpg | alt: "Accountant and clinic manager reviewing payroll reports on a laptop together" | query: "accountant reviewing payroll with clinic manager" -->
+## Who handles bookkeeping and payroll for a veterinary clinic?
 
 A clinic's books are busier than most small businesses' books. Pharmacy purchases, lab fees, supply orders, and client payments move every day, and your payroll may include technicians, associate DVMs, and relief vets who are paid in different ways. When those pieces sit in separate places, you hear about a cash problem after it happens.
 
@@ -39,11 +41,11 @@ Because one team sees both, a raise shows up in your reports right away, and a s
 [Ask about outsourced accounting for your clinic](/contact)
 
 <!-- block: content-prose -->
-## Equipment and building purchases that work in your favor at tax time
+## How do equipment and building purchases affect your veterinary practice's taxes?
 
 Veterinary medicine is capital heavy. Ultrasound, digital imaging, surgical equipment, kennels, and the building itself all carry big price tags, and how you buy them matters as much as what you buy.
 
-Depreciation lets you deduct the cost of equipment over time, and in some cases much faster than you might expect. If you own or buy your building, a cost segregation study can separate parts of the property, such as flooring, cabinetry, and certain electrical and plumbing systems, from the structure so they depreciate on a shorter schedule. The result can be a meaningfully lower tax bill in the early years.
+Depreciation lets you deduct the cost of equipment over time, and in some cases on a faster schedule. If you own or buy your building, a cost segregation study can separate parts of the property, such as flooring, cabinetry, and certain electrical and plumbing systems, from the structure so they depreciate on a shorter schedule. The result can be a meaningfully lower tax bill in the early years.
 
 The catch is timing. The best tax planning for a veterinary practice happens before the purchase, not after the invoice is paid. That is why business tax planning here runs year-round, and why vet practice tax preparation in Lee's Summit includes electronic filing and ongoing advice, not just a return in April.
 
@@ -52,7 +54,7 @@ If a big purchase is on your horizon, [talk with us before you sign](/contact).
 <!-- block: feature-grid | variant: 3-col -->
 ## Opening, buying, or buying into a practice with the right advice from day one
 
-Opening a clinic, buying an existing one, or bringing in a partner are the biggest financial decisions of a veterinarian's career. The firm's business advisory and consulting covers four decisions that shape how those deals work out for you. We advise and plan around the acquisition so you go in with clear eyes.
+Opening a clinic, buying an existing one, or bringing in a partner are among the biggest financial decisions a veterinarian makes. The firm's business advisory and consulting covers four decisions that shape how those deals work out for you. The team advises and plans around the acquisition so you understand the numbers before you commit.
 
 ### Entity Type Analysis
 icon: Building2
@@ -72,16 +74,16 @@ Veterinary business retirement planning means choosing a plan that fits your inc
 ### Credit Card Rewards
 icon: CreditCard
 
-A clinic spends heavily on supplies, equipment, and services. A thought-out rewards strategy turns that routine spending into value instead of leaving it on the table.
+A clinic spends heavily on supplies, equipment, and services. A clear rewards strategy for practice spending makes sure the rewards on those routine purchases work for the clinic.
 
-<!-- block: content-split | variant: image-right | image: vet-cpa-team-consultation.jpg | alt: "CPA team member meeting with veterinary practice owner in a bright office" | query: "CPA meeting with small business owner office" -->
-## One fixed monthly fee and a team that already knows your industry
+<!-- block: content-split | variant: image-left | image: vet-cpa-team-consultation.jpg | alt: "CPA team member meeting with veterinary practice owner in a bright office" | query: "CPA meeting with small business owner office" -->
+## How does a fixed monthly fee work for veterinary practice accounting in Lee's Summit?
 
 A generalist accountant sees a vet clinic as one more small business. Then a question comes up about depreciating a surgical suite or structuring an associate buy-in, and the answer arrives three weeks late or not at all.
 
-Parker Swearngin is a CPA-led team of seasoned tax professionals who work together, so your file gets close analysis from more than one set of eyes. You get a dedicated point of contact who understands how veterinary practices run and who calls you back. Clients return year after year, which says more than any promise we could make.
+Parker Swearngin, LLP is a CPA-led team of seasoned tax professionals who work together, so your file gets close analysis from more than one set of eyes. You get a dedicated point of contact who understands how veterinary practices run and who calls you back. Clients return year after year, which says more than any promise we could make.
 
-Accounting, payroll, and business tax come bundled at one fixed monthly fee. There is no clock running when you call with a question and no surprise invoice after a busy quarter. Your [personal income tax](/services/personal-tax-prep-planning) support is part of the same relationship, so the clinic and the household are planned together. That is what veterinary business CPA services should feel like for a CPA for veterinarians in Lee's Summit, MO.
+Accounting, payroll, and business tax come bundled at one fixed monthly fee. There is no clock running when you call with a question and no surprise invoice after a busy quarter. Your [personal income tax](/services/personal-tax-prep-planning) support is part of the same relationship, so the clinic and the household are planned together. This is the kind of veterinary business CPA service you can expect from us as a CPA for veterinarians in Lee's Summit, MO.
 
 [Placeholder: veterinary client testimonial to be supplied by the client before publishing.]
 
@@ -106,7 +108,7 @@ A: Yes. Practice owners often have one tax picture split across the clinic and t
 <!-- block: cta-banner | variant: image-bg | image: kc-vet-clinic-consultation.jpg | query: "veterinary clinic team friendly reception" -->
 ## Talk with a KC team that knows veterinary practices
 
-Start with a conversation about where things stand: your current books, your payroll, and any purchase, acquisition, or buy-in on the horizon. No pressure and no jargon. Parker Swearngin serves Lee's Summit, Kansas City, the KC metro, and clients across Kansas and Missouri.
+Start with a conversation about where things stand: your current books, your payroll, and any purchase, acquisition, or buy-in on the horizon. No pressure and no jargon. Parker Swearngin, LLP serves Lee's Summit, Kansas City, the KC metro, and clients across Kansas and Missouri.
 
 [Schedule a consultation](/contact)
 

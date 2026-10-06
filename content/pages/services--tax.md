@@ -20,17 +20,17 @@ faq_block: [{"answer":"It covers returns for partnerships, corporations, S-corps
 llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, offers business tax preparation, tax planning, electronic filing, and year-round tax advice, and can bundle tax with accounting and payroll for one fixed monthly fee with no billing surprises."
 ---
 
-<!-- block: content-split | variant: image-right | image: business-tax-document-review.jpg | alt: "Accountant and business owner reviewing tax documents together at a desk" | query: "accountant business owner reviewing tax documents" -->
+<!-- block: content-split | variant: image-left | image: business-tax-document-review.jpg | alt: "Accountant and business owner reviewing tax documents together at a desk" | query: "accountant business owner reviewing tax documents" -->
 ## Tax preparation and electronic filing without the April scramble
 
-Most owners don't dread the return itself. They dread the handoff: a bookkeeper passes along a half-finished year in March, and everyone races to file.
+Parker Swearngin, LLP provides business tax preparation in Lee's Summit, MO for partnerships, corporations, S-corps, and other pass-through entities, plus the individual returns tied to them. Seasoned tax professionals review documents uploaded through a secure portal, you sign electronically, and the team files electronically, all from books kept current all year.
 
-Our business tax preparation covers partnerships, corporations, S-corps, and other pass-through entities, along with the individual returns tied to them. The return is built from books kept current all year, so there is little to untangle at filing time. Whether you need business tax filing in Lee's Summit, MO or a small business tax CPA who answers the phone, the process is the same.
+Our business tax preparation covers partnerships, corporations, S-corps, and other pass-through entities, along with the individual returns tied to them. The return is built from books kept current all year, so there is little to untangle at filing time. Whether you need business tax filing in Lee's Summit, MO or a small business tax CPA, the process is the same.
 
 It runs digitally from start to finish. You upload documents through a secure portal. Seasoned tax professionals review everything, flag what's missing, and ask questions early instead of the night before a deadline. You sign electronically, and the team files electronically. No folders to drop off, no waiting on the mail.
 
-<!-- block: content-split | variant: image-left | image: year-round-tax-planning.jpg | alt: "Two professionals reviewing quarterly tax projections on a laptop in an office" | query: "tax planning meeting laptop office" -->
-## Tax planning that happens before the bill arrives
+<!-- block: content-split | variant: image-right | image: year-round-tax-planning.jpg | alt: "Two professionals reviewing quarterly tax projections on a laptop in an office" | query: "tax planning meeting laptop office" -->
+## How does tax planning prevent a surprise business tax bill?
 
 A strong year should feel like a win. Too often it ends with a tax bill nobody saw coming, because planning started the following April instead of during the year.
 
@@ -48,12 +48,12 @@ Tax work and business advisory and consulting belong together. The way your busi
 ### Entity Type Analysis
 icon: Building2
 
-Should your LLC become an S-corp as profits grow? We model both structures side by side with your real numbers, including owner salary and state tax, so the S-corp tax planning in Lee's Summit is based on math, not a rule of thumb.
+Should your LLC become an S-corp as profits grow? We model both structures side by side with your real numbers, including owner salary and state tax, so your S-corp tax planning in Lee's Summit rests on math, not a rule of thumb.
 
 ### Accounting System Setup
 icon: Cog
 
-A tax-efficient business structure only works if the books support it. The team sets up your chart of accounts and software so the return practically builds itself.
+A tax-efficient business structure only works if the books support it. The team sets up your chart of accounts and software so the return is built from records that are already in order.
 
 ### Retirement Plan Analysis
 icon: PiggyBank
@@ -100,8 +100,8 @@ icon: Briefcase
 
 Project-based revenue makes income hard to predict. Professional services tax advice in Lee's Summit centers on owner compensation, entity structure, and the timing of large projects.
 
-<!-- block: content-split | variant: image-right | image: tax-payroll-bookkeeping-team.jpg | alt: "Small accounting team working together on client files at a shared table" | query: "accounting team collaborating office desk" -->
-## Tax, payroll, and books from one team at one fixed monthly fee
+<!-- block: content-split | variant: image-left | image: tax-payroll-bookkeeping-team.jpg | alt: "Small accounting team working together on client files at a shared table" | query: "accounting team collaborating office desk" -->
+## How does one team handle tax, payroll, and books for one fixed monthly fee?
 
 Some firms bill by the hour and show up once a year, at filing time. That's how invoices turn into surprises and returns turn into guesses.
 
@@ -110,13 +110,13 @@ Here, tax work sits next to [accounting](/services/accounting) and [payroll](/se
 The bundle comes with one fixed monthly fee. You know the cost before the work starts, and a question in July doesn't start a billing clock. A team that works together on your file also catches things a single preparer misses, and it's a big reason clients come back year after year.
 
 <!-- block: content-prose -->
-## Support if the IRS comes calling
+## What support can I get if the IRS sends a notice or opens an exam?
 
-An IRS notice in the mailbox can ruin a week. Take a breath. A notice is a request, and requests have answers.
+An IRS notice in the mailbox can ruin a week. A notice is a request for information, and the team can help you answer it.
 
-Parker Swearngin provides IRS Examination support as part of its tax work. The team helps you gather documentation, understand what the IRS is asking, and prepare a response before the deadline. Clean year-round records make exams far easier, because the support for each deduction was saved when the expense happened, not hunted down months later.
+Parker Swearngin, LLP provides IRS Examination support as part of its tax work. The team helps you gather documentation, understand what the IRS is asking, and prepare a response before the deadline. Clean year-round records make exams far easier, because the support for each deduction was saved when the expense happened, not hunted down months later.
 
-If a notice has already arrived, send it over. [Reach out to the team](/contact) and we'll start there.
+If a notice has already arrived, send it over. [Contact the team about your IRS notice](/contact) and they will start there.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Tax planning and preparation

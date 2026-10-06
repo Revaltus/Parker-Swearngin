@@ -436,6 +436,13 @@ This site uses stock photography from [Pexels](https://www.pexels.com). All imag
 - **Pexels page:** https://www.pexels.com/photo/professional-business-meeting-in-modern-office-36765732/
 - **Search query:** `client meeting professional office`
 
+## /services/personal-tax-prep-planning
+
+- **File:** `year-round-tax-planning.jpg`
+- **Photographer:** [Vitaly Gariev](https://www.pexels.com/@silverkblack)
+- **Pexels page:** https://www.pexels.com/photo/business-professional-checking-smartwatch-in-office-39853132/
+- **Search query:** `tax planning meeting laptop office`
+
 ## /services/tax
 
 - **File:** `business-tax-document-review.jpg`
@@ -463,13 +470,6 @@ This site uses stock photography from [Pexels](https://www.pexels.com). All imag
 - **Photographer:** [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
 - **Pexels page:** https://www.pexels.com/photo/man-and-woman-working-at-the-office-7654120/
 - **Search query:** `accounting team collaborating office desk`
-
-## /services/tax
-
-- **File:** `year-round-tax-planning.jpg`
-- **Photographer:** [Vitaly Gariev](https://www.pexels.com/@silverkblack)
-- **Pexels page:** https://www.pexels.com/photo/business-professional-checking-smartwatch-in-office-39853132/
-- **Search query:** `tax planning meeting laptop office`
 
 ## /who-we-are
 
