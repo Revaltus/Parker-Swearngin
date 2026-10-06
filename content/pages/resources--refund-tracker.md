@@ -2,7 +2,7 @@
 title: "Refund tracker | Parker Swearngin LLC"
 url: "/resources/refund-tracker"
 meta_title: "Tax Refund Tracker Lee's Summit MO | Parker Swearngin"
-meta_description: "Track your federal and Missouri refund with step-by-step help, plus what to have ready and what to do if it's late. Parker Swearngin CPA in Lee's Summit."
+meta_description: "Track your federal and Missouri refund in easy steps, plus what to have ready and what to do if it's late. Contact Parker Swearngin, LLP in Lee's Summit."
 target_keyword: "tax refund tracker Lee's Summit MO"
 secondary_keywords: ["CPA refund status Lee's Summit","business tax refund tracker Missouri","payroll tax refund Lee's Summit MO","personal income tax refund tracker","refund tracking service Lee's Summit","business tax refund status check","medical professional tax refund Lee's Summit","real estate broker tax refund tracker","law firm tax refund service Lee's Summit","veterinary practice tax refund tracker","service business tax refund Lee's Summit","tax refund management Lee's Summit","outsourced accounting refund tracker","business accounting refund service Missouri","professional services tax refund Lee's Summit"]
 canonical_url: "https://parkerswearngin.com/resources/refund-tracker"
@@ -19,7 +19,7 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, explains h
 <!-- block: process-steps | variant: vertical -->
 ## Check your federal and Missouri refund status in minutes
 
-You filed your return, and now you want to know where the money is. Think of this page as your tax refund tracker for Lee's Summit MO and the wider KC Metro. Four steps, no hold music, and a personal income tax refund tracker is only a few clicks away.
+This tax refund tracker for Lee's Summit MO and the KC Metro shows how to check your federal refund with the IRS Where's My Refund tool and your Missouri refund with the Missouri Return Tracker. Kansas filers use the Kansas Department of Revenue. Have your Social Security number or ITIN, filing status, and exact refund amount ready.
 
 ### Gather your return
 Pull up the copy of the return you filed. You will need the Social Security number or ITIN, your filing status, and the exact refund amount in whole dollars.
@@ -34,9 +34,9 @@ Open the [Missouri Return Tracker](https://mytax.mo.gov/rptp/portal/home/return-
 Live or work on the Kansas side of State Line? Your Kansas refund status comes from the [Kansas Department of Revenue](https://www.ksrevenue.gov), not from Missouri.
 
 <!-- block: checklist-section | variant: with-image | image: tax-refund-documents.jpg | alt: "Person organizing tax documents and a laptop on a desk at home" | query: "person reviewing tax documents laptop" -->
-## What to have in hand before you look up your refund
+## What do you need before you look up your refund?
 
-A two-minute search turns into a twenty-minute hunt if the details are missing. Gather these first.
+A quick search turns into a long hunt if the details are missing. Gather these first.
 
 **For individual returns**
 
@@ -53,7 +53,7 @@ A two-minute search turns into a twenty-minute hunt if the details are missing. 
 The IRS individual tool is not built for business refunds, so a business tax refund status check usually takes a different route. If you are a client and do not have these details, ask the team. We can pull them from your e-filed return and help you follow up with the IRS or Missouri.
 
 <!-- block: content-prose -->
-## Why a refund can take longer than expected
+## Why is my refund taking longer than expected?
 
 A late refund is rarely a sign that something is wrong. Most delays come from a short list of causes, and nearly all of them can be fixed.
 
@@ -68,7 +68,7 @@ If you are searching for CPA refund status help in Lee's Summit, this is where t
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Business, payroll and industry refunds work differently
 
-A business refund is a different animal from a personal one. Three situations come up most: overpaid estimated taxes, amended returns that correct a prior year, and payroll tax overpayments or credits. Each follows its own path, so a payroll tax refund in Lee's Summit MO is not tracked the same way as an income tax refund. Here is how that plays out by industry.
+A business refund follows different rules than a personal one. Three situations come up most: overpaid estimated taxes, amended returns that correct a prior year, and payroll tax overpayments or credits. Each follows its own path, so a payroll tax refund in Lee's Summit MO is not tracked the same way as an income tax refund. Here is how that plays out by industry.
 
 ### Real estate brokers
 icon: Home
@@ -100,14 +100,14 @@ icon: Briefcase
 
 Project-based revenue swings from quarter to quarter, and estimates built on one strong quarter can overshoot. We tie the refund question back to project income and owner compensation. Read about our [professional services](/industries/professional-services) clients.
 
-<!-- block: content-split | variant: image-right | image: team-reviewing-refund.jpg | alt: "Two accountants reviewing a client's tax return on a computer screen" | query: "accountants reviewing tax return together" -->
+<!-- block: content-split | variant: image-left | image: team-reviewing-refund.jpg | alt: "Two accountants reviewing a client's tax return on a computer screen" | query: "accountants reviewing tax return together" -->
 ## Let our team track it with you
 
-Checking a portal is easy. Knowing what the answer means is where people get stuck. Clients on [Personal Income Tax](/services/personal-tax-prep-planning) and [Business Tax](/services/tax) get year-round support and customized tax help, so a refund question goes to the team that prepared the return. Nothing gets lost in a phone tree.
+Checking a portal is easy. Knowing what the answer means is where people get stuck. Clients on [Personal Income Tax](/services/personal-tax-prep-planning) and [Business Tax](/services/tax) get year-round support and customized tax help, so a refund question goes to the team that prepared the return. Nothing gets lost along the way.
 
 Every client has a dedicated team that knows the file, with close attention to the details that hold refunds up. Bundled services come at a fixed monthly fee, so asking where a refund stands never starts a billing conversation.
 
-That is what a refund tracking service in Lee's Summit should feel like. Think of it as an outsourced accounting refund tracker: bookkeeping, payroll, and tax under one roof, so the numbers behind your refund are already in order. We cannot promise when a refund will arrive, because the IRS and Missouri control that timing. What we can do is make sure the return is right and keep you posted if it stalls.
+That is what a refund tracking service in Lee's Summit should feel like. It works like an outsourced accounting refund tracker: bookkeeping, payroll, and tax under one roof, so the numbers behind your refund are already in order. We cannot promise when a refund will arrive, because the IRS and Missouri control that timing. What we can do is make sure the return is right and keep you posted if it stalls.
 
 [Schedule a consultation](/contact)
 
@@ -134,7 +134,7 @@ Clean, current books make overpayments visible early. We set up your system so y
 ### Credit Card Rewards
 icon: CreditCard
 
-Business spending can earn real rewards. We review which cards fit how you spend and how to track the use for tax.
+Business spending can earn card rewards. We review which cards fit how you spend and how to track the use for tax.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Refund tracker
@@ -315,7 +315,7 @@ Parker Swearngin, a CPA firm in Lee's Summit, MO, explains how to check federal 
   "@type": "WebPage",
   "name": "Tax Refund Tracker Lee's Summit MO | Parker Swearngin",
   "url": "https://parkerswearngin.com/resources/refund-tracker",
-  "description": "Track your federal and Missouri refund with step-by-step help, plus what to have ready and what to do if it's late. Parker Swearngin CPA in Lee's Summit.",
+  "description": "Track your federal and Missouri refund in easy steps, plus what to have ready and what to do if it's late. Contact Parker Swearngin, LLP in Lee's Summit.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",

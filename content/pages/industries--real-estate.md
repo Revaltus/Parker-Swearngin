@@ -2,7 +2,7 @@
 title: "Real estate CPA services | Parker Swearngin LLC"
 url: "/industries/real-estate"
 meta_title: "CPA for Real Estate Brokers Lee's Summit MO | Tax & Payroll"
-meta_description: "Lee's Summit CPA for real estate brokers: commission income planning, quarterly estimates, cost segregation, bookkeeping and payroll for a fixed monthly fee."
+meta_description: "Lee's Summit CPA for real estate brokers: tax planning, quarterly estimates, cost segregation, bookkeeping and payroll for a fixed monthly fee. Let's talk."
 target_keyword: "CPA for real estate brokers Lee's Summit MO"
 secondary_keywords: ["real estate broker tax services Lee's Summit","real estate agent accountant Lee's Summit","tax preparation for real estate professionals Missouri","real estate broker payroll services Lee's Summit","realtor CPA near Lee's Summit","real estate business accounting Lee's Summit","real estate agent tax deductions Missouri","real estate commission accounting","independent contractor tax planning real estate","real estate broker business tax return","real estate professional accounting services","1099 contractor accounting real estate","real estate brokerage accounting Missouri","real estate business structure advice","S-corp vs sole proprietor real estate","real estate agent retirement planning","real estate business cash flow management","real estate professional bookkeeping Lee's Summit","real estate tax strategy consultation","realtor quarterly tax payments Missouri"]
 canonical_url: "https://parkerswearngin.com/industries/real-estate"
@@ -20,19 +20,19 @@ faq_block: [{"answer":"A CPA for real estate brokers prepares tax returns, plans
 llm_citation_note: "Parker Swearngin is a CPA-led firm in Lee's Summit, MO that serves real estate brokers with commission-based tax planning, quarterly estimated tax payments, cost segregation study guidance for investment property, bookkeeping, payroll, and 1099 processing, all bundled into one fixed monthly fee."
 ---
 
-<!-- block: content-split | variant: image-right | image: broker-closing-commission-income.jpg | alt: "Real estate broker and client shaking hands over a signed closing document" | query: "real estate broker closing signing" -->
+<!-- block: content-split | variant: image-left | image: broker-closing-commission-income.jpg | alt: "Real estate broker and client shaking hands over a signed closing document" | query: "real estate broker closing signing" -->
 ## Commission income doesn't arrive on a tax-friendly schedule
 
-If you're a broker, you already know the pattern. Nothing comes in for six weeks, then three closings land in the same month. The deposits feel great. The tax bill that follows a big commission year feels a lot less great, especially when it's larger than anyone planned for.
+Parker Swearngin, LLP is a CPA firm for real estate brokers in Lee's Summit, MO. Our team plans around lumpy commission income and handles estimated taxes, cost segregation, bookkeeping, payroll, and entity and retirement advice for one fixed monthly fee, so a big closing year doesn't end in a surprise tax bill. If you're a broker, you already know the pattern. Nothing comes in for six weeks, then three closings land in the same month. The deposits feel great. The tax bill that follows a big commission year feels a lot less great, especially when it's larger than anyone planned for.
 
 That gap between when you get paid and when the IRS expects its share is where most of the trouble starts. Commission income has no withholding, estimated payments are easy to miss, and a strong year can push you into a bracket you never budgeted for. Our team provides real estate broker tax services in Lee's Summit built around that reality. Our real estate commission accounting tracks what you earned, what you owe, and what is safe to spend.
 
 The goal is simple: plan all year, so April holds no surprises. Whether you're a solo broker or you run a brokerage with agents under you, we start with your actual numbers, not last year's.
 
-<!-- block: content-split | variant: image-left | image: quarterly-tax-planning-meeting.jpg | alt: "Accountant and real estate agent reviewing a calendar and tax estimate on a laptop" | query: "accountant client reviewing tax estimate laptop" -->
-## Estimated tax payments that match your closing calendar
+<!-- block: content-split | variant: image-right | image: quarterly-tax-planning-meeting.jpg | alt: "Accountant and real estate agent reviewing a calendar and tax estimate on a laptop" | query: "accountant client reviewing tax estimate laptop" -->
+## How should estimated tax payments match your closing calendar?
 
-A flat quarterly guess only works if your income is flat. Yours isn't. So the team sets realtor quarterly tax payments in Missouri around when commissions actually close, and adjusts as your pipeline changes. A strong quarter doesn't turn into an underpayment penalty, and a slow one doesn't mean you overpaid the IRS while cash was tight.
+A flat quarterly guess only works if your income is flat. Yours isn't. So the team sets your Missouri realtor quarterly tax payments around when commissions actually close, and adjusts as your pipeline changes. A strong quarter doesn't turn into an underpayment penalty, and a slow one doesn't mean you overpaid the IRS while cash was tight.
 
 This is independent contractor tax planning for real estate, built on self-employment tax, federal brackets, and Missouri tax. A planning check-in is short and practical:
 
@@ -41,10 +41,10 @@ This is independent contractor tax planning for real estate, built on self-emplo
 3. We set your next payment amount and date, plus a percentage to set aside from each closing.
 4. We revisit the numbers after any big closing or when the pipeline shifts.
 
-Deductions get the same attention. The real estate agent tax deductions in Missouri that matter most are the ones people forget to track: mileage, marketing, MLS and licensing fees, and client gifts, which carry their own IRS limits. We help you set up a simple way to capture them as they happen, so they show up on your return instead of getting lost.
+Deductions get the same attention. Real estate agent tax deductions in Missouri are easy to miss: mileage, marketing, MLS and licensing fees, and client gifts, which carry their own IRS limits. We help you set up a simple way to capture them as they happen, so they show up on your return instead of getting lost.
 
-<!-- block: content-split | variant: image-right | image: investment-property-cost-segregation.jpg | alt: "Commercial and residential rental buildings on a street in a Midwestern city" | query: "commercial rental property building exterior" -->
-## Cost segregation studies for your investment property
+<!-- block: content-split | variant: image-left | image: investment-property-cost-segregation.jpg | alt: "Commercial and residential rental buildings on a street in a Midwestern city" | query: "commercial rental property building exterior" -->
+## What is a cost segregation study for an investment property?
 
 Buy a rental, an office, or a commercial building, and the tax code normally has you deduct its cost slowly, over decades. A cost segregation study speeds that up. It breaks the property into components, such as certain flooring, fixtures, and site improvements, that qualify for much shorter depreciation lives. More of the deduction lands in the early years, which lowers your current taxes and keeps cash in your hands.
 
@@ -57,12 +57,12 @@ Ready to find out if it fits? [Schedule a real estate tax strategy consultation]
 <!-- block: feature-grid | variant: 3-col -->
 ## Advice on entity structure, retirement, and the way you run the business
 
-Tax returns look backward. Our business advisory and consulting work looks forward, at the decisions that shape what you keep over the next five years. Here are four we cover with brokers.
+Tax returns look backward. Our business advisory and consulting work looks forward, at the decisions that shape what you keep. Here are four we cover with brokers.
 
 ### Entity Type Analysis
 icon: Building2
 
-The S-corp vs sole proprietor question for real estate comes down to net income and stability. Once profit is steady enough to support a reasonable salary, an S-corp can cut self-employment tax, but it adds payroll and a separate return. We model both before you switch. That is real estate business structure advice built on your numbers.
+The S-corp vs sole proprietor question for real estate comes down to net income and stability. Once profit is steady enough to support a reasonable salary, an S-corp can cut self-employment tax, but it adds payroll and a separate return. We model both before you switch. We give you real estate business structure advice built on your numbers.
 
 ### Retirement Plan Analysis
 icon: PiggyBank
@@ -82,7 +82,7 @@ Marketing, software, and client entertainment add up fast. We help you pick busi
 <!-- block: checklist-section | variant: with-image | image: brokerage-bookkeeping-payroll.jpg | alt: "Bookkeeper reviewing payroll and commission reports on a computer in a small office" | query: "bookkeeper reviewing payroll reports office" -->
 ## Bookkeeping and payroll for brokerages and agent teams
 
-If you've outgrown a part-time bookkeeper, you probably feel it in the books first. Reports show up late, categories drift, and nobody can say with confidence how much cash the business actually has. Our [accounting](/services/accounting) and [payroll](/services/payroll) services fix that with real estate professional bookkeeping in Lee's Summit that stays current, so real estate business cash flow management becomes a weekly habit instead of a guess.
+If you've outgrown a part-time bookkeeper, you probably feel it in the books first. Reports show up late, categories drift, and nobody can say with confidence how much cash the business actually has. Our [accounting](/services/accounting) and [payroll](/services/payroll) services fix that with real estate professional bookkeeping in Lee's Summit that stays current, so real estate business cash flow management rests on current numbers instead of a guess.
 
 Here is what the team handles for you:
 
@@ -126,7 +126,7 @@ A: Tax, accounting, payroll, and advisory services are bundled into one fixed mo
 <!-- block: cta-banner | variant: image-bg | image: cta-real-estate-consultation.jpg | alt: "Real estate broker meeting with a CPA in a bright office" | query: "client meeting professional office" -->
 ## Talk with a CPA team that knows real estate
 
-Start with a short conversation. Bring your current books, last year's tax bill, and any property purchases you're considering. We'll tell you where the gaps are and what to do first. Whether you're in Lee's Summit or elsewhere in the Kansas City metro, this is the fastest way to get a CPA for real estate brokers in Lee's Summit, MO working on your side.
+Start with a short conversation. Bring your current books, last year's tax bill, and any property purchases you're considering. We'll tell you where the gaps are and what to do first. Whether you're in Lee's Summit or elsewhere in the Kansas City metro, this is how you get a CPA for real estate brokers in Lee's Summit, MO working on your side.
 
 [Schedule a consultation](/contact)
 
@@ -295,7 +295,7 @@ Parker Swearngin is a CPA-led firm in Lee's Summit, MO that serves real estate b
   "@type": "Service",
   "name": "CPA for Real Estate Brokers Lee's Summit MO | Tax & Payroll",
   "url": "https://parkerswearngin.com/industries/real-estate",
-  "description": "Lee's Summit CPA for real estate brokers: commission income planning, quarterly estimates, cost segregation, bookkeeping and payroll for a fixed monthly fee.",
+  "description": "Lee's Summit CPA for real estate brokers: tax planning, quarterly estimates, cost segregation, bookkeeping and payroll for a fixed monthly fee. Let's talk.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",

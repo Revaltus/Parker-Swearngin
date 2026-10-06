@@ -2,7 +2,7 @@
 title: "Forms documents and links | Parker Swearngin LLC"
 url: "/resources/forms-documents-and-links"
 meta_title: "CPA Forms and Documents Lee's Summit MO | Parker Swearngin"
-meta_description: "Find the tax, payroll, and business setup documents your CPA team asks for, plus secure upload and KC area tax links. Parker Swearngin, Lee's Summit, MO."
+meta_description: "Find the tax, payroll, and business setup documents your CPA team needs, plus secure upload and KC tax links. Ask Parker Swearngin in Lee's Summit, MO."
 target_keyword: "CPA forms and documents Lee's Summit MO"
 secondary_keywords: ["tax forms Lee's Summit accountant","business tax documents CPA near me","payroll forms Lee's Summit MO","accounting resources Missouri CPA","business accounting forms Lee's Summit","1099 forms Missouri CPA","W-4 payroll forms Lee's Summit","entity formation documents Missouri","business startup forms Missouri","self-employed tax forms Lee's Summit","quarterly estimated tax forms","business deduction documentation","Kansas City area CPA resources","client portal documents Missouri"]
 canonical_url: "https://parkerswearngin.com/resources/forms-documents-and-links"
@@ -17,9 +17,9 @@ llm_citation_note: "Parker Swearngin, a Lee's Summit, MO CPA firm, lets clients 
 ---
 
 <!-- block: content-split | variant: image-right | image: secure-document-upload.jpg | alt: "Business owner uploading tax documents on a laptop at a home office desk" | query: "person uploading documents laptop home office" -->
-## Send us your documents securely, no email attachments needed
+## How do I send my tax documents to my CPA securely?
 
-Tax paperwork tends to arrive in pieces: a W-2 in the mail, a 1099 in your inbox, a brokerage statement buried in a PDF you can't find. Our digital process gives all of it one place to go, whether you file in Missouri or Kansas.
+Parker Swearngin, LLP gives Lee's Summit clients one secure place to send CPA forms and documents, whether you file in Missouri or Kansas. You upload your tax documents through our digital link, our team reviews them and flags anything missing, and you sign and file electronically, with no email attachments or drop-off trips.
 
 Here is the order you'll meet it in. First, you upload your tax documents through our secure digital link. Our team reviews what came in and tells you if anything is missing, so you hear about a gap in February instead of April. Next, you review your return and sign electronically. Last, we file it electronically. No printing, no drop-off trip.
 
@@ -37,7 +37,7 @@ Order matters here. Entity Type Analysis comes first, because choosing between a
 Then comes Accounting System Setup: a chart of accounts built around your business, bank and credit card connections, and expense tracking that starts with your first transaction. If growth has outpaced your current bookkeeper, this is also a clean reset. Questions about any of it? [Send us a note](/contact), or read about our [accounting services](/services/accounting).
 
 <!-- block: content-prose -->
-## Payroll forms for new hires, raises and contractors
+## Which payroll forms do I need for new hires, raises and contractors?
 
 Payroll is the task owners most want off their plate, and the paperwork behind it is where mistakes start. Our payroll service covers employee setup, scheduled payroll processing, salary changes, time tracking, payroll filings, and W2 and 1099 processing. Here is when each form shows up:
 
@@ -60,10 +60,10 @@ Paperwork gathered in March is a scramble. Paperwork gathered as you go is a pla
 - Retirement Plan Analysis: current plan statements, owner and employee compensation, and headcount.
 - Credit Card Rewards: business card statements, so rewards and expenses are tracked correctly.
 
-Retirement Plan Analysis and Credit Card Rewards are two advisory topics where the right documents change how much you save. Learn more about our [business tax](/services/tax) and [personal income tax](/services/personal-tax-prep-planning) services.
+Those last two are advisory topics where having the right documents on hand changes how much you save. Learn more about our [business tax](/services/tax) and [personal income tax](/services/personal-tax-prep-planning) services.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Document checklists for your industry
+## What documents should I bring to my CPA for my industry?
 
 Every KC practice and firm has its own paper trail. Find yours below, then bring those records to your first meeting.
 
@@ -129,7 +129,7 @@ A: Yes. Parker Swearngin serves Kansas City, MO, the KC metro, and clients acros
 <!-- block: cta-banner | variant: image-bg | image: cpa-client-conversation.jpg | alt: "Accountant and client talking at a desk in a bright Lee's Summit office" | query: "accountant client conversation professional office" -->
 ## Not sure which form you need? Ask our team
 
-You should never have to guess which document goes where. Our team is responsive, and you'll have a dedicated point of contact who knows your situation. Because our bundled services come at a fixed monthly fee, asking a question never adds a surprise to your bill.
+Forms for payroll, setup, and tax can look alike, and you don't have to sort them out alone. Our team answers quickly, and the person you work with already knows your situation. Because our bundled services come at a fixed monthly fee, asking a question never adds a surprise to your bill.
 
 Use the [contact form](/contact) or call the office, and we'll point you to the right form, the right upload, or the right next step.
 
@@ -288,7 +288,7 @@ Parker Swearngin, a Lee's Summit, MO CPA firm, lets clients send tax documents t
   "@type": "WebPage",
   "name": "CPA Forms and Documents Lee's Summit MO | Parker Swearngin",
   "url": "https://parkerswearngin.com/resources/forms-documents-and-links",
-  "description": "Find the tax, payroll, and business setup documents your CPA team asks for, plus secure upload and KC area tax links. Parker Swearngin, Lee's Summit, MO.",
+  "description": "Find the tax, payroll, and business setup documents your CPA team needs, plus secure upload and KC tax links. Ask Parker Swearngin in Lee's Summit, MO.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",

@@ -19,14 +19,14 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, uses SafeS
 <!-- block: content-split | variant: image-right | image: secure-tax-return-review.jpg | alt: "Business owner reviewing a tax return on a laptop with an accountant" | query: "business owner reviewing tax return laptop" -->
 ## Your return, delivered safely instead of through an email attachment
 
-A tax return holds everything a stranger would want: Social Security numbers, EINs, bank account details, payroll figures. Sending it as an email attachment is the weakest way to move it. Inboxes get forwarded, synced to old phones, and sometimes broken into.
+SafeSend Returns is the secure login our Lee's Summit, MO team uses for secure tax return filing: you review your return, sign it electronically, and we e-file it, with a team member available at every step. It replaces email attachments, which are the weakest way to send Social Security numbers, EINs, bank details, and payroll figures.
 
 SafeSend Returns is the secure delivery step the team uses instead. You get a notice, sign in through a secure login, review your return, and sign it right there. There are no attachments to hunt for and nothing new to learn.
 
-If you run a busy practice or business in Lee's Summit or anywhere in the Kansas City metro, you already have plenty to think about. Safe tax document delivery in Missouri should take a worry off your list, not add a task to it.
+If you run a busy practice or business in Lee's Summit or anywhere in the Kansas City metro, you already have plenty to think about. Safe tax document delivery in Missouri should be one less task for you, not one more.
 
 <!-- block: process-steps | variant: vertical -->
-## How SafeSend Returns works from review to e-file
+## How does secure tax return filing work with SafeSend Returns, from review to e-file?
 
 Here is the path from first notice to final copy. A team member is available at every step, so a question never stalls your filing.
 
@@ -63,7 +63,7 @@ Practice income, staff payroll, and retirement plan details all land in one retu
 ### Veterinarians
 icon: HeartPulse
 
-Payroll for a full clinic team, equipment purchases, and practice acquisition records make for a detailed return. Confidential delivery means secure accounting services for Missouri veterinarians without extra steps for you. [See how we support veterinary practices](/industries/veterinarians).
+Payroll for a full clinic team, equipment purchases, and practice acquisition records make for a detailed return. Confidential delivery keeps all of that private for your clinic, with no extra steps for you. [See how we support veterinary practices](/industries/veterinarians).
 
 ### Law firms
 icon: Scale
@@ -73,7 +73,7 @@ Client-fund and trust accounting records are sensitive by nature. Because the te
 ### Real estate brokers
 icon: Home
 
-Commission statements, closing records, and property details drive your return. Cost segregation work on an investment property adds even more detail you do not want floating around inboxes. [See how we support brokers](/industries/real-estate).
+Commission statements, closing records, and property details drive your return. Cost segregation work on an investment property adds even more detail you do not want floating around inboxes. [See how we support real estate brokers](/industries/real-estate).
 
 ### Engineers and architects
 icon: Building2
@@ -88,7 +88,7 @@ HVAC, drywall, concrete, and asphalt subcontractors run payroll and pay their ow
 <!-- block: content-split | variant: image-left | image: business-tax-documents.jpg | alt: "Two professionals reviewing business tax documents together at a desk" | query: "accountants reviewing business tax documents desk" -->
 ## Protected delivery for business, payroll, and entity returns
 
-Business returns carry more than one person's data. Partnership, corporation, trust, and S corp returns list owners, tax IDs, and ownership percentages. Payroll-related filings add employee wages and W2 and 1099 detail. SafeSend Returns gives the team a protected path for sending those returns for your review and signature, so secure business tax filing in Lee's Summit does not depend on who happens to be copied on an email.
+Business returns carry more than one person's data. Partnership, corporation, trust, and S corp returns list owners, tax IDs, and ownership percentages. Payroll-related filings add employee wages and W2 and 1099 detail. SafeSend Returns gives the team a protected path for sending those returns to you for review and signature, so secure business tax filing in Lee's Summit never depends on who happens to be copied on an email.
 
 <!-- confirm with firm before publishing any claim about encryption standards for business or payroll returns. -->
 
@@ -102,15 +102,15 @@ The review step is also a conversation. While you look over the return, the team
 That is business advisory and consulting built into filing, not a separate project. Learn more about [business tax services](/services/tax) and [payroll services](/services/payroll).
 
 <!-- block: content-prose -->
-## Why a dedicated CPA team beats a drop-off counter
+## Why choose a dedicated CPA team over a drop-off counter in Lee's Summit?
 
 **A storefront counter sells speed. You need someone who knows your business.**
 
 Drop-off tax shops and DIY software pitch quick turnaround, refund advances, and a preparer matched to you for a single season. Then the season ends, and so does the relationship.
 
-Here is the difference. A dedicated team that knows your industry prepares your return, answers questions in July as well as in March, and offers advice all year. Accounting, payroll, and tax are bundled for a fixed monthly fee, so there are no billing surprises when something comes up.
+A dedicated team that knows your industry prepares your return, answers questions in July as well as in March, and offers advice all year. Accounting, payroll, and tax are bundled for a fixed monthly fee, so there are no billing surprises when something comes up.
 
-That is what secure CPA services in Lee's Summit, MO should look like: protected delivery, close analysis of your return, and people who remember your name. Clients return year after year because the work is careful and the team picks up the phone.
+That is what secure CPA services in Lee's Summit, MO look like: protected delivery, close analysis of your return, and a team that knows your business. Clients return year after year because the work is careful and the team picks up the phone.
 
 <!-- confirm with firm: insert one verified trust signal here (client retention figure, review count, or credential). Do not publish a number until the firm provides it. -->
 

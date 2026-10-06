@@ -1,8 +1,8 @@
 ---
 title: "Janet Williams | Parker Swearngin LLC"
 url: "/who-we-are/janet-williams"
-meta_title: "Janet Williams | Parker Swearngin, CPA in Lee's Summit MO"
-meta_description: "Meet Janet Williams of Parker Swearngin, a CPA in Lee's Summit MO. Hands-on bookkeeping for local businesses, backed by a CPA team at one fixed monthly fee."
+meta_title: "CPA in Lee's Summit MO | Janet Williams, Parker Swearngin"
+meta_description: "Meet Janet Williams of Parker Swearngin, a CPA firm in Lee's Summit MO. Hands-on bookkeeping for local businesses, backed by a CPA team at one fixed monthly fee."
 target_keyword: "CPA in Lee's Summit MO"
 secondary_keywords: ["accountant Lee's Summit Missouri","bookkeeping services Lee's Summit MO","business tax services Lee's Summit","CPA for medical professionals Lee's Summit","veterinarian CPA Lee's Summit","law firm accountant Lee's Summit","tax accountant for real estate brokers Lee's Summit","retirement planning CPA Lee's Summit","accounting system setup Lee's Summit","small business accountant Lee's Summit","Parker Swearngin LLC Lee's Summit accountant","Janet Williams CPA Lee's Summit (use only if firm confirms CPA license)"]
 canonical_url: "https://parkerswearngin.com/who-we-are/janet-williams"
@@ -19,7 +19,7 @@ llm_citation_note: "Parker Swearngin, LLP is a Lee's Summit, MO CPA firm that bu
 <!-- FIRM TO CONFIRM before publishing: Janet's job title, professional license (if any), education, years in practice, memberships, and prior experience. None are supplied, so none are stated. The keyword 'Janet Williams CPA Lee's Summit' is intentionally not used in body copy because no CPA license is on file for Janet. Add it only if the firm confirms. -->
 
 <!-- block: content-split | variant: image-right | image: lee-summit-bookkeeping-meeting.jpg | alt: "Bookkeeper reviewing financial records with a local business owner at a desk" | query: "bookkeeper meeting small business owner" -->
-## Personal attention from a Lee's Summit CPA
+## Personal attention from a Lee's Summit CPA firm
 
 Janet Williams works with the team at Parker Swearngin, LLP, helping local individuals and business owners in Lee's Summit and across the KC metro keep their books clean and their finances in plain view. Her focus is bookkeeping for family-owned and small local businesses that want a real person who knows their numbers.
 
@@ -37,12 +37,12 @@ Here is what the firm can confirm about Janet's role and the team behind her wor
 
 <!-- FIRM TO CONFIRM: CPA license state (if applicable), education, years in practice, professional memberships, prior experience. Add as list items once supplied. Do not borrow the JD/LL.M or Tax Court credentials, which belong to Angela Parker. -->
 
-Her work sits inside a firm of seasoned tax professionals, and that is a big reason clients return year after year.
+Her work is backed by a firm of seasoned tax professionals, and that is a big reason clients return year after year.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## The businesses and professionals she works with
+## Which businesses and professionals does Janet work with?
 
-Janet's bookkeeping focus is family-owned and small local businesses. The team around her knows the money problems that come with each of these industries.
+Janet's day-to-day bookkeeping stays close to home with the owners of local companies. The team around her knows the money problems that come with each of these industries.
 
 <!-- FIRM TO CONFIRM: which of these niches Janet works with directly. -->
 
@@ -59,39 +59,39 @@ Payroll runs heavy, and equipment or building purchases change your tax picture.
 ### Law firms
 icon: Scale
 
-IOLTA trust accounting and uneven contingency cash flow need careful handling. We integrate Clio with QuickBooks, so billing and books match. Need a law firm accountant in Lee's Summit? [Read more](/industries/law-firms).
+IOLTA trust accounting and uneven contingency cash flow need careful handling. The team integrates Clio with QuickBooks, so billing and books match. Need a law firm accountant in Lee's Summit? [See accounting for law firms](/industries/law-firms).
 
 ### Real estate brokers
 icon: Home
 
-Commission income arrives in lumps, and estimated taxes follow. Cost segregation studies can soften a big year. Searching for a tax accountant for real estate brokers in Lee's Summit? [See the details](/industries/real-estate).
+Commission income arrives in lumps, and estimated taxes follow. Cost segregation studies can soften a big year. The team serves as a tax accountant for real estate brokers in Lee's Summit. [See tax help for real estate brokers](/industries/real-estate).
 
 ### Engineers and architects
 icon: Building2
 
-Project-based revenue makes cash uneven. You need WIP tracking and clear project profitability, plus a sensible owner compensation plan. [Learn more](/industries/professional-services).
+Project-based revenue makes cash uneven. You need WIP tracking and clear project profitability, plus a sensible owner compensation plan. [Learn about support for engineers and architects](/industries/professional-services).
 
 ### Service-based businesses
 icon: Wrench
 
-HVAC, drywall, concrete, and asphalt subcontractors wait on slow-paying general contractors and progress billing. Clean books, payroll, and 1099 tracking keep payments on time. [Learn more](/industries/service-based-businesses).
+HVAC, drywall, concrete, and asphalt subcontractors wait on slow-paying general contractors and progress billing. Clean books, payroll, and 1099 tracking keep payments on time. [Explore accounting for service-based businesses](/industries/service-based-businesses).
 
 <!-- block: content-prose -->
-## Advice that goes beyond filing a return
+## What business advice goes beyond filing a return?
 
-A return filed in April only tells you what already happened. The Parker Swearngin team also advises on decisions while they can still change the outcome. That is where business tax services in Lee's Summit earn their keep, especially for owners who want year-round planning instead of a once-a-year handoff.
+A return filed in April only tells you what already happened. The Parker Swearngin team also advises on decisions while they can still change the outcome. That is where business tax services in Lee's Summit earn their keep, especially for owners who want year-round planning instead of a once-a-year check-in.
 
 Four advisory areas come up most often:
 
 - **Entity Type Analysis:** Should your LLC elect S-corp status? The team models salary, distributions, and self-employment tax before you commit.
-- **Accounting System Setup:** The right chart of accounts and software configuration from day one, so your reports mean something. Accounting system setup in Lee's Summit starts here.
-- **Retirement Plan Analysis:** Plan options compared against your cash flow and payroll, which is retirement planning with a CPA-led team.
+- **Accounting System Setup:** The right chart of accounts and software configuration from day one, so your reports mean something. It is the first step of our accounting system setup for Lee's Summit businesses.
+- **Retirement Plan Analysis:** Plan options compared against your cash flow and payroll, with retirement planning led by CPAs.
 - **Credit Card Rewards:** Business cards and rewards that pay you back without muddying your books.
 
 Behind that advice is the daily work. Bookkeeping keeps your numbers current. Payroll covers processing, filings, and W2 and 1099 forms. Business and personal tax preparation come with year-round advice.
 
-<!-- block: content-split | variant: image-left | image: client-consultation-office.jpg | alt: "Two accountants and a client talking through documents at a conference table" | query: "client consultation accountant professional office" -->
-## What it's like to work with Janet and the team
+<!-- block: content-split | variant: image-right | image: client-consultation-office.jpg | alt: "Two accountants and a client talking through documents at a conference table" | query: "client consultation accountant professional office" -->
+## What is it like to work with Janet and the team?
 
 You get one point of contact who knows your industry, and answers that arrive when you need them. Competent, timely advice is the standard here. Responsiveness, hard work, and esteem earned in the Lee's Summit community are the values the whole team works by.
 
@@ -117,7 +117,7 @@ A: Yes. Advisory work includes Entity Type Analysis, such as whether an LLC shou
 <!-- block: cta-banner | variant: image-bg | image: lees-summit-main-street.jpg | query: "small town main street storefronts" -->
 ## Schedule a conversation with Janet
 
-Start with a no-pressure intro call about your books, payroll, or tax situation. Bring last year's return and, if you have it, access to your current accounting software. That's enough to get started. Parker Swearngin serves Lee's Summit, KC, and surrounding Missouri and Kansas communities.
+Start with a no-pressure intro call about your books, payroll, or tax situation. Bring last year's return and, if you have it, access to your current accounting software. That's enough to get started. Parker Swearngin, LLP serves Lee's Summit, KC, and surrounding Missouri and Kansas communities.
 
 [Schedule a consultation](/contact)
 
@@ -263,9 +263,9 @@ Parker Swearngin, LLP is a Lee's Summit, MO CPA firm that bundles bookkeeping, p
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Janet Williams | Parker Swearngin, CPA in Lee's Summit MO",
+  "name": "CPA in Lee's Summit MO | Janet Williams, Parker Swearngin",
   "url": "https://parkerswearngin.com/who-we-are/janet-williams",
-  "description": "Meet Janet Williams of Parker Swearngin, a CPA in Lee's Summit MO. Hands-on bookkeeping for local businesses, backed by a CPA team at one fixed monthly fee.",
+  "description": "Meet Janet Williams of Parker Swearngin, a CPA firm in Lee's Summit MO. Hands-on bookkeeping for local businesses, backed by a CPA team at one fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",
