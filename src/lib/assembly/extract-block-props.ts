@@ -1,0 +1,833 @@
+/**
+ * extract-block-props.ts
+ * Stage 2 of the assembly pipeline: typed prop extraction for each block type.
+ * For M3.B we implement extractors for the 5 blocks landing in M3.F:
+ *   Hero (page-level, from manifest), ContentSplit, FeatureGrid, CtaBanner, FaqAccordion.
+ */
+
+import type { PageSection, PageManifest } from './parse-page-md'
+import {
+  extractTrailingCta,
+  extractLeadingImage,
+  parseIconTitleDescriptionList,
+  parseFaqList,
+  parseH3CardList,
+  parseTeamMembers,
+  parseStatsList,
+  parseStepsList,
+  parseTestimonials,
+  parseSimpleBulletList,
+  parseLogoList,
+  parsePricingTiers,
+  parseContentCardList,
+  splitOnSidebarMarker,
+  parseMarkdownTable,
+  parseTitleBodyChunks,
+  stepsFromTitleChunks,
+} from './md-utils'
+import type { PricingTier } from './md-utils'
+import { comparablePath } from '../nav/nav-tree'
+
+export type { PricingTier }
+
+// ---------------------------------------------------------------------------
+// Hero
+// ---------------------------------------------------------------------------
+
+export type HeroProps = {
+  /** Type-only narrowing (2026.09.9): the dead 'image-right' / 'image-left'
+   * values are gone (hero-split is that layout). extractHeroProps still passes
+   * any hero_variant through, and Hero renders an unknown value full-bleed. */
+  variant: 'image' | 'video' | 'slider' | 'statement'
+  image?: string
+  image_alt?: string
+  video?: string
+  images?: string[]
+  headline: string
+  subheadline: string
+  eyebrow?: string
+  cta_primary?: { label: string; url: string }
+}
+
+export type HeroCta = { label: string; url: string }
+
+/**
+ * What the hero CTA may fall back to on this site: nav.json's `cta`, and the
+ * site's contact destination (siteContactUrl — the nav's Contact item, else
+ * /contact only when that page exists). See getHeroCtaSite().
+ */
+export type HeroCtaSite = { navCta?: HeroCta; contactUrl?: string }
+
+/** Label of the last-resort hero CTA (to the site's contact destination). */
+export const DEFAULT_HERO_CTA_LABEL = 'Schedule a consultation'
+
+const pair = (label?: string, url?: string): HeroCta | undefined => {
+  const l = label?.trim()
+  const u = url?.trim()
+  return l && u ? { label: l, url: u } : undefined
+}
+
+/**
+ * The hero's primary call to action, first match wins:
+ *   1. the page's `hero_cta_label` + `hero_cta_url` frontmatter;
+ *   2. the page's outline CTA (`cta_text` + `cta_url`, emitted by the platform);
+ *   3. the site-wide `nav.cta`;
+ *   4. "Schedule a consultation" → the site's contact destination
+ *      (`site.contactUrl`); with none, no CTA — never a link to a 404.
+ * Omitted when it would link the page to itself (the contact page's hero
+ * never says "contact us").
+ */
+export function resolveHeroCta(manifest: PageManifest, site: HeroCtaSite = {}): HeroCta | undefined {
+  const cta =
+    pair(manifest.hero_cta_label, manifest.hero_cta_url) ??
+    pair(manifest.cta_text, manifest.cta_url) ??
+    pair(site.navCta?.label, site.navCta?.url) ??
+    pair(DEFAULT_HERO_CTA_LABEL, site.contactUrl)
+  if (!cta) return undefined
+  if (comparablePath(cta.url) === comparablePath(manifest.url || '/')) return undefined
+  return cta
+}
+
+/**
+ * Hero is page-level: sourced from frontmatter.
+ * Prefer hero_subhead (benefit-led, written for on-page); fall back to
+ * meta_description for older deliverables that predate the dedicated field.
+ * `site` carries nav.cta + the contact destination (see resolveHeroCta).
+ */
+export function extractHeroProps(manifest: PageManifest, site?: HeroCtaSite): HeroProps {
+  return {
+    variant: (manifest.hero_variant as HeroProps['variant']) ?? 'image',
+    image: manifest.hero_image,
+    image_alt: manifest.hero_image_alt,
+    video: manifest.hero_video,
+    images: manifest.hero_images,
+    headline: heroHeadline(manifest),
+    subheadline: manifest.hero_subhead ?? manifest.meta_description,
+    eyebrow: manifest.hero_eyebrow,
+    cta_primary: resolveHeroCta(manifest, site),
+  }
+}
+
+/**
+ * Resolve the hero H1. Prefer the marketing headline the deliverable promotes
+ * (hero_headline); fall back to the page title minus the firm suffix. The
+ * fallback alone renders weak generic H1s on nav-titled pages ("Home",
+ * "Contact"), so hero_headline is the intended source.
+ */
+export function heroHeadline(manifest: PageManifest): string {
+  return manifest.hero_headline?.trim() || manifest.title.split(' | ')[0].trim()
+}
+
+// ---------------------------------------------------------------------------
+// ContentSplit
+// ---------------------------------------------------------------------------
+
+export type ContentSplitProps = {
+  variant: 'image-right' | 'image-left'
+  heading: string
+  body: string  // raw markdown
+  image: string
+  image_alt: string
+  cta?: { label: string; url: string }
+}
+
+export function extractContentSplitProps(section: PageSection): ContentSplitProps {
+  const img = extractLeadingImage(section.content)
+  const { body, cta } = extractTrailingCta(img.body)
+  const image = img.src ?? section.image ?? ''
+  return {
+    variant: (section.variant as 'image-right' | 'image-left') ?? 'image-right',
+    heading: section.heading,
+    body,
+    image,
+    image_alt: img.alt ?? section.alt ?? section.heading,
+    cta,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// FeatureGrid
+// ---------------------------------------------------------------------------
+
+export type FeatureGridProps = {
+  /** 'list' (2026.09.9): one item per row, icon/numeral left — a layout
+   * variant (data-layout="list", src/styles/block-layouts.css). */
+  variant: '3-col' | '4-col' | 'list'
+  theme?: 'light' | 'ink'
+  heading: string
+  intro?: string
+  items: Array<{ icon: string; title: string; description: string }>
+}
+
+export function extractFeatureGridProps(section: PageSection): FeatureGridProps {
+  const items = parseIconTitleDescriptionList(section.content)
+
+  // Detect optional intro paragraph before the first list item.
+  const lines = section.content.split('\n')
+  const firstListIdx = lines.findIndex(l => /^\s*[-*]\s+/.test(l))
+  const intro =
+    firstListIdx > 0
+      ? lines.slice(0, firstListIdx).join('\n').trim() || undefined
+      : undefined
+
+  return {
+    variant: (section.variant as FeatureGridProps['variant']) ?? '3-col',
+    theme: section.theme === 'ink' ? 'ink' : undefined,
+    heading: section.heading,
+    intro,
+    items,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// CtaBanner
+// ---------------------------------------------------------------------------
+
+export type CtaBannerProps = {
+  /** The background. The annotation's `-centered` suffix is split off into
+   * `align` (see extractCtaBannerProps). */
+  variant: 'color-bg' | 'image-bg'
+  /** 'centered' (2026.09.9): heading, body and button stacked and centred — a
+   * layout variant (data-layout="<variant>-centered", block-layouts.css).
+   * Absent = today's split row. */
+  align?: 'centered'
+  theme?: 'light' | 'ink'
+  heading: string
+  body?: string
+  background_asset?: string
+  cta_primary?: { label: string; url: string }
+}
+
+/** The annotation values cta-banner accepts: background × alignment. */
+export type CtaBannerAnnotationVariant = CtaBannerProps['variant'] | `${CtaBannerProps['variant']}-centered`
+
+const CTA_CENTERED_SUFFIX = '-centered'
+
+/** The annotation value a CtaBanner's props came from (inverse of the split). */
+export function ctaBannerAnnotationVariant(props: Pick<CtaBannerProps, 'variant' | 'align'>): string {
+  return props.align === 'centered' ? `${props.variant}${CTA_CENTERED_SUFFIX}` : props.variant
+}
+
+/**
+ * `variant: color-bg-centered` / `image-bg-centered` (2026.09.9) split into the
+ * background (`variant`) and `align: 'centered'`. Any other value passes
+ * through as before. A pre-2026.09.9 template has no split: it casts the whole
+ * value, and its CtaBanner only draws the image for exactly `'image-bg'`, so
+ * both centred values render there as the flat colour-bg banner (split row) —
+ * `image-bg-centered` loses its image on an old template.
+ */
+export function extractCtaBannerProps(section: PageSection): CtaBannerProps {
+  const img = extractLeadingImage(section.content)
+  const { body, cta } = extractTrailingCta(img.body)
+  const raw = section.variant
+  const base = raw?.endsWith(CTA_CENTERED_SUFFIX) ? raw.slice(0, -CTA_CENTERED_SUFFIX.length) : undefined
+  const centered = base === 'color-bg' || base === 'image-bg'
+  return {
+    variant: centered ? base : ((raw as CtaBannerProps['variant']) ?? 'color-bg'),
+    ...(centered ? { align: 'centered' as const } : {}),
+    theme: section.theme === 'ink' ? 'ink' : undefined,
+    heading: section.heading,
+    body: body.trim() || undefined,
+    background_asset: img.src ?? section.image,
+    cta_primary: cta,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// FaqAccordion
+// ---------------------------------------------------------------------------
+
+export type FaqAccordionProps = {
+  heading: string
+  items: Array<{ question: string; answer: string }>
+}
+
+/**
+ * Prefer the structured manifest.faq_block (richer source) if present;
+ * otherwise parse Q&A pairs from the section body.
+ */
+export function extractFaqAccordionProps(
+  section: PageSection,
+  manifest: PageManifest
+): FaqAccordionProps {
+  const items =
+    manifest.faq_block && manifest.faq_block.length > 0
+      ? manifest.faq_block
+      : parseFaqList(section.content)
+  return {
+    heading: section.heading,
+    items,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// IntroText
+// ---------------------------------------------------------------------------
+
+export type IntroTextProps = {
+  variant: 'centered' | 'left-aligned'
+  heading: string
+  body: string  // raw markdown — render via react-markdown
+  cta?: { label: string; url: string }
+  /** Centred variant only: the body is long enough that centring every line
+   * reads as a "wall of text" — keep the heading centred, left-align the body
+   * in a readable measure. */
+  long_body?: boolean
+}
+
+/** Body text length (markdown syntax stripped) above which a centred intro
+ * left-aligns its body. About four lines of centred t-body-lg at 2xl width. */
+export const INTRO_CENTER_MAX_CHARS = 600
+
+export function isLongIntroBody(body: string): boolean {
+  const text = body
+    .replace(/!?\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[*_`#>]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+  return text.length > INTRO_CENTER_MAX_CHARS
+}
+
+export function extractIntroTextProps(section: PageSection): IntroTextProps {
+  const { body, cta } = extractTrailingCta(section.content)
+  const variant = (section.variant as IntroTextProps['variant']) ?? 'centered'
+  return {
+    variant,
+    heading: section.heading,
+    body,
+    cta,
+    long_body: variant !== 'left-aligned' && isLongIntroBody(body),
+  }
+}
+
+// ---------------------------------------------------------------------------
+// PageHeader
+// ---------------------------------------------------------------------------
+
+export type PageHeaderProps = {
+  headline: string
+  subheadline?: string
+  breadcrumb?: Array<{ label: string; url: string }>
+}
+
+/**
+ * PageHeader is page-level — sourced from the manifest, not a section.
+ * Breadcrumb is left empty here; M5 admin nav editor populates it later.
+ */
+export function extractPageHeaderProps(manifest: PageManifest): PageHeaderProps {
+  return {
+    headline: manifest.title.split(' | ')[0].trim(),
+    subheadline: manifest.hero_subhead ?? manifest.meta_description ?? undefined,
+    breadcrumb: [],
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ServiceCards
+// ---------------------------------------------------------------------------
+
+export type ServiceCardsProps = {
+  /** 'list' (2026.09.9): one card per row, image/icon left, text right. */
+  variant: '2-col' | '3-col' | 'list'
+  theme?: 'light' | 'ink'
+  heading: string
+  intro?: string
+  cards: Array<{
+    title: string
+    description: string
+    url?: string
+    image?: string
+    icon?: string
+  }>
+}
+
+export function extractServiceCardsProps(section: PageSection): ServiceCardsProps {
+  const { intro, cards } = parseH3CardList(section.content)
+  return {
+    variant: (section.variant as ServiceCardsProps['variant']) ?? '3-col',
+    theme: section.theme === 'ink' ? 'ink' : undefined,
+    heading: section.heading,
+    intro,
+    cards,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// TeamGrid
+// ---------------------------------------------------------------------------
+
+export type TeamGridProps = {
+  /** 'list' (2026.09.9): one member per row, photo left, credentials + bio right. */
+  variant: '2-col' | '3-col' | '4-col' | 'list'
+  heading: string
+  intro?: string
+  members: Array<{
+    name: string
+    title?: string
+    credentials?: string
+    bio?: string
+    photo?: string
+    photo_alt?: string
+  }>
+}
+
+export function extractTeamGridProps(section: PageSection): TeamGridProps {
+  const { intro, members } = parseTeamMembers(section.content)
+  return {
+    variant: (section.variant as TeamGridProps['variant']) ?? '3-col',
+    heading: section.heading,
+    intro,
+    members,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Testimonials
+// ---------------------------------------------------------------------------
+
+export type TestimonialsProps = {
+  /** 'featured' (2026.09.9): the first quote as a large pull quote across the
+   * row, the rest in the grid below. Every testimonial stays visible. */
+  variant: 'carousel' | 'grid' | 'featured'
+  heading?: string
+  testimonials: Array<{
+    quote: string
+    name: string
+    title?: string
+    company?: string
+    rating?: number
+  }>
+}
+
+export function extractTestimonialsProps(section: PageSection): TestimonialsProps {
+  const items = parseTestimonials(section.content)
+  return {
+    variant: (section.variant as TestimonialsProps['variant']) ?? 'grid',
+    heading: section.heading || undefined,
+    testimonials: items,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// StatsBar
+// ---------------------------------------------------------------------------
+
+export type StatsBarProps = {
+  variant: '3-up' | '4-up'
+  theme?: 'light' | 'ink'
+  heading?: string
+  stats: Array<{ value: string; label: string }>
+}
+
+/**
+ * True when a stat value is a figure — digits with the usual figure
+ * punctuation and suffixes: "25+", "$1.2M", "$1,200,000+", "98%", "24/7",
+ * "10x", "~40", "1972". Anything else ("Woodard Top 50 Client Accounting
+ * Services Award firm (2023)", "Family-owned") is a phrase: StatsBar sets
+ * that value in an upright h3 text style; figures keep the display numerals.
+ */
+const STAT_FIGURE_RE = /^[~≈<>]?\s?[$€£]?\d[\d.,/:]*\s?(?:%|[xX×]|[kKmMbB]|\+)*$/
+
+export function isStatFigure(value: string): boolean {
+  return STAT_FIGURE_RE.test(value.trim())
+}
+
+export function extractStatsBarProps(section: PageSection): StatsBarProps {
+  // parseStatsList handles both list and inline dot-delimited formats
+  const stats = parseStatsList(section.content)
+  return {
+    variant: (section.variant as StatsBarProps['variant']) ?? '3-up',
+    theme: section.theme === 'ink' ? 'ink' : undefined,
+    heading: section.heading || undefined,
+    stats,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ContentProse
+// ---------------------------------------------------------------------------
+
+export type ContentProseProps = {
+  heading?: string
+  body: string  // raw markdown
+}
+
+export function extractContentProseProps(section: PageSection): ContentProseProps {
+  return {
+    heading: section.heading.trim() || undefined,
+    body: section.content,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ChecklistSection
+// ---------------------------------------------------------------------------
+
+export type ChecklistSectionProps = {
+  variant: 'with-image' | 'with-image-right' | 'with-image-left' | 'standalone'
+  heading: string
+  intro?: string
+  items: string[]
+  image?: string
+  image_alt?: string
+  cta?: { label: string; url: string }
+}
+
+export function extractChecklistSectionProps(section: PageSection): ChecklistSectionProps {
+  const img = extractLeadingImage(section.content)
+  const { body, cta } = extractTrailingCta(img.body)
+  const { intro, items } = parseSimpleBulletList(body)
+  const image = img.src ?? section.image
+  return {
+    variant: (section.variant as ChecklistSectionProps['variant']) ?? 'standalone',
+    heading: section.heading,
+    intro,
+    items,
+    image,
+    image_alt: image ? (img.alt ?? section.alt ?? section.heading) : undefined,
+    cta,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ProcessSteps
+// ---------------------------------------------------------------------------
+
+export type ProcessStepsProps = {
+  variant: 'horizontal' | 'vertical'
+  heading: string
+  intro?: string
+  steps: Array<{ number: string; title: string; description: string }>
+  cta?: { label: string; url: string }
+}
+
+export function extractProcessStepsProps(section: PageSection): ProcessStepsProps {
+  const { body, cta } = extractTrailingCta(section.content)
+
+  // Detect intro: all text before the first numbered/bullet list item
+  const lines = body.split('\n')
+  const firstStepIdx = lines.findIndex(l => /^\s*\d+\.\s+/.test(l) || /^\s*[-*]\s+/.test(l))
+
+  // `### Title` + paragraph steps: headings lead (a bullet list inside a step's
+  // body must not be mistaken for the steps themselves).
+  const firstHeadingIdx = lines.findIndex(l => /^###\s+/.test(l))
+  if (firstHeadingIdx >= 0 && (firstStepIdx < 0 || firstHeadingIdx < firstStepIdx)) {
+    const { intro, chunks } = parseTitleBodyChunks(body)
+    return {
+      variant: (section.variant as ProcessStepsProps['variant']) ?? 'vertical',
+      heading: section.heading,
+      intro,
+      steps: stepsFromTitleChunks(chunks),
+      cta,
+    }
+  }
+
+  const intro =
+    firstStepIdx > 0
+      ? lines.slice(0, firstStepIdx).join('\n').trim() || undefined
+      : undefined
+
+  const stepsBody = firstStepIdx >= 0 ? lines.slice(firstStepIdx).join('\n') : body
+  const steps = parseStepsList(stepsBody)
+
+  return {
+    variant: (section.variant as ProcessStepsProps['variant']) ?? 'vertical',
+    heading: section.heading,
+    intro,
+    steps,
+    cta,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// IndustryCards
+// ---------------------------------------------------------------------------
+
+export type IndustryCardsProps = {
+  variant: '3-col' | '4-col'
+  theme?: 'light' | 'ink'
+  heading: string
+  intro?: string
+  industries: Array<{ icon: string; title: string; description: string; url?: string }>
+}
+
+export function extractIndustryCardsProps(section: PageSection): IndustryCardsProps {
+  const { body } = extractTrailingCta(section.content)
+
+  // Detect optional intro before list
+  const lines = body.split('\n')
+  const firstListIdx = lines.findIndex(l => /^\s*[-*]\s+/.test(l))
+  const intro =
+    firstListIdx > 0
+      ? lines.slice(0, firstListIdx).join('\n').trim() || undefined
+      : undefined
+
+  const listBody = firstListIdx >= 0 ? lines.slice(firstListIdx).join('\n') : body
+  const rawItems = parseIconTitleDescriptionList(listBody)
+  const industries = rawItems.map(item => ({
+    icon: item.icon,
+    title: item.title,
+    description: item.description,
+    url: undefined as string | undefined,
+  }))
+
+  return {
+    variant: (section.variant as IndustryCardsProps['variant']) ?? '3-col',
+    theme: section.theme === 'ink' ? 'ink' : undefined,
+    heading: section.heading,
+    intro,
+    industries,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// LogoBar
+// ---------------------------------------------------------------------------
+
+export type LogoBarProps = {
+  heading?: string
+  logos: Array<{ src: string; alt: string; url?: string }>
+}
+
+export function extractLogoBarProps(section: PageSection): LogoBarProps {
+  const logos = parseLogoList(section.content)
+  return {
+    heading: section.heading.trim() || undefined,
+    logos,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Pricing
+// ---------------------------------------------------------------------------
+
+export type PricingProps = {
+  variant: '2-tier' | '3-tier' | '4-tier'
+  heading: string
+  intro?: string
+  tiers: PricingTier[]
+  disclaimer?: string
+}
+
+export function extractPricingProps(section: PageSection): PricingProps {
+  const { intro, tiers, disclaimer } = parsePricingTiers(section.content)
+  return {
+    variant: (section.variant as PricingProps['variant']) ?? '3-tier',
+    heading: section.heading,
+    intro,
+    tiers,
+    disclaimer,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// HeroSplit
+// ---------------------------------------------------------------------------
+
+export type HeroSplitProps = {
+  variant: 'image-right' | 'image-left'
+  headline: string
+  subheadline: string
+  cta_primary?: { label: string; url: string }
+  cta_secondary?: { label: string; url: string }
+  image: string
+  image_alt: string
+}
+
+/**
+ * HeroSplit is page-level — sourced from the manifest, same pattern as Hero
+ * and PageHeader. M4.D wires it into PageLayout via manifest.hero_block.
+ */
+export function extractHeroSplitProps(manifest: PageManifest, site?: HeroCtaSite): HeroSplitProps {
+  const headline = heroHeadline(manifest)
+  return {
+    variant: (manifest.hero_variant as HeroSplitProps['variant']) ?? 'image-right',
+    headline,
+    subheadline: manifest.hero_subhead ?? manifest.meta_description,
+    cta_primary: resolveHeroCta(manifest, site),
+    cta_secondary: undefined,
+    image: manifest.hero_image ?? '',
+    image_alt: manifest.hero_image_alt ?? headline,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ContentCards
+// ---------------------------------------------------------------------------
+
+export type ContentCardsProps = {
+  /** 'list' (2026.09.9): one card per row, image left, text right. */
+  variant: '3-col' | '2-col' | 'list'
+  heading: string
+  intro?: string
+  cards: Array<{ title: string; excerpt: string; url: string; image?: string; date?: string }>
+  cta?: { label: string; url: string }
+}
+
+export function extractContentCardsProps(section: PageSection): ContentCardsProps {
+  const { intro, cards, trailingCta } = parseContentCardList(section.content)
+  return {
+    variant: (section.variant as ContentCardsProps['variant']) ?? '3-col',
+    heading: section.heading,
+    intro,
+    cards,
+    cta: trailingCta,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Form
+// ---------------------------------------------------------------------------
+
+import type { FieldDef } from '../forms/types'
+import { parseCustomFields } from '../forms/parse-custom-fields'
+
+export type FormProps = {
+  variant: 'contact' | 'quote' | 'newsletter' | 'custom'
+  heading: string
+  intro?: string
+  sidebar_content?: string  // raw markdown
+  success_message?: string
+  /**
+   * Field definitions for the `custom` variant. Parsed from the markdown
+   * list in the section body. Undefined for built-in variants, which use
+   * a hardcoded field set in Form.tsx.
+   */
+  customFields?: FieldDef[]
+}
+
+export function extractFormProps(section: PageSection): FormProps {
+  const variant = (section.variant as FormProps['variant']) ?? 'contact'
+  const { intro, sidebar } = splitOnSidebarMarker(section.content)
+  return {
+    variant,
+    heading: section.heading,
+    intro: intro || undefined,
+    sidebar_content: sidebar,
+    success_message: undefined,
+    customFields: variant === 'custom' ? parseCustomFields(section.content) : undefined,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ContentTable
+// ---------------------------------------------------------------------------
+
+export type ContentTableProps = {
+  heading?: string
+  intro?: string
+  headers: string[]
+  rows: string[][]
+  caption?: string
+}
+
+export function extractContentTableProps(section: PageSection): ContentTableProps {
+  const parsed = parseMarkdownTable(section.content)
+  return {
+    heading: section.heading.trim() || undefined,
+    intro: parsed?.intro,
+    headers: parsed?.headers ?? [],
+    rows: parsed?.rows ?? [],
+    caption: parsed?.caption,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Booking
+// ---------------------------------------------------------------------------
+
+export type BookingProps = {
+  heading?: string
+  intro?: string
+}
+
+/**
+ * Booking pulls the URL + provider from site.config.ts, not the page markdown.
+ * The section only carries an optional heading + intro to render above the
+ * embed; the body of the section (if any) is ignored.
+ */
+export function extractBookingProps(section: PageSection): BookingProps {
+  return {
+    heading: section.heading.trim() || undefined,
+    intro: section.content.trim() || undefined,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// PricingCalculator
+// ---------------------------------------------------------------------------
+
+export type PricingCalculatorProps = {
+  heading?: string
+  intro?: string
+}
+
+/**
+ * PricingCalculator pulls its config from content/pricing-calculator.json, not
+ * the page markdown. The section only carries an optional heading + intro to
+ * render above the estimator; the body of the section (if any) is ignored.
+ */
+export function extractPricingCalculatorProps(section: PageSection): PricingCalculatorProps {
+  return {
+    heading: section.heading.trim() || undefined,
+    intro: section.content.trim() || undefined,
+  }
+}
+
+export type PricingPlansProps = {
+  heading?: string
+  intro?: string
+}
+
+/**
+ * PricingPlans pulls its config from content/pricing-plans.json, not the page
+ * markdown. The section only carries an optional heading + intro to render above
+ * the tier cards; the body of the section (if any) is ignored.
+ */
+export function extractPricingPlansProps(section: PageSection): PricingPlansProps {
+  return {
+    heading: section.heading.trim() || undefined,
+    intro: section.content.trim() || undefined,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ResourceList (lead magnet)
+// ---------------------------------------------------------------------------
+
+export type ResourceListProps = {
+  heading: string
+  intro?: string
+  resources: Array<{ title: string; url: string; description: string }>
+}
+
+/**
+ * Parses a section body whose bullets follow the convention:
+ *   - [Title](/resources/file.pdf) — Short description
+ *
+ * Any non-bullet prose that precedes the first bullet is used as `intro`.
+ */
+export function extractResourceListProps(section: PageSection): ResourceListProps {
+  const resources: ResourceListProps['resources'] = []
+  const introLines: string[] = []
+  const lineRe = /^\s*-\s+\[([^\]]+)\]\(([^)]+)\)(?:\s*[—–-]\s*(.+))?$/
+
+  for (const line of section.content.split('\n')) {
+    const m = line.match(lineRe)
+    if (m) {
+      resources.push({
+        title: m[1].trim(),
+        url: m[2].trim(),
+        description: (m[3] ?? '').trim(),
+      })
+    } else if (resources.length === 0 && line.trim()) {
+      introLines.push(line)
+    }
+  }
+
+  return {
+    heading: section.heading,
+    intro: introLines.join('\n').trim() || undefined,
+    resources,
+  }
+}

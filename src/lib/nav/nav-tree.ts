@@ -1,0 +1,135 @@
+import type { NavItem, NavJson } from './types'
+
+/**
+ * True when a nav item points at the site home. The logo is the sole home
+ * link, so any explicit "Home" entry is filtered out of the primary nav.
+ * Matches a root-relative '/', an empty url, an absolute root URL
+ * (https://firm.com or .../), or an item literally labelled "Home".
+ */
+export function isHomeNavItem(item: NavItem): boolean {
+  const url = (item.url ?? '').trim()
+  if (item.label.trim().toLowerCase() === 'home') return true
+  if (url === '' || url === '/') return true
+  return /^https?:\/\/[^/]+\/?$/i.test(url)
+}
+
+/**
+ * True when a nav item is the Contact entry — labelled "Contact"/"Contact Us"
+ * or pointing at a "/contact" path (root-relative or absolute). Contact is
+ * always pinned to the end (rightmost) of the primary nav.
+ */
+export function isContactNavItem(item: NavItem): boolean {
+  if (item.label.trim().toLowerCase().startsWith('contact')) return true
+  return /\/contact\/?$/i.test((item.url ?? '').trim())
+}
+
+/**
+ * A url reduced to the path used for same-page comparisons: scheme + host,
+ * query and hash dropped, trailing slashes removed, lower-cased ('/' for the
+ * root). Shared by the header-CTA de-dup and the hero CTA self-link guard.
+ */
+export function comparablePath(url: string): string {
+  const p = (url ?? '').trim().replace(/^https?:\/\/[^/]+/i, '').split(/[?#]/)[0].replace(/\/+$/, '')
+  return p === '' ? '/' : p.toLowerCase()
+}
+
+/**
+ * Where "contact us" should point on THIS site, or undefined when nothing
+ * safe exists: the first childless Contact item in the nav (any depth — e.g.
+ * Accord's "Contact" → /locations, Berg's /contact-us), else /contact when
+ * content/pages has a contact page, else undefined (never link a 404).
+ * `pageSlugs` are content/pages filenames without .md (listPageSlugs()).
+ */
+export function siteContactUrl(nav: NavJson, pageSlugs: readonly string[]): string | undefined {
+  const walk = (items: NavItem[]): string | undefined => {
+    for (const item of items) {
+      if (!item.children?.length && isContactNavItem(item) && item.url?.trim()) return item.url.trim()
+      const nested = item.children?.length ? walk(item.children) : undefined
+      if (nested) return nested
+    }
+    return undefined
+  }
+  return walk(nav.primary ?? []) ?? (pageSlugs.includes('contact') ? '/contact' : undefined)
+}
+
+/**
+ * The primary nav as rendered: drop the home item (the logo is the sole home
+ * link) and pin the Contact item last so it's always rightmost, regardless of
+ * the order in nav.json. Order is otherwise preserved (stable).
+ * With the header `cta` button showing, a childless item pointing at the same
+ * page (typically "Contact" when the CTA goes to /contact) is dropped — the
+ * button replaces it. Items with a dropdown are always kept.
+ */
+export function orderedPrimaryNav(items: NavItem[], cta?: NavJson['cta']): NavItem[] {
+  const ctaPath = cta?.url?.trim() && cta.label?.trim() ? comparablePath(cta.url) : null
+  const visible = items.filter(
+    (item) =>
+      !isHomeNavItem(item) &&
+      !(ctaPath !== null && !item.children?.length && comparablePath(item.url) === ctaPath)
+  )
+  const contact = visible.filter(isContactNavItem)
+  const rest = visible.filter((item) => !isContactNavItem(item))
+  return [...rest, ...contact]
+}
+
+/** True when `pathname` is exactly `target` or sits beneath it (e.g. /about + /about/our-team). */
+export function isUrlActive(pathname: string, target: string): boolean {
+  if (target === '/') return pathname === '/'
+  return pathname === target || pathname.startsWith(target + '/')
+}
+
+/**
+ * True when `url` matches this item or any of its descendants (exact or beneath).
+ * Subtree membership — not just a prefix on `item.url` — so it still resolves when
+ * a child's URL isn't nested under its menu parent's URL (e.g. a "/services"
+ * primary whose child pages live at "/what-we-do/*").
+ */
+export function nodeContainsUrl(item: NavItem, url: string): boolean {
+  if (isUrlActive(url, item.url)) return true
+  return (item.children ?? []).some((child) => nodeContainsUrl(child, url))
+}
+
+/** The top-level (primary) nav item whose subtree contains `url`, or null. */
+export function findActivePrimary(nav: NavJson, url: string): NavItem | null {
+  for (const item of nav.primary) {
+    if (nodeContainsUrl(item, url)) return item
+  }
+  return null
+}
+
+/**
+ * Label of the nav node whose `url` exactly matches `url`, searching the full
+ * tree (any depth), or null. Used to give breadcrumb crumbs friendly menu
+ * labels instead of titleized slugs. Nav urls are already root-relative here
+ * (getNavConfig normalizes them), so an exact string match is sufficient.
+ */
+export function findNavLabel(nav: NavJson, url: string): string | null {
+  const search = (items: NavItem[]): string | null => {
+    for (const item of items) {
+      if (item.url === url) return item.label
+      const nested = search(item.children ?? [])
+      if (nested) return nested
+    }
+    return null
+  }
+  return search(nav.primary)
+}
+
+/** True when a primary has any tertiary items (a secondary that itself has children). */
+export function primaryHasTertiary(item: NavItem): boolean {
+  return (item.children ?? []).some((child) => (child.children?.length ?? 0) > 0)
+}
+
+/**
+ * Resolve the side-nav context for a page. Returns the active primary only when
+ * the page sits *beneath* a primary (a secondary or tertiary page — not the
+ * primary landing) AND that primary actually has tertiary items. Otherwise null,
+ * meaning: render full-width with no side-nav.
+ */
+export function resolveSideNav(nav: NavJson, url: string): NavItem | null {
+  const primary = findActivePrimary(nav, url)
+  if (!primary) return null
+  if (url === primary.url) return null // primary landing → no side-nav
+  if (!primaryHasTertiary(primary)) return null // only two levels → no side-nav
+  return primary
+}
