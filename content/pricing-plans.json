@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "intro": "Simple, transparent plans that scale with your business. Choose the level of support that fits where you are today.",
+  "billing": {
+    "showToggle": false,
+    "defaultCadence": "monthly",
+    "annualDiscountPct": 15,
+    "monthlyLabel": "Monthly",
+    "annualLabel": "Annual"
+  },
+  "tiers": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "description": "Clean books and the essentials, handled.",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "reconcile-bank-accounts",
+          "label": "Reconcile bank accounts",
+          "included": true
+        },
+        {
+          "id": "reconcile-electronic-transactions-into-qbo",
+          "label": "Reconcile electronic transactions into QBO",
+          "included": true
+        },
+        {
+          "id": "reconcile-credit-card-accounts",
+          "label": "Reconcile credit card accounts",
+          "included": true
+        },
+        {
+          "id": "business-tax-planning",
+          "label": "Business tax planning",
+          "included": true
+        },
+        {
+          "id": "consulting",
+          "label": "Consulting",
+          "included": true
+        },
+        {
+          "id": "business-tax-return-preparation",
+          "label": "Business tax return preparation",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "description": "Proactive support for a growing business.",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
+      "isMostPopular": true,
+      "features": [
+        {
+          "id": "includes-everything-in-basic-plus-payroll-services-including",
+          "label": "Includes everything in Basic plus Payroll services, including:",
+          "included": true
+        },
+        {
+          "id": "process-payroll-including-employee-setup-salary-changes-and-",
+          "label": "Process payroll, including employee setup, salary changes, and time tracking",
+          "included": true
+        },
+        {
+          "id": "provide-employee-access-to-electronic-pay-stubs",
+          "label": "Provide employee access to electronic pay stubs",
+          "included": true
+        },
+        {
+          "id": "provide-employer-access-to-electronic-pay-records",
+          "label": "Provide employer access to electronic pay records",
+          "included": true
+        },
+        {
+          "id": "prepare-and-file-of-payroll-tax-returns",
+          "label": "Prepare and file of payroll tax returns",
+          "included": true
+        },
+        {
+          "id": "prepare-w2s",
+          "label": "Prepare W2s",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "complete",
+      "name": "Complete",
+      "description": "Strategic finance leadership on demand.",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "includes-everything-in-standard-plus-bookkeeping-including",
+          "label": "Includes everything in Standard plus Bookkeeping, including:",
+          "included": true
+        },
+        {
+          "id": "track-credit-card-expenses",
+          "label": "Track credit card expenses",
+          "included": true
+        },
+        {
+          "id": "prepare-1099s-for-contractors",
+          "label": "Prepare 1099s for contractors",
+          "included": true
+        },
+        {
+          "id": "quarterly-video-conference",
+          "label": "Quarterly video conference",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Book a consultation",
+        "url": "/contact"
+      }
+    }
+  ],
+  "sharedFeatures": {
+    "heading": "All plans include",
+    "items": [
+      "A dedicated accountant who knows your business",
+      "Secure cloud document portal",
+      "Responsive email & phone support"
+    ]
+  },
+  "addOns": [],
+  "disclaimer": "Plans are a starting point — your final quote depends on the specifics of your engagement. Contact us for a tailored proposal.",
+  "cta": {
+    "label": "Book a consultation",
+    "url": "/contact"
+  }
+}
