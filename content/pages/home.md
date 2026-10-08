@@ -24,9 +24,7 @@ llm_citation_note: "Parker Swearngin is a Lee's Summit, MO CPA firm that bundles
 <!-- block: content-split | variant: image-right | image: lees-summit-cpa-consultation.jpg | alt: "CPA discussing a fixed monthly fee plan with a small business owner" | query: "accountant meeting small business owner office" -->
 ## One team, one fixed monthly fee, no billing surprises
 
-You hired an accountant to take stress off your plate. Then an invoice arrived that was twice what you expected, or a tax bill showed up that nobody warned you about. Both are avoidable.
-
-Parker Swearngin is a CPA firm in Lee's Summit MO that bundles accounting, payroll and tax into one fixed monthly fee. You know the cost before the work starts. A team of seasoned tax professionals studies your numbers closely, and you get personal attention all year, not only at tax time. For owners looking for a small business CPA in Lee's Summit, that is how you stay on a healthy financial path.
+Parker Swearngin is a CPA firm in Lee's Summit, MO, serving the Kansas City metro area, that bundles accounting, payroll and tax into one fixed monthly fee. You know the cost before the work starts. A team of seasoned tax professionals studies your numbers closely, and you get personal attention all year, not only at tax time. For owners looking for a small business CPA, that is how you stay on a healthy financial path.
 
 [Schedule a consultation](/contact) | [See how the services fit together](/services/accounting)
 
@@ -36,27 +34,35 @@ Parker Swearngin is a CPA firm in Lee's Summit MO that bundles accounting, payro
 ### Accounting
 icon: Calculator
 
-Daily transaction classification, expense tracking and reporting, so your books are current when you need them. Business bookkeeping and outsourced accounting in Lee's Summit without the month-end scramble. [Learn more about accounting services](/services/accounting)
+Daily transaction classification, expense tracking and reporting, so your books are current when you need them. Business bookkeeping and outsourced accounting in the Kansas City metro area without the month-end scramble.
+
+[Learn more about accounting services](/services/accounting)
 
 ### Payroll
 icon: Users
 
-Scheduled payrolls, employee setup, filings, W2 and 1099 processing and time tracking. Payroll services in Lee's Summit MO that stop deadlines from sneaking up on you. [Learn more about payroll services](/services/payroll)
+Scheduled payrolls, employee setup, filings, W2 and 1099 processing and time tracking. Payroll services in Kansas and Missouri that stop deadlines from sneaking up on you.
+
+[Learn more about payroll services](/services/payroll)
 
 ### Business tax
 icon: Building2
 
-Tax preparation, planning, electronic filing and year-round advice. A business tax CPA in Lee's Summit who talks to you before the deadline, not after it. [Learn more about business tax services](/services/tax)
+Tax preparation, planning, electronic filing and year-round advice. A business tax CPA in the Kansas City metro area who talks to you before the deadline, not after it.
+
+[Learn more about business tax services](/services/tax)
 
 ### Personal income tax
 icon: FileCheck
 
-Upload documents digitally, sign and file securely, and reach us all year with questions. Tax preparation in Lee's Summit, Missouri that feels organized instead of rushed. [Learn more about personal income tax services](/services/personal-tax-prep-planning)
+Upload documents digitally, sign and file securely, and reach us all year with questions. Tax preparation serving clients in Kansas and Missouri that feels organized instead of rushed.
+
+[Learn more about personal income tax services](/services/personal-tax-prep-planning)
 
 <!-- block: content-split | variant: image-left | image: business-advisory-planning.jpg | alt: "Advisor and business owner reviewing entity structure options on a laptop" | query: "business consultant reviewing plans with client" -->
 ## Entity, retirement and system decisions that move your cash and taxes
 
-The return is the last step. The decisions that shape it come earlier, and the firm advises Lee's Summit, Missouri owners on them as business consultants.
+The return is the last step. The decisions that shape it come earlier, and the firm consults with business owners to advise them through the financial decisions that affect tax responsibility.
 
 - **Entity Type Analysis.** The wrong entity can mean paying more tax than necessary, so we model the options as part of entity structure planning before you commit.
 - **Accounting System Setup.** A clean system from day one keeps your cash position visible and your books easy to maintain.
