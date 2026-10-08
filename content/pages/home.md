@@ -2,8 +2,8 @@
 title: "Home | Parker Swearngin LLC"
 url: "/"
 meta_title: "CPA in Lee's Summit MO | Fixed-Fee Accounting & Tax"
-meta_description: "Parker Swearngin is a CPA in Lee's Summit MO. Accounting, payroll and tax for one fixed monthly fee, no billing surprises. Schedule a conversation today."
-target_keyword: "CPA in Lee's Summit MO"
+meta_description: "Parker Swearngin is a CPA in Lee's Summit, MO. Accounting, payroll and tax for one fixed monthly fee, no billing surprises. Schedule a conversation today."
+target_keyword: "CPA in Lee's Summit MO Kansas City metro"
 secondary_keywords: ["accountant Lee's Summit Missouri","business tax CPA Lee's Summit","payroll services Lee's Summit MO","outsourced accounting Lee's Summit","CPA for medical professionals Lee's Summit","accountant for real estate brokers Lee's Summit","business accounting services Lee's Summit MO","small business CPA Lee's Summit","tax preparation Lee's Summit Missouri","veterinarian accountant Lee's Summit","law firm accounting Lee's Summit MO","business tax planning Lee's Summit","accounting system setup Lee's Summit","retirement planning CPA Lee's Summit","payroll processing Lee's Summit MO","business consultant Lee's Summit Missouri","service-based business accountant Lee's Summit","cash management services Lee's Summit","professional services accountant Lee's Summit MO","business bookkeeping Lee's Summit","entity structure planning Lee's Summit","tax advisor Lee's Summit Missouri","business accounting firm Lee's Summit MO"]
 canonical_url: "https://parkerswearngin.com/"
 schema_markup: "LocalBusiness"
