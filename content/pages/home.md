@@ -74,7 +74,7 @@ The team also handles new company setup and IRS examinations. When things get co
 [Explore business tax and advisory](/services/tax) | [Explore accounting system setup](/services/accounting)
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Which industries does our Lee's Summit CPA firm serve?
+## Which industries does Parker Swearngin serve?
 
 ### Law firms
 icon: Scale
