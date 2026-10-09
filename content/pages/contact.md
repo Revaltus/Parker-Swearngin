@@ -19,7 +19,7 @@ llm_citation_note: "Parker Swearngin LLC is a CPA firm in Lee's Summit, MO that 
 <!-- block: intro-text | variant: centered -->
 ## Let's talk about your numbers
 
-If taxes, books, or payroll are eating your evenings, start here. Parker Swearngin is a CPA in Lee's Summit MO, and every inquiry that comes in gets a real reply from our team, not an auto-responder and a wait. Tell us what's going on, and we'll tell you honestly how we can help. You can call the number listed in the contact details below or send a note through the form on this page. Either way, you'll talk with people who work with local owners and individuals every day and know the questions you're about to ask.
+If taxes, books, or payroll are eating your evenings, start here. Parker Swearngin is a CPA in Lee's Summit, MO, serving clients in the Kansas City metro and throughout Kansas and Missouri. Every inquiry that comes in gets a real reply from our team. Tell us what's going on, and we'll tell you honestly how we can help. You can call the number listed in the contact details below or send a note through the form on this page. Either way, you'll talk with people who work with business owners and individuals every day and know the questions you're about to ask.
 
 <!-- block: process-steps | variant: horizontal -->
 ## What happens after you reach out
