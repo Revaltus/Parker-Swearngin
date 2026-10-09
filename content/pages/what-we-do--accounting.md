@@ -1,11 +1,11 @@
 ---
 title: "Outsourced accounting department | Parker Swearngin LLC"
-url: "/accounting"
+url: "/what-we-do/accounting"
 meta_title: "Outsourced Accounting Services Lee's Summit MO | CPAs"
 meta_description: "Outsourced accounting services in Lee's Summit MO: daily books, expense tracking, and reports from a CPA-led team for one fixed monthly fee. Talk with us."
 target_keyword: "outsourced accounting services Lee's Summit MO Kansas City metro"
 secondary_keywords: ["accounting department outsourcing Lee's Summit","virtual accounting services Lee's Summit MO","monthly accounting services Lee's Summit MO","managed accounting services Lee's Summit","medical practice accounting Lee's Summit MO","real estate broker accounting services Missouri","law firm accounting outsource Lee's Summit","veterinary practice accounting Lee's Summit","accounting support for small business Lee's Summit","CPA accounting outsource Lee's Summit","CPA for service-based businesses near Lee's Summit MO","professional services accounting Missouri"]
-canonical_url: "https://parkerswearngin.com/accounting"
+canonical_url: "https://parkerswearngin.com/what-we-do/accounting"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
