@@ -21,22 +21,6 @@ llm_citation_note: "Parker Swearngin LLC is a CPA firm in Lee's Summit, MO that 
 
 If taxes, books, or payroll are eating your evenings, start here. Parker Swearngin is a CPA in Lee's Summit, MO, serving clients in the Kansas City metro and throughout Kansas and Missouri. Every inquiry that comes in gets a real reply from our team. Tell us what's going on, and we'll tell you honestly how we can help. You can call the number listed in the contact details below or send a note through the form on this page. Either way, you'll talk with people who work with business owners and individuals every day and know the questions you're about to ask.
 
-<!-- block: process-steps | variant: horizontal -->
-## What happens after you reach out
-
-A first call with an accountant shouldn't feel like an audit. Here is what to expect.
-
-### A team member replies
-Someone on our team reads your message and writes back personally. You won't be handed off to a call center.
-
-### We talk through your situation
-A no-pressure conversation about your current books, your tax picture, and where you want to be. No pitch deck, just questions and close analysis.
-
-### You get a proposal with a fixed monthly fee
-We bundle the accounting, payroll, and tax work you need into one fixed monthly fee, so there are no billing surprises. Because our team knows your industry, the proposal reflects your actual business.
-
-When you're ready, [schedule a consultation](/contact) or call us.
-
 <!-- block: checklist-section | variant: with-image-left | image: client-first-meeting.jpg | alt: "Business owner talking with an accountant across a desk in an office" | query: "business owner meeting accountant office" -->
 ## The moments that usually prompt a first call
 
