@@ -34,33 +34,6 @@ Most people reach out when something just happened. See if one of these sounds f
 - **Engineers and architects:** firm growth or new partners. See our [professional services accountant in Lee's Summit](/industries/professional-services).
 - **Individuals:** a surprise tax bill. See our [personal tax prep and planning](/services/personal-tax-prep-planning).
 
-<!-- block: service-cards | variant: 3-col -->
-## Advice that goes beyond the books
-
-You can ask us for business advisory and consulting, not only compliance. Four areas come up again and again.
-
-### Entity Type Analysis
-icon: Building2
-
-"Should I be an S-corp?" We model your numbers under each structure so you can see the tax effect before you file anything. Ask us about entity formation and restructuring in Lee's Summit.
-
-### Accounting System Setup
-icon: Cog
-
-"Is my bookkeeping set up to scale?" We choose and configure the system, build the chart of accounts, and make sure it holds up as you add people and projects. Ask us about accounting system setup in Lee's Summit.
-
-### Retirement Plan Analysis
-icon: PiggyBank
-
-"Which plan lets me save the most without straining payroll?" We compare options for you and your staff. Ask us about retirement planning as a CPA service in Lee's Summit.
-
-### Credit Card Rewards
-icon: CreditCard
-
-"Is my business card earning what it should?" We look at where your spending actually goes and which rewards structure pays you back.
-
-If any of these is on your mind, mention it in the form below.
-
 <!-- block: content-prose -->
 ## Why clients stay with us year after year
 
