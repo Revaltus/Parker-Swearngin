@@ -32,41 +32,6 @@ For you, that means shared knowledge instead of silos. A payroll question goes t
 
 Responsiveness, hard work, and esteem earned in the community are the values we hire for. Because clients stay, you build on relationships instead of starting over every spring. [Learn more about the firm](/who-we-are).
 
-<!-- block: feature-grid | variant: 3-col -->
-## The work you'll do for KC businesses and families
-
-Whether you're after bookkeeping jobs in Lee's Summit, MO or payroll accounting jobs in Lee's Summit, the work here covers the full financial picture for local clients, from daily entries to the tax return and the planning in between.
-
-### Accounting
-icon: Calculator
-
-Daily transaction classification, expense tracking, and reporting that keep the books clean and current.
-
-### Payroll
-icon: Users
-
-Scheduled payrolls, employee setup, salary changes, filings, and W2 and 1099 processing.
-
-### Business tax
-icon: Briefcase
-
-Tax preparation, planning, and electronic filing, backed by year-round advice for business owners.
-
-### Personal income tax
-icon: FileText
-
-Digital document upload, signature and filing, and year-round support for individuals.
-
-### Business advisory
-icon: Lightbulb
-
-Entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards.
-
-### Clients you'll serve
-icon: Building2
-
-Law firms (we integrate Clio with QuickBooks), medical professionals, veterinarians, real estate brokers, engineers and architects, and HVAC, drywall, concrete, and asphalt subcontractors.
-
 <!-- block: content-split | variant: image-left | image: senior-accountant-mentoring.jpg | alt: "Senior accountant explaining a tax return to a junior colleague at a desk" | query: "senior accountant coaching junior colleague desk" -->
 ## Grow alongside seasoned tax professionals
 
