@@ -30,7 +30,7 @@ Our payroll services put that work in the hands of the team that already knows y
 Payroll becomes our job, so it stops being one more thing on yours.
 
 <!-- block: feature-grid | variant: 3-col -->
-## What do our payroll services in Lee's Summit MO include?
+## What do Parker Swearngin's payroll services include?
 
 Here is what payroll processing in Lee's Summit looks like with us, from payroll setup and administration through the final W2.
 
