@@ -23,8 +23,6 @@ Job boards give you a wall of anonymous postings. Staffing agencies match you to
 
 Our tagline is about helping clients stay on a healthy financial path. We want the same for our own team: steady work, real responsibility, and a career you can build close to home. If you're searching for accounting careers in the Kansas City metro area, start here.
 
-[See current openings](#current-openings)
-
 <!-- block: content-split | variant: image-right | image: accounting-team-collaboration.jpg | alt: "Accounting team members reviewing client documents together at a shared office table" | query: "accountants collaborating office table documents" -->
 ## A team mentality where nobody works alone
 
