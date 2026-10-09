@@ -23,9 +23,9 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, offers pay
 <!-- block: intro-text | variant: centered -->
 ## Payday handled, so you can get back to your business
 
-Parker Swearngin, LLP provides CPA-led payroll services in Lee's Summit MO for local business owners, including scheduled payrolls, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. Our team runs payroll for one fixed monthly fee, so owners avoid billing surprises.
+Parker Swearngin, LLC provides CPA-led payroll services in the Kansas City metro area for business owners, including scheduled payrolls, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. Our team runs payroll for one fixed monthly fee, so owners avoid billing surprises.
 
-Our payroll services in Lee's Summit MO put that work in the hands of the team that already knows your business. We serve owners in Lee's Summit and across the KC area who would rather spend payday running the company than double-checking it.
+Our payroll services put that work in the hands of the team that already knows your business. We serve owners in throughout Kansas and Missouri who would rather spend payday running the company than double-checking it.
 
 Payroll becomes our job, so it stops being one more thing on yours.
 
