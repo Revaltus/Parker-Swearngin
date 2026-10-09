@@ -2,8 +2,8 @@
 title: "Payroll | Parker Swearngin LLC"
 url: "/what-we-do/payroll"
 meta_title: "Payroll Services Lee's Summit MO | Parker Swearngin"
-meta_description: "CPA-led payroll services in Lee's Summit MO: scheduled payrolls, W2 and 1099 processing, and payroll filings for one fixed monthly fee. Schedule a consultation."
-target_keyword: "payroll services Lee's Summit MO"
+meta_description: "CPA-led payroll services in the Kansas City metro: scheduled payrolls, W2 and 1099 processing, and payroll filings for one fixed monthly fee. Schedule a consultation."
+target_keyword: "payroll services Lee's Summit MO Kansas City metro"
 secondary_keywords: ["payroll processing Lee's Summit","small business payroll services Missouri","medical practice payroll Lee's Summit","law firm payroll services Lee's Summit","veterinary practice payroll Missouri","real estate office payroll services","professional services payroll processing","payroll tax compliance Lee's Summit","outsourced payroll Missouri","CPA payroll services Lee's Summit","service-based business payroll","payroll accounting Lee's Summit MO","employee payroll management Missouri","payroll setup and administration","business payroll solutions Lee's Summit"]
 canonical_url: "https://parkerswearngin.com/what-we-do/payroll"
 schema_markup: "Service"
@@ -13,7 +13,7 @@ hero_image: "payroll-review-small-business.jpg"
 hero_image_alt: "Business owner and accountant reviewing payroll reports together on a laptop at a desk"
 hero_subhead: "Hand off pay runs, filings, and year-end forms to a CPA-led team that already knows your business"
 hero_headline: "Payday handled, so you can get back to your business"
-answer_block: "Parker Swearngin provides CPA-led payroll services in Lee's Summit, MO, covering scheduled payroll processing, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. Payroll is bundled with the firm's accounting and tax services for a fixed monthly fee, so there are no billing surprises."
+answer_block: "Parker Swearngin provides CPA-led payroll services in Lee's Summit, MO, and the Kansas City metro area, covering scheduled payroll processing, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. Payroll is bundled with the firm's accounting and tax services for a fixed monthly fee, so there are no billing surprises."
 eeat_signals: ["CPA-led team of seasoned tax professionals handling payroll, accounting, and tax together","IRS Examination experience supports clients who receive payroll notices","High client retention year after year","Bundled services for a fixed monthly fee","Serves employers in Lee's Summit, the Kansas City metro, Missouri, and Kansas","Clio and QuickBooks integration for law firm clients","Member of the Lee's Summit Chamber of Commerce"]
 internal_links: [{"url":"/industries/service-based-businesses","reason":"Subcontractor payroll and 1099 sub tracking niche","anchor_text":"Service-based business accounting"},{"url":"/industries/medical-professionals","reason":"Medical practice payroll niche","anchor_text":"Medical professional services"},{"url":"/industries/veterinarians","reason":"Veterinary practice payroll niche","anchor_text":"Veterinary practice support"},{"url":"/industries/law-firms","reason":"Law firm payroll alongside IOLTA and Clio with QuickBooks","anchor_text":"Law firm accounting"}]
 faq_block: [{"answer":"Payroll with us covers six things: processing scheduled payrolls, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. The team runs payroll on your existing pay schedule. Because CPAs lead the work, payroll questions that touch your taxes get answered in the same conversation.","question":"What does payroll processing include?"},{"answer":"Yes. Payroll filings are part of the service, and the firm serves employers in Missouri and Kansas as well as the Kansas City metro. The CPA-led team prepares and submits the filings so deadlines are tracked for you. Bring any specific state registration question to your consultation call.","question":"Do you handle payroll filings for Missouri and Kansas employers?"},{"answer":"Yes. The team processes W2s for employees and 1099s for contractors. That matters most for subcontractors and real estate offices, where the line between employee and contractor affects tax filings. Classification questions go to the CPAs, who can review the situation alongside your tax planning.","question":"Can you process both W2 employees and 1099 contractors?"},{"answer":"Payroll is part of the firm's bundled services, billed for a fixed monthly fee so there are no billing surprises. The team quotes your fee after a short call about your headcount, your pay schedule, and the other services you want bundled with payroll.","question":"How is payroll priced?"},{"answer":"Bring your employee list, your current payroll provider's details, and your pay frequency. Those three items let the team review your existing setup and plan the handoff. You don't need everything organized first; the consultation is where the team sorts out whatever else is needed.","question":"What should I have ready to switch payroll providers?"},{"answer":"The firm's work includes IRS Examinations, so payroll notices are familiar ground. Share the notice with the team, and CPAs who handle IRS examinations can review it and help you respond. Bringing it in early gives everyone more time to sort out what happened.","question":"What happens if I receive an IRS payroll notice?"}]
@@ -23,14 +23,14 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, offers pay
 <!-- block: intro-text | variant: centered -->
 ## Payday handled, so you can get back to your business
 
-Parker Swearngin, LLP provides CPA-led payroll services in Lee's Summit MO for local business owners, including scheduled payrolls, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. Our team runs payroll for one fixed monthly fee, so owners avoid billing surprises.
+Parker Swearngin, LLC provides CPA-led payroll services in the Kansas City metro area for business owners, including scheduled payrolls, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking. Our team runs payroll for one fixed monthly fee, so owners avoid billing surprises.
 
-Our payroll services in Lee's Summit MO put that work in the hands of the team that already knows your business. We serve owners in Lee's Summit and across the KC area who would rather spend payday running the company than double-checking it.
+Our payroll services put that work in the hands of the team that already knows your business. We serve owners in throughout Kansas and Missouri who would rather spend payday running the company than double-checking it.
 
 Payroll becomes our job, so it stops being one more thing on yours.
 
 <!-- block: feature-grid | variant: 3-col -->
-## What do our payroll services in Lee's Summit MO include?
+## What do Parker Swearngin's payroll services include?
 
 Here is what payroll processing in Lee's Summit looks like with us, from payroll setup and administration through the final W2.
 
@@ -69,7 +69,7 @@ Hours are recorded for payroll, so hourly pay starts from logged time instead of
 
 Payroll taxes are where small mistakes get expensive. Employers in Missouri and Kansas answer to the IRS and to their state on withholding and unemployment reporting. A late or incorrect filing can bring penalties, interest, and notices that take hours to untangle.
 
-Payroll filings are part of the service, along with W2 and 1099 processing at year-end. That is payroll tax compliance in Lee's Summit that owners can hand to CPA-led professionals instead of a call center. For businesses weighing outsourced payroll in Missouri, the difference is who reads the numbers: seasoned tax professionals who prepare returns all year.
+Payroll filings are part of the service, along with W2 and 1099 processing at year-end. That is payroll tax compliance that owners can hand to CPA-led professionals instead of a call center. For businesses weighing outsourced payroll, the difference is who reads the numbers: seasoned tax professionals who prepare returns all year.
 
 If a payroll notice does arrive, the firm's IRS Examination experience is on your side. Bring it in, and the team will review it with you and help you respond.
 
@@ -121,7 +121,7 @@ Project-based revenue arrives in lumps, but payroll goes out on a steady schedul
 <!-- block: content-split | variant: image-right | image: payroll-books-tax-planning.jpg | alt: "Two accountants comparing payroll reports and ledger entries on a laptop" | query: "accountants comparing payroll reports and ledger" -->
 ## How does payroll connect to your books and your tax plan?
 
-A payroll-only vendor sees a pay run. This team sees the pay run, the books it lands in, and the tax return it eventually affects. That is why payroll accounting in Lee's Summit MO works better when one group handles all three, and why CPA payroll services in Lee's Summit can include advice a vendor never offers.
+A payroll-only vendor sees a pay run. This team sees the pay run, the books it lands in, and the tax return it eventually affects. That is why payroll accounting works better when one group handles all three, and why CPA payroll services from the Parker Swearngin team can include advice a vendor never offers.
 
 Business advisory and consulting sits behind the payroll work. The topics the firm advises on include:
 
