@@ -19,23 +19,7 @@ llm_citation_note: "Parker Swearngin LLC is a CPA firm in Lee's Summit, MO that 
 <!-- block: intro-text | variant: centered -->
 ## Let's talk about your numbers
 
-If taxes, books, or payroll are eating your evenings, start here. Parker Swearngin is a CPA in Lee's Summit MO, and every inquiry that comes in gets a real reply from our team, not an auto-responder and a wait. Tell us what's going on, and we'll tell you honestly how we can help. You can call the number listed in the contact details below or send a note through the form on this page. Either way, you'll talk with people who work with local owners and individuals every day and know the questions you're about to ask.
-
-<!-- block: process-steps | variant: horizontal -->
-## What happens after you reach out
-
-A first call with an accountant shouldn't feel like an audit. Here is what to expect.
-
-### A team member replies
-Someone on our team reads your message and writes back personally. You won't be handed off to a call center.
-
-### We talk through your situation
-A no-pressure conversation about your current books, your tax picture, and where you want to be. No pitch deck, just questions and close analysis.
-
-### You get a proposal with a fixed monthly fee
-We bundle the accounting, payroll, and tax work you need into one fixed monthly fee, so there are no billing surprises. Because our team knows your industry, the proposal reflects your actual business.
-
-When you're ready, [schedule a consultation](/contact) or call us.
+If taxes, books, or payroll are eating your evenings, start here. Parker Swearngin is a CPA in Lee's Summit, MO, serving clients in the Kansas City metro and throughout Kansas and Missouri. Every inquiry that comes in gets a real reply from our team. Tell us what's going on, and we'll tell you honestly how we can help. You can call the number listed in the contact details below or send a note through the form on this page. Either way, you'll talk with people who work with business owners and individuals every day and know the questions you're about to ask.
 
 <!-- block: checklist-section | variant: with-image-left | image: client-first-meeting.jpg | alt: "Business owner talking with an accountant across a desk in an office" | query: "business owner meeting accountant office" -->
 ## The moments that usually prompt a first call
@@ -50,33 +34,6 @@ Most people reach out when something just happened. See if one of these sounds f
 - **Engineers and architects:** firm growth or new partners. See our [professional services accountant in Lee's Summit](/industries/professional-services).
 - **Individuals:** a surprise tax bill. See our [personal tax prep and planning](/services/personal-tax-prep-planning).
 
-<!-- block: service-cards | variant: 3-col -->
-## Advice that goes beyond the books
-
-You can ask us for business advisory and consulting, not only compliance. Four areas come up again and again.
-
-### Entity Type Analysis
-icon: Building2
-
-"Should I be an S-corp?" We model your numbers under each structure so you can see the tax effect before you file anything. Ask us about entity formation and restructuring in Lee's Summit.
-
-### Accounting System Setup
-icon: Cog
-
-"Is my bookkeeping set up to scale?" We choose and configure the system, build the chart of accounts, and make sure it holds up as you add people and projects. Ask us about accounting system setup in Lee's Summit.
-
-### Retirement Plan Analysis
-icon: PiggyBank
-
-"Which plan lets me save the most without straining payroll?" We compare options for you and your staff. Ask us about retirement planning as a CPA service in Lee's Summit.
-
-### Credit Card Rewards
-icon: CreditCard
-
-"Is my business card earning what it should?" We look at where your spending actually goes and which rewards structure pays you back.
-
-If any of these is on your mind, mention it in the form below.
-
 <!-- block: content-prose -->
 ## Why clients stay with us year after year
 
@@ -85,10 +42,8 @@ Our client base returns year after year, and that is the number we're proudest o
 <!-- FIRM TO SUPPLY: Insert real Google reviews or a client quote here, with the client's permission. Do not publish placeholder or invented testimonials. -->
 
 <!-- block: contact-info -->
-## How to Reach Us
 
 <!-- block: map -->
-## Where to Find Us
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Contact
