@@ -37,28 +37,30 @@ Responsiveness, hard work, and esteem earned in the community are the values we 
 
 Looking for accounting positions in Lee's Summit, MO, tax season jobs, or a CPA firm that's hiring? Roles are grouped by function below. [Firm to replace each placeholder with an actual posting, or remove the card if nothing is open.]
 
-### Bookkeeping and accounting
+### CPA/Accountant
 icon: Calculator
 
-[Role title: confirm open posting.] [One-line summary: confirm duties, such as transaction classification, expense tracking, and reporting.] [Apply](/contact)
+Full-time role requiring tax review experience. Ultratax experience preferred.\
+·      Health Insurance
 
-### Payroll
+·      Paid Time Off
+
+·      401(k) *for eligible full-time employees*
+
+[Apply](/contact)
+
+### Bookkeeper
 icon: Users
 
-[Role title: confirm open posting.] [One-line summary: confirm duties, such as scheduled payrolls, filings, and W2 and 1099 processing.] [Apply](/contact)
+Full-time or part-time role requiring experience with QuickBooks Online.
 
-### Tax preparation and tax season
-icon: FileText
+·      Health Insurance
 
-[Role title: confirm open posting or seasonal need.] [One-line summary: confirm duties for business and personal tax preparation.] [Apply](/contact)
+·      Paid Time Off
 
-### Internships
-icon: GraduationCap
+·      401(k) *for eligible full-time employees*
 
-[Role title: confirm open posting.] [One-line summary: confirm timing and duties.] [Apply](/contact)
-
-Don't see your role? Send a resume anyway through our [contact page](/contact). We keep strong candidates in mind for future openings.
-
+[Apply](/contact)
 <!-- block: process-steps | variant: horizontal -->
 ## How to apply and what happens next
 
