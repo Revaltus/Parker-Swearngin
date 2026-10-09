@@ -21,7 +21,7 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, provides o
 ---
 
 <!-- block: content-split | variant: image-left | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing financial reports with a small business owner at a desk" | query: "accountant reviewing reports with business owner" -->
-## Outsourced accounting services in Lee's Summit MO: your own accounting department without the hiring headache
+## Your own accounting department without the hiring headache
 
 Outsourced accounting services in Lee's Summit MO from Parker Swearngin, LLP give your business a dedicated, CPA-led team that acts as your in-house accounting department. The team handles daily transaction classification, expense tracking, and reporting for one fixed monthly fee, so your books stay clean and current without a new hire.
 
