@@ -32,17 +32,6 @@ For you, that means shared knowledge instead of silos. A payroll question goes t
 
 Responsiveness, hard work, and esteem earned in the community are the values we hire for. Because clients stay, you build on relationships instead of starting over every spring. [Learn more about the firm](/who-we-are).
 
-<!-- block: content-split | variant: image-left | image: senior-accountant-mentoring.jpg | alt: "Senior accountant explaining a tax return to a junior colleague at a desk" | query: "senior accountant coaching junior colleague desk" -->
-## Grow alongside seasoned tax professionals
-
-You learn faster next to people who have seen the problem before. Our team is built around seasoned tax professionals, and that experience is available to you from your first week on real client work.
-
-Junior accountants, associates, and interns here see the range of the practice: IRS examinations, entity and retirement planning, payroll, and year-round tax advice for the niches above. That breadth is what makes tax accounting careers in Missouri worth building at a firm like this, instead of repeating a single task on a production line.
-
-If you're searching for junior accountant positions or accounting internships in Lee's Summit, this is a place to learn the whole job.
-
-[Firm to confirm before publishing: any real benefits, training, or study support to list here. Do not publish until verified.]
-
 <!-- block: service-cards | variant: 2-col -->
 ## Current openings at Parker Swearngin
 
