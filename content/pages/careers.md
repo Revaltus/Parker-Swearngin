@@ -61,24 +61,6 @@ Full-time or part-time role requiring experience with QuickBooks Online.
 ·      401(k) *for eligible full-time employees*
 
 [Apply](/contact)
-<!-- block: process-steps | variant: horizontal -->
-## How to apply and what happens next
-
-You should know where you stand. [Firm to confirm the real process and the response time before publishing, for example: we reply to every application within X business days.]
-
-### Send your application
-[Firm to confirm: application form link or careers email.] Include a resume and a few lines on the work you want to do.
-
-### Have a first conversation
-[Firm to confirm: who reaches out and how.] A short call to talk about your experience and what you're looking for.
-
-### Meet the team
-[Firm to confirm: interview format and length.] You'll see how the team works and ask your own questions.
-
-### Receive an offer
-[Firm to confirm: timing and next steps.] Clear terms, and an answer to every question you have.
-
-Ready to apply? Use the Apply button on an open role, or send your resume through the [contact page](/contact). Questions first? Ask there too.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers
