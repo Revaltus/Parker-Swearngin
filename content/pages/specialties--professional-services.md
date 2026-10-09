@@ -1,11 +1,11 @@
 ---
 title: "Accountant for professional-service firms | Parker Swearngin LLC"
-url: "/professional-services"
+url: "/specialties/professional-services"
 meta_title: "Accountant for Professional Services Firms Lee's Summit MO"
 meta_description: "CPA-led accounting, payroll, and tax for Lee's Summit engineers and architects. See project profitability and keep more of what you earn. Fixed monthly fee."
 target_keyword: "accountant for professional services firms Lee's Summit MO"
 secondary_keywords: ["professional services accounting Lee's Summit","cash management accounting professional services","payroll services professional services firms Lee's Summit","business tax CPA professional services Missouri","entity type analysis professional services","accounting systems setup professional services Lee's Summit","retirement planning professional services CPA","outsourced accounting professional services MO","tax planning professional services Lee's Summit","professional services firm accounting services","accounting for consulting firms Lee's Summit MO","CPA near me professional services"]
-canonical_url: "https://parkerswearngin.com/professional-services"
+canonical_url: "https://parkerswearngin.com/specialties/professional-services"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

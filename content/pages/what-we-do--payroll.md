@@ -1,11 +1,11 @@
 ---
 title: "Payroll | Parker Swearngin LLC"
-url: "/payroll"
+url: "/what-we-do/payroll"
 meta_title: "Payroll Services Lee's Summit MO | Parker Swearngin"
 meta_description: "CPA-led payroll services in Lee's Summit MO: scheduled payrolls, W2 and 1099 processing, and payroll filings for one fixed monthly fee. Schedule a consultation."
 target_keyword: "payroll services Lee's Summit MO"
 secondary_keywords: ["payroll processing Lee's Summit","small business payroll services Missouri","medical practice payroll Lee's Summit","law firm payroll services Lee's Summit","veterinary practice payroll Missouri","real estate office payroll services","professional services payroll processing","payroll tax compliance Lee's Summit","outsourced payroll Missouri","CPA payroll services Lee's Summit","service-based business payroll","payroll accounting Lee's Summit MO","employee payroll management Missouri","payroll setup and administration","business payroll solutions Lee's Summit"]
-canonical_url: "https://parkerswearngin.com/payroll"
+canonical_url: "https://parkerswearngin.com/what-we-do/payroll"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

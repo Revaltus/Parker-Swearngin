@@ -1,54 +1,54 @@
 {
   "primary": [
     {
-      "label": "Services",
-      "url": "/",
+      "label": "What we do",
+      "url": "/what-we-do",
       "children": [
         {
           "label": "Accounting",
-          "url": "/accounting"
+          "url": "/what-we-do/accounting"
         },
         {
           "label": "Payroll",
-          "url": "/payroll"
+          "url": "/what-we-do/payroll"
         },
         {
           "label": "Tax planning and preparation",
-          "url": "/tax"
+          "url": "/what-we-do/tax"
         },
         {
           "label": "Personal income tax",
-          "url": "/personal-tax-prep-planning"
+          "url": "/what-we-do/personal-tax-prep-planning"
         }
       ]
     },
     {
-      "label": "Industries",
-      "url": "/",
+      "label": "Specialties",
+      "url": "/specialties",
       "children": [
         {
           "label": "Service Based Businesses",
-          "url": "/service-based-businesses"
+          "url": "/specialties/service-based-businesses"
         },
         {
           "label": "Medical Professionals",
-          "url": "/medical-professionals"
+          "url": "/specialties/medical-professionals"
         },
         {
           "label": "Real estate brokers",
-          "url": "/real-estate"
+          "url": "/specialties/real-estate"
         },
         {
           "label": "Veterinarians",
-          "url": "/veterinarians"
+          "url": "/specialties/veterinarians"
         },
         {
           "label": "Professional Services",
-          "url": "/professional-services"
+          "url": "/specialties/professional-services"
         },
         {
           "label": "Law Firms",
-          "url": "/law-firms"
+          "url": "/specialties/law-firms"
         }
       ]
     },

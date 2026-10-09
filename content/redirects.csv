@@ -3,12 +3,21 @@
 # Format: old_url,new_url,status_code,reason
 # Lines starting with # are ignored by the Next.js redirect loader.
 old_url,new_url,status_code,reason
-/services/payroll,/payroll,301,Nested via nav editor
-/services/tax,/tax,301,Nested via nav editor
-/services/accounting,/accounting,301,Nested via nav editor
-/services/personal-tax-prep-planning,/personal-tax-prep-planning,301,Nested via nav editor
-/industries/service-based-businesses,/service-based-businesses,301,Nested via nav editor
-/industries/medical-professionals,/medical-professionals,301,Nested via nav editor
-/industries/real-estate,/real-estate,301,Nested via nav editor
-/industries/veterinarians,/veterinarians,301,Nested via nav editor
-/industries/professional-services,/professional-services,301,Nested via nav editor
+/services/payroll,/what-we-do/payroll,301,Nested via nav editor
+/services/tax,/what-we-do/tax,301,Nested via nav editor
+/services/accounting,/what-we-do/accounting,301,Nested via nav editor
+/services/personal-tax-prep-planning,/what-we-do/personal-tax-prep-planning,301,Nested via nav editor
+/industries/service-based-businesses,/specialties/service-based-businesses,301,Nested via nav editor
+/industries/medical-professionals,/specialties/medical-professionals,301,Nested via nav editor
+/industries/real-estate,/specialties/real-estate,301,Nested via nav editor
+/industries/veterinarians,/specialties/veterinarians,301,Nested via nav editor
+/industries/professional-services,/specialties/professional-services,301,Nested via nav editor
+/accounting,/what-we-do/accounting,301,Nested via nav editor
+/payroll,/what-we-do/payroll,301,Nested via nav editor
+/tax,/what-we-do/tax,301,Nested via nav editor
+/personal-tax-prep-planning,/what-we-do/personal-tax-prep-planning,301,Nested via nav editor
+/service-based-businesses,/specialties/service-based-businesses,301,Nested via nav editor
+/medical-professionals,/specialties/medical-professionals,301,Nested via nav editor
+/real-estate,/specialties/real-estate,301,Nested via nav editor
+/veterinarians,/specialties/veterinarians,301,Nested via nav editor
+/professional-services,/specialties/professional-services,301,Nested via nav editor
