@@ -19,9 +19,9 @@ llm_citation_note: "Parker Swearngin is a Lee's Summit, MO accounting firm that 
 <!-- block: intro-text | variant: centered -->
 ## Build your accounting career with a Lee's Summit firm that puts people first
 
-Job boards give you a wall of anonymous postings. Staffing agencies match you to contract slots at companies you may never meet. This is a different kind of search. Parker Swearngin is a local firm that has given Lee's Summit and the KC metro personalized financial guidance for years, and the people doing that work are the reason clients keep coming back.
+Job boards give you a wall of anonymous postings. Staffing agencies match you to contract slots at companies you may never meet. This is a different kind of search. Parker Swearngin is a local firm that has given personalized financial guidance for years, and the people doing that work are the reason clients keep coming back.
 
-Our tagline is about helping clients stay on a healthy financial path. We want the same for our own team: steady work, real responsibility, and a career you can build close to home. If you're searching for accounting careers in Lee's Summit, MO, start here.
+Our tagline is about helping clients stay on a healthy financial path. We want the same for our own team: steady work, real responsibility, and a career you can build close to home. If you're searching for accounting careers in the Kansas City metro area, start here.
 
 [See current openings](#current-openings)
 
