@@ -2,28 +2,26 @@
 title: "Careers | Parker Swearngin LLC"
 url: "/careers"
 meta_title: "Accounting Careers Lee's Summit MO | Parker Swearngin"
-meta_description: "Explore accounting careers in Lee's Summit, MO at Parker Swearngin. Join a team of seasoned tax pros serving KC businesses and families. See open roles."
-target_keyword: "accounting careers Lee's Summit MO"
+meta_description: "Explore accounting careers in the Kansas City metro at Parker Swearngin. Join a team of seasoned tax pros serving businesses and families. See open roles."
+target_keyword: "accounting careers Lee's Summit MO Kansas City metro"
 secondary_keywords: ["CPA jobs Lee's Summit Missouri","accounting firm jobs near me","Parker Swearngin LLC careers","payroll accounting jobs Lee's Summit","accounting positions Lee's Summit MO","tax accounting careers Missouri","CPA firm employment Lee's Summit","accounting internships Lee's Summit","bookkeeping jobs Lee's Summit MO","junior accountant positions Lee's Summit","accounting staff wanted Lee's Summit","tax season jobs Lee's Summit","CPA firm hiring Lee's Summit","accounting associate jobs Missouri","professional accounting careers Lee's Summit"]
 canonical_url: "https://parkerswearngin.com/careers"
 schema_markup: "LocalBusiness"
 hero: "page-header"
 hero_subhead: "Build a career on real client work, with a local KC team that shares what it knows"
-answer_block: "Parker Swearngin is a Lee's Summit, MO accounting firm that hires for bookkeeping, payroll, tax preparation, and internship roles. The team works together on real client work for KC businesses and families, alongside seasoned tax professionals. Current openings are listed on the careers page, and candidates can send a resume for future roles."
-eeat_signals: ["Local Lee's Summit firm providing personalized financial guidance to individuals and businesses for years","Team includes seasoned tax professionals, including CPAs","High client retention year after year reflects a stable, team-based culture","Four service lines: accounting, payroll, business tax, and personal income tax, plus business advisory","Real client work with law firms, medical professionals, veterinarians, real estate brokers, engineers and architects, and HVAC, drywall, concrete, and asphalt subcontractors","Clio and QuickBooks integration for law firm clients","Member of the Lee's Summit Chamber of Commerce"]
+answer_block: "Parker Swearngin is a Lee's Summit, MO accounting firm serving clients in the the Kansas City metro and throughout Kansas and Missouri, hiring for bookkeeping, payroll, tax preparation, and internship roles. The team works together on real client work for businesses and families, alongside seasoned tax professionals. Current openings are listed on the careers page, and candidates can send a resume for future roles."
+eeat_signals: ["Kansas City metro area firm providing personalized financial guidance to individuals and businesses for years","Team includes seasoned tax professionals, including CPAs","High client retention year after year reflects a stable, team-based culture","Four service lines: accounting, payroll, business tax, and personal income tax, plus business advisory","Real client work with law firms, medical professionals, veterinarians, real estate brokers, engineers and architects, and HVAC, drywall, concrete, and asphalt subcontractors","Clio and QuickBooks integration for law firm clients","Member of the Lee's Summit Chamber of Commerce"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA and the route for applications, resumes, and candidate questions","anchor_text":"Schedule a consultation"},{"url":"/who-we-are","reason":"Gives candidates the firm's story and team context","anchor_text":"Learn more about the firm"},{"url":"/services/accounting","reason":"Shows candidates the bookkeeping and accounting work they would do","anchor_text":"accounting services"},{"url":"/services/payroll","reason":"Shows candidates the payroll work they would do","anchor_text":"payroll services"}]
-faq_block: [{"answer":"Internship interest is welcome. The openings section lists any current internship roles, and if none are posted, you can send a resume through the contact page so the team has it when a spot opens. Interns learn on real client work, not a single repeated task.","question":"Does Parker Swearngin hire accounting interns?"},{"answer":"Clients include law firms, medical professionals, veterinarians, real estate brokers, engineers and architects, and HVAC, drywall, concrete, and asphalt subcontractors, plus individuals who need tax help. Serving KC and the metro means you see different industries, each with its own cash flow, payroll, and tax questions.","question":"What kinds of clients would I work with?"},{"answer":"Not for every role. Bookkeeping, payroll, and tax preparation positions have their own requirements, and the firm's team includes CPAs working alongside other professionals. Each posting lists what it needs. If you're early in your career, mention it when you reach out, since junior accountant and internship paths are part of the conversation.","question":"Do I need to be a CPA to apply?"},{"answer":"Tax preparation and tax season roles are listed in the openings section when available. The firm's tax work uses digital document upload, signature and filing, and electronic filing, so preparers work from secure digital files. If no seasonal role is posted, send a resume for future openings.","question":"Are there tax season jobs in Lee's Summit?"},{"answer":"Use the Apply button on any open role, or send a resume through the contact page if nothing matches yet. The process section on this page walks through each step from application to offer, so you know what to expect. Questions beforehand are welcome through the same contact page.","question":"How do I apply to Parker Swearngin?"}]
+faq_block: [{"question":"Does Parker Swearngin hire accounting interns?","answer":"Internship interest is welcome. The openings section lists any current internship roles, and if none are posted, you can send a resume through the contact page so the team has it when a spot opens. Interns learn on real client work, not a single repeated task."},{"question":"What kinds of clients would I work with?","answer":"Clients include law firms, medical professionals, veterinarians, real estate brokers, engineers and architects, and HVAC, drywall, concrete, and asphalt subcontractors, plus individuals who need tax help. Serving KC and the metro means you see different industries, each with its own cash flow, payroll, and tax questions."},{"question":"Do I need to be a CPA to apply?","answer":"Not for every role. Bookkeeping, payroll, and tax preparation positions have their own requirements, and the firm's team includes CPAs working alongside other professionals. Each posting lists what it needs. If you're early in your career, mention it when you reach out, since junior accountant and internship paths are part of the conversation."},{"question":"Are there tax season jobs in Lee's Summit?","answer":"Tax preparation and tax season roles are listed in the openings section when available. The firm's tax work uses digital document upload, signature and filing, and electronic filing, so preparers work from secure digital files. If no seasonal role is posted, send a resume for future openings."},{"question":"How do I apply to Parker Swearngin?","answer":"Use the Apply button on any open role, or send a resume through the contact page if nothing matches yet. Questions beforehand are welcome through the same contact page."}]
 llm_citation_note: "Parker Swearngin is a Lee's Summit, MO accounting firm that hires for bookkeeping, payroll, tax preparation, and internship roles, with a team-based culture built around seasoned tax professionals and high year-over-year client retention."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Build your accounting career with a Lee's Summit firm that puts people first
 
-Job boards give you a wall of anonymous postings. Staffing agencies match you to contract slots at companies you may never meet. This is a different kind of search. Parker Swearngin is a local firm that has given Lee's Summit and the KC metro personalized financial guidance for years, and the people doing that work are the reason clients keep coming back.
+Job boards give you a wall of anonymous postings. Staffing agencies match you to contract slots at companies you may never meet. This is a different kind of search. Parker Swearngin is a local firm that has given personalized financial guidance for years, and the people doing that work are the reason clients keep coming back.
 
-Our tagline is about helping clients stay on a healthy financial path. We want the same for our own team: steady work, real responsibility, and a career you can build close to home. If you're searching for accounting careers in Lee's Summit, MO, start here.
-
-[See current openings](#current-openings)
+Our tagline is about helping clients stay on a healthy financial path. We want the same for our own team: steady work, real responsibility, and a career you can build close to home. If you're searching for accounting careers in the Kansas City metro area, start here.
 
 <!-- block: content-split | variant: image-right | image: accounting-team-collaboration.jpg | alt: "Accounting team members reviewing client documents together at a shared office table" | query: "accountants collaborating office table documents" -->
 ## A team mentality where nobody works alone
@@ -34,97 +32,35 @@ For you, that means shared knowledge instead of silos. A payroll question goes t
 
 Responsiveness, hard work, and esteem earned in the community are the values we hire for. Because clients stay, you build on relationships instead of starting over every spring. [Learn more about the firm](/who-we-are).
 
-<!-- block: feature-grid | variant: 3-col -->
-## The work you'll do for KC businesses and families
-
-Whether you're after bookkeeping jobs in Lee's Summit, MO or payroll accounting jobs in Lee's Summit, the work here covers the full financial picture for local clients, from daily entries to the tax return and the planning in between.
-
-### Accounting
-icon: Calculator
-
-Daily transaction classification, expense tracking, and reporting that keep the books clean and current.
-
-### Payroll
-icon: Users
-
-Scheduled payrolls, employee setup, salary changes, filings, and W2 and 1099 processing.
-
-### Business tax
-icon: Briefcase
-
-Tax preparation, planning, and electronic filing, backed by year-round advice for business owners.
-
-### Personal income tax
-icon: FileText
-
-Digital document upload, signature and filing, and year-round support for individuals.
-
-### Business advisory
-icon: Lightbulb
-
-Entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards.
-
-### Clients you'll serve
-icon: Building2
-
-Law firms (we integrate Clio with QuickBooks), medical professionals, veterinarians, real estate brokers, engineers and architects, and HVAC, drywall, concrete, and asphalt subcontractors.
-
-<!-- block: content-split | variant: image-left | image: senior-accountant-mentoring.jpg | alt: "Senior accountant explaining a tax return to a junior colleague at a desk" | query: "senior accountant coaching junior colleague desk" -->
-## Grow alongside seasoned tax professionals
-
-You learn faster next to people who have seen the problem before. Our team is built around seasoned tax professionals, and that experience is available to you from your first week on real client work.
-
-Junior accountants, associates, and interns here see the range of the practice: IRS examinations, entity and retirement planning, payroll, and year-round tax advice for the niches above. That breadth is what makes tax accounting careers in Missouri worth building at a firm like this, instead of repeating a single task on a production line.
-
-If you're searching for junior accountant positions or accounting internships in Lee's Summit, this is a place to learn the whole job.
-
-[Firm to confirm before publishing: any real benefits, training, or study support to list here. Do not publish until verified.]
-
 <!-- block: service-cards | variant: 2-col -->
 ## Current openings at Parker Swearngin
 
 Looking for accounting positions in Lee's Summit, MO, tax season jobs, or a CPA firm that's hiring? Roles are grouped by function below. [Firm to replace each placeholder with an actual posting, or remove the card if nothing is open.]
 
-### Bookkeeping and accounting
+### CPA/Accountant
 icon: Calculator
 
-[Role title: confirm open posting.] [One-line summary: confirm duties, such as transaction classification, expense tracking, and reporting.] [Apply](/contact)
+Full-time role requiring tax review experience. Ultratax experience preferred.\
+·      Health Insurance
 
-### Payroll
+·      Paid Time Off
+
+·      401(k) *for eligible full-time employees*
+
+[Apply](/contact)
+
+### Bookkeeper
 icon: Users
 
-[Role title: confirm open posting.] [One-line summary: confirm duties, such as scheduled payrolls, filings, and W2 and 1099 processing.] [Apply](/contact)
+Full-time or part-time role requiring experience with QuickBooks Online.
 
-### Tax preparation and tax season
-icon: FileText
+·      Health Insurance
 
-[Role title: confirm open posting or seasonal need.] [One-line summary: confirm duties for business and personal tax preparation.] [Apply](/contact)
+·      Paid Time Off
 
-### Internships
-icon: GraduationCap
+·      401(k) *for eligible full-time employees*
 
-[Role title: confirm open posting.] [One-line summary: confirm timing and duties.] [Apply](/contact)
-
-Don't see your role? Send a resume anyway through our [contact page](/contact). We keep strong candidates in mind for future openings.
-
-<!-- block: process-steps | variant: horizontal -->
-## How to apply and what happens next
-
-You should know where you stand. [Firm to confirm the real process and the response time before publishing, for example: we reply to every application within X business days.]
-
-### Send your application
-[Firm to confirm: application form link or careers email.] Include a resume and a few lines on the work you want to do.
-
-### Have a first conversation
-[Firm to confirm: who reaches out and how.] A short call to talk about your experience and what you're looking for.
-
-### Meet the team
-[Firm to confirm: interview format and length.] You'll see how the team works and ask your own questions.
-
-### Receive an offer
-[Firm to confirm: timing and next steps.] Clear terms, and an answer to every question you have.
-
-Ready to apply? Use the Apply button on an open role, or send your resume through the [contact page](/contact). Questions first? Ask there too.
+[Apply](/contact)
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers
@@ -142,7 +78,7 @@ A: Not for every role. Bookkeeping, payroll, and tax preparation positions have 
 A: Tax preparation and tax season roles are listed in the openings section when available. The firm's tax work uses digital document upload, signature and filing, and electronic filing, so preparers work from secure digital files. If no seasonal role is posted, send a resume for future openings.
 
 **Q: How do I apply to Parker Swearngin?**
-A: Use the Apply button on any open role, or send a resume through the contact page if nothing matches yet. The process section on this page walks through each step from application to offer, so you know what to expect. Questions beforehand are welcome through the same contact page.
+A: Use the Apply button on any open role, or send a resume through the contact page if nothing matches yet. Questions beforehand are welcome through the same contact page.
 
 <!-- block: cta-banner | variant: image-bg | image: friendly-office-welcome.jpg | alt: "Smiling accounting team members greeting a visitor in a bright modern office" | query: "professional team welcoming visitor modern office" -->
 ## Have questions before you apply?
