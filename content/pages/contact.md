@@ -42,10 +42,8 @@ Our client base returns year after year, and that is the number we're proudest o
 <!-- FIRM TO SUPPLY: Insert real Google reviews or a client quote here, with the client's permission. Do not publish placeholder or invented testimonials. -->
 
 <!-- block: contact-info -->
-## How to Reach Us
 
 <!-- block: map -->
-## Where to Find Us
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Contact
