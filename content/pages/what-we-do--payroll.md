@@ -69,7 +69,7 @@ Hours are recorded for payroll, so hourly pay starts from logged time instead of
 
 Payroll taxes are where small mistakes get expensive. Employers in Missouri and Kansas answer to the IRS and to their state on withholding and unemployment reporting. A late or incorrect filing can bring penalties, interest, and notices that take hours to untangle.
 
-Payroll filings are part of the service, along with W2 and 1099 processing at year-end. That is payroll tax compliance in Lee's Summit that owners can hand to CPA-led professionals instead of a call center. For businesses weighing outsourced payroll in Missouri, the difference is who reads the numbers: seasoned tax professionals who prepare returns all year.
+Payroll filings are part of the service, along with W2 and 1099 processing at year-end. That is payroll tax compliance that owners can hand to CPA-led professionals instead of a call center. For businesses weighing outsourced payroll, the difference is who reads the numbers: seasoned tax professionals who prepare returns all year.
 
 If a payroll notice does arrive, the firm's IRS Examination experience is on your side. Bring it in, and the team will review it with you and help you respond.
 
@@ -121,7 +121,7 @@ Project-based revenue arrives in lumps, but payroll goes out on a steady schedul
 <!-- block: content-split | variant: image-right | image: payroll-books-tax-planning.jpg | alt: "Two accountants comparing payroll reports and ledger entries on a laptop" | query: "accountants comparing payroll reports and ledger" -->
 ## How does payroll connect to your books and your tax plan?
 
-A payroll-only vendor sees a pay run. This team sees the pay run, the books it lands in, and the tax return it eventually affects. That is why payroll accounting in Lee's Summit MO works better when one group handles all three, and why CPA payroll services in Lee's Summit can include advice a vendor never offers.
+A payroll-only vendor sees a pay run. This team sees the pay run, the books it lands in, and the tax return it eventually affects. That is why payroll accounting works better when one group handles all three, and why CPA payroll services from the Parker Swearngin team can include advice a vendor never offers.
 
 Business advisory and consulting sits behind the payroll work. The topics the firm advises on include:
 
