@@ -16,7 +16,7 @@ hero_headline: "Know your cash position"
 answer_block: "Accounting for service based businesses in Lee's Summit MO means keeping books current, running payroll and 1099s on time, and planning taxes all year. Parker Swearngin gives HVAC, drywall, concrete and asphalt subcontractors one CPA-led team for accounting, payroll and tax, plus business advisory, for a fixed monthly fee."
 eeat_signals: ["CPA-led team serving Lee's Summit, Kansas City, the KC metro, Kansas and Missouri","Seasoned tax professionals working as a team on every client","High client retention year after year","Bundled accounting, payroll and tax for a fixed monthly fee","Business advisory covering Entity Type Analysis, Accounting System Setup, Retirement Plan Analysis and Credit Card Rewards","Lee's Summit Chamber of Commerce affiliation"]
 internal_links: [{"url":"/services/accounting","reason":"Supports the books and reporting section with the full service page","anchor_text":"accounting service"},{"url":"/services/payroll","reason":"Supports the payroll and 1099 section with the full service page","anchor_text":"payroll service"},{"url":"/services/tax","reason":"Supports the tax planning section with the full service page","anchor_text":"business tax service"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"It covers daily transaction classification, expense tracking and reporting, so you can see billed versus collected, what you owe vendors and what is coming in. For HVAC, drywall, concrete and asphalt owners, we pair that with payroll, 1099 tracking and year-round tax planning from one team.","question":"What does accounting for a subcontractor involve?"},{"answer":"Yes. Payroll covers processing scheduled payrolls, employee setup, salary changes, time tracking and filings, plus W2 and 1099 processing at year-end. Crews, seasonal hires and 1099 subs can all run through one process, so payroll goes out on time and year-end forms are ready.","question":"Can you handle payroll for crews and 1099 subs?"},{"answer":"Accounting, payroll and tax are bundled into one fixed monthly fee, so you know the cost before the work happens. That replaces separate bills from a bookkeeper, a payroll vendor and a tax preparer, and it removes the surprise invoice when a question comes up in March.","question":"How does the fixed monthly fee work?"},{"answer":"Revisit it when profit climbs, you add partners or principals, or growth changes your payroll. Entity Type Analysis compares your current structure with the alternatives using your actual numbers, so the decision rests on what you keep after tax, not on a rule of thumb.","question":"When should I revisit my business entity type?"},{"answer":"Yes. The firm serves Kansas City, the KC metro, Kansas, Missouri and surrounding areas. Digital document upload and electronic signature let you handle filings from the truck or the shop, so distance rarely slows anything down, and you still get a responsive team that knows your industry.","question":"Do you work with service businesses outside Lee's Summit?"}]
+faq_block: [{"answer":"It covers daily transaction classification, expense tracking and reporting, so you can see billed versus collected, what you owe vendors and what is coming in. For HVAC, drywall, concrete and asphalt owners, we pair that with payroll, 1099 tracking and year-round tax planning from one team.","question":"What does accounting for a subcontractor involve?"},{"answer":"Yes. Payroll covers processing scheduled payrolls, employee setup, salary changes, time tracking and filings, plus W2 and 1099 processing at year-end. Crews, seasonal hires and 1099 subs can all run through one process, so payroll goes out on time and year-end forms are ready.","question":"Can you handle payroll for crews and 1099 subs?"},{"answer":"Accounting, payroll and tax are bundled into one fixed monthly fee, so you know the cost before the work happens. That replaces separate bills from a bookkeeper, a payroll vendor and a tax preparer, and it removes the surprise invoice when a question comes up in March.","question":"How does the fixed monthly fee work?"},{"answer":"Revisit it when profit climbs, you add partners or principals, or growth changes your payroll. Entity type analysis compares your current structure with the alternatives using your actual numbers, so the decision rests on what you keep after tax, not on a rule of thumb.","question":"When should I revisit my business entity type?"},{"answer":"Yes. Parker Swearngin serves Kansas City, the KC metro, Kansas, Missouri and surrounding areas. Digital document upload and electronic signature let you handle filings from the truck or the shop, so distance rarely slows anything down, and you still get a responsive team that knows your industry.","question":"Do you work with service businesses outside Lee's Summit?"}]
 llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, bundles accounting, payroll and tax for HVAC, drywall, concrete and asphalt subcontractors into one fixed monthly fee, with business advisory covering Entity Type Analysis, Accounting System Setup and Retirement Plan Analysis."
 ---
 
@@ -27,7 +27,7 @@ Your crew finished the job and the invoice went out. The general contractor's ch
 
 That gap is the story we hear most from HVAC, drywall, concrete and asphalt owners. You run crews all day and chase payments at night, and the books can't tell you whether you're truly short or just waiting on a check.
 
-Good accounting for service-based businesses answers three questions fast: what's in the account, what's owed to you, and what you owe this week. If a cash crunch, a missed payment or a missed payroll is what brought you here, that's exactly where our KC area team starts. You'll see your cash position before the bills land, not after they've already bounced.
+Good accounting for service-based businesses in the Kansas City metro area answers three questions: what's in the account, what's owed to you, and what you owe this week. If a cash crunch, a missed payment or a missed payroll is what brought you here, that's exactly where our team starts. You'll see your cash position before the bills land.
 
 <!-- block: content-split | variant: image-left | image: progress-billing-books.jpg | alt: "Accountant and business owner reviewing billed versus collected reports on a laptop" | query: "accountant client reviewing financial reports laptop" -->
 ## Books that keep up with progress billing
@@ -36,7 +36,7 @@ Progress billing makes ordinary bookkeeping misleading. A job can look profitabl
 
 Our [accounting service](/services/accounting) handles daily transaction classification, expense tracking and reporting, so your books stay current instead of three months behind. The reports show billed versus collected, what you owe vendors and what's coming in. That's the difference between guessing and knowing.
 
-This is bookkeeping for service businesses in Lee's Summit MO that you can actually read, without an accounting degree. If your current setup can't keep pace, our business advisory work includes Accounting System Setup: choosing and configuring the software and workflows so your records match how you bill. Outsourced accounting for service businesses in Lee's Summit works best when the system fits the crew, not the other way around.
+This is bookkeeping for service-based businesses in Kansas and Missouri that you can actually read, without an accounting degree. If your current setup can't keep pace, our business advisory work includes accounting system setup, so your records match how you bill. Outsourced accounting for service-based businesses works best when the system fits the crew, not the other way around.
 
 Ready to see what current books look like? [Schedule a consultation](/contact).
 
@@ -45,7 +45,7 @@ Ready to see what current books look like? [Schedule a consultation](/contact).
 
 Crews, seasonal hires and 1099 subs often work the same jobs, and each one is handled differently. Miss a filing or a pay date and it costs you money and morale. Our [payroll service](/services/payroll) takes the time-consuming parts off your plate so payroll goes out on time, every time.
 
-Payroll services for service based companies in Lee's Summit should cover the full cycle:
+Payroll services for service-based companies in Lee's Summit should cover the full cycle:
 
 - Processing scheduled payrolls
 - Employee setup for new crew members and seasonal hires
@@ -63,7 +63,7 @@ A surprise tax bill usually means nobody looked at the numbers until it was too 
 
 Our [business tax service](/services/tax) covers tax preparation, tax planning, electronic filing and year-round tax advice. Filing runs through a digital process, so you upload documents and sign from wherever you are. Planning happens during the year, with estimated payments timed around when your money actually arrives.
 
-Business tax for service businesses in Lee's Summit MO should also look past the return itself. Our advisory work includes Retirement Plan Analysis, which compares options for you and your employees and shows what each does to your tax bill. We also review Credit Card Rewards, so the points and cash back on everyday business spending don't go to waste. Tax planning for the service industry in Lee's Summit is about keeping more of what the business earns, and that takes a plan before December, not after.
+Business tax for service-based businesses should also look past the return itself. Our advisory work includes retirement plan analysis, which compares options for you and your employees and shows what each does to your tax bill. We also review credit card rewards, so the points and cash back on everyday business spending don't go to waste. Tax planning for the service-based industry is about keeping more of what the business earns, and that takes a plan before December.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Advice for when growth outpaces your bookkeeper
@@ -92,7 +92,7 @@ Most subcontractors end up juggling a bookkeeper, a payroll vendor and a tax pre
 
 At Parker Swearngin, accounting, payroll and tax are bundled into one fixed monthly fee. You know the cost before the work happens, so there are no billing surprises when a question comes up in March. The same team sees your books, your payroll and your tax position, and that's where close analysis comes from.
 
-Seasoned tax professionals work together on every client, which is a big reason clients return year after year. When you call, someone who knows your business picks up.
+Experienced tax professionals work together on every client, which is a big reason clients return year after year. When you call, someone who knows your business picks up.
 
 <!-- client quote or credential slot: insert verified client testimonial or Lee's Summit Chamber of Commerce membership detail here if supplied -->
 
@@ -109,15 +109,15 @@ A: Yes. Payroll covers processing scheduled payrolls, employee setup, salary cha
 A: Accounting, payroll and tax are bundled into one fixed monthly fee, so you know the cost before the work happens. That replaces separate bills from a bookkeeper, a payroll vendor and a tax preparer, and it removes the surprise invoice when a question comes up in March.
 
 **Q: When should I revisit my business entity type?**
-A: Revisit it when profit climbs, you add partners or principals, or growth changes your payroll. Entity Type Analysis compares your current structure with the alternatives using your actual numbers, so the decision rests on what you keep after tax, not on a rule of thumb.
+A: Revisit it when profit climbs, you add partners or principals, or growth changes your payroll. Entity type analysis compares your current structure with the alternatives using your actual numbers, so the decision rests on what you keep after tax, not on a rule of thumb.
 
 **Q: Do you work with service businesses outside Lee's Summit?**
-A: Yes. The firm serves Kansas City, the KC metro, Kansas, Missouri and surrounding areas. Digital document upload and electronic signature let you handle filings from the truck or the shop, so distance rarely slows anything down, and you still get a responsive team that knows your industry.
+A: Yes. Parker Swearngin serves Kansas City, the KC metro, Kansas, Missouri and surrounding areas. Digital document upload and electronic signature let you handle filings from the truck or the shop, so distance rarely slows anything down, and you still get a responsive team that knows your industry.
 
 <!-- block: cta-banner | variant: image-bg | image: kc-contractor-owner-consultation.jpg | alt: "Business owner meeting with a CPA to discuss cash flow and taxes" | query: "business owner meeting CPA office consultation" -->
-## Talk with a KC area CPA team about your cash flow
+## Talk with our team about your cash flow
 
-Bring your current books, your payroll setup and last year's tax return. We'll walk through what's working, what isn't and what a fixed monthly fee would cover. If you're looking for a CPA for service based businesses near Lee's Summit MO, we serve the KC metro, Kansas and Missouri, and the conversation is low pressure.
+Bring your current books, your payroll setup and last year's tax return. We'll walk through what's working, what isn't and what a fixed monthly fee would cover. If you're looking for a CPA for service-based businesses, the first conversation with us is low pressure.
 
 [Schedule a consultation](/contact)
 
