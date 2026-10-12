@@ -27,15 +27,6 @@ Parker Swearngin has spent years giving individuals and businesses personal fina
 
 The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, we're people who know our clients' names and their financials.
 
-<!-- block: content-split | variant: image-left | image: team-reviewing-client-file.jpg | alt: "Accounting team members reviewing a client's financial documents together at a table" | query: "accounting team reviewing documents together" -->
-## One team that gives every client close attention
-
-The firm combines expertise, experience and a team mentality, so every client gets close analysis and personal attention. Seasoned tax professionals do the work. Colleagues check it. And you have a dedicated point of contact who already knows your industry, so you never explain your business from scratch.
-
-Some firms hand clients off between staff or go quiet once filing season ends. We work the other way: the team shares what it knows about your file and delivers competent, timely advice together, all year. Client retention is high year after year, and we take that as the clearest sign the approach works.
-
-If your current accountant is slow to return calls, that is a common reason medical practices, veterinary clinics and law firms come to us. You may be looking for a business accountant Lee's Summit owners can reach during the week, or a small business accountant Lee's Summit startups and growing owner-operators can lean on as they scale. Either way, you get a real person who answers.
-
 <!-- block: content-prose -->
 ## One fixed monthly fee, no billing surprises
 
