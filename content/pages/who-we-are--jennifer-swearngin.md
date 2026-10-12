@@ -34,7 +34,7 @@ A: Jennifer, who goes by Jennie, is a CPA and Partner at Parker Swearngin with 2
 **Q: Where did Jennifer Swearngin study?**
 A: Jennie attended UMKC, where she earned her Bachelor of Science in Accounting. She scored at the very top when she sat for the CPA exam.
 
-<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "CPA greeting a new client with a handshake in a welcoming office" | query: "accountant greeting client handshake office" -->
+<!-- block: cta-banner | variant: color-bg -->
 ## Let's talk about your business
 
 Tell the team where things stand and what you want next. [Schedule a consultation](/contact).
