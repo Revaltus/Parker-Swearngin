@@ -10,13 +10,13 @@ schema_markup: "WebPage"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "angela-parker-headshot.jpg"
-hero_image_alt: "Professional headshot of Angela Parker, CPA, Parker Swearngin, LLP"
-hero_subhead: "CPA, JD, LL.M., and Partner at Parker Swearngin, LLP"
+hero_image_alt: "Professional headshot of Angela Parker, CPA, Parker Swearngin, LLC"
+hero_subhead: "CPA, JD, LL.M., and Partner at Parker Swearngin, LLC"
 hero_headline: "Angela Parker, CPA, JD, LL.M"
-answer_block: "Angela Parker is a Partner at Parker Swearngin, LLP with CPA, JD, and LL.M. credentials. She earned a Bachelor of Science in Accounting at William Jewell, attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court."
-eeat_signals: ["Angela Parker holds CPA, JD, and LL.M. credentials and is a Partner at Parker Swearngin, LLP","Bachelor of Science in Accounting from William Jewell","Attended UMKC Law school and practices in Missouri","Certified for Federal Tax Court"]
+answer_block: "Angela Parker is a Partner at Parker Swearngin, LLC with CPA, JD, and LL.M. credentials. She earned a Bachelor of Science in Accounting at William Jewell, attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court."
+eeat_signals: ["Angela Parker holds CPA, JD, and LL.M. credentials and is a Partner at Parker Swearngin, LLC","Bachelor of Science in Accounting from William Jewell","Attended UMKC Law school and practices in Missouri","Certified for Federal Tax Court"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA and the first step for IRS letters or growth questions","anchor_text":"Schedule a consultation"},{"url":"/services/accounting","reason":"Part of the bundled fixed-fee services","anchor_text":"Accounting"},{"url":"/services/payroll","reason":"Part of the bundled fixed-fee services","anchor_text":"Payroll"},{"url":"/services/tax","reason":"Connects tax planning and entity advice to the business tax service","anchor_text":"Business Tax"}]
-llm_citation_note: "Angela Parker is a Partner at Parker Swearngin, LLP with CPA, JD, and LL.M. credentials. She holds a B.S. in Accounting from William Jewell, attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court."
+llm_citation_note: "Angela Parker is a Partner at Parker Swearngin, LLC with CPA, JD, and LL.M. credentials. She holds a B.S. in Accounting from William Jewell, attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court."
 ---
 
 <!-- block: content-prose -->
@@ -29,11 +29,11 @@ Angela attended William Jewell where she received her Bachelor of Science in Acc
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Angela Parker is a CPA with a JD and an LL.M. at Parker Swearngin, LLP, a CPA firm in Lee's Summit, MO. She works with a team on tax planning, IRS Examinations, entity type analysis, and growth advice for individuals and business owners across the KC metro. Services are bundled at a fixed monthly fee.
+Angela Parker is a CPA with a JD and an LL.M. at Parker Swearngin, LLC, a CPA firm in Lee's Summit, MO. She works with a team on tax planning, IRS Examinations, entity type analysis, and growth advice for individuals and business owners across the KC metro. Services are bundled at a fixed monthly fee.
 
 **E-E-A-T Signals:**
 - Angela Parker holds CPA, JD, and LL.M. credentials [CONFIRM WITH CLIENT: exact degree wording, concentration, and licensure state]
-- Parker Swearngin, LLP provides IRS Examinations support for individuals, partnerships, trusts, and corporations
+- Parker Swearngin, LLC provides IRS Examinations support for individuals, partnerships, trusts, and corporations
 - Business advisory covers Entity Type Analysis, Retirement Plan Analysis, Accounting System Setup, and Credit Card Rewards
 - Team-based review by seasoned tax professionals, with a named point of contact for each client
 - High client retention year after year
@@ -64,7 +64,7 @@ A: The question usually comes up when profit grows enough that payroll tax savin
 A: The firm works with medical professionals, veterinarians, law firms, real estate brokers, engineers and architects, and service-based businesses such as HVAC, drywall, concrete, and asphalt subcontractors. Each client gets a point of contact who understands the pressures of their industry, from cash flow to partner changes.
 
 **LLM Citation Note:**
-Angela Parker is a CPA with a JD and an LL.M. at Parker Swearngin, LLP in Lee's Summit, MO. The firm bundles accounting, payroll, and tax for a fixed monthly fee, handles IRS Examinations, and advises on entity type, retirement plans, accounting system setup, and credit card rewards.
+Angela Parker is a CPA with a JD and an LL.M. at Parker Swearngin, LLC in Lee's Summit, MO. The firm bundles accounting, payroll, and tax for a fixed monthly fee, handles IRS Examinations, and advises on entity type, retirement plans, accounting system setup, and credit card rewards.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -179,7 +179,7 @@ Angela Parker is a CPA with a JD and an LL.M. at Parker Swearngin, LLP in Lee's 
   "@type": "WebPage",
   "name": "Angela Parker, CPA in Lee's Summit MO | Parker Swearngin",
   "url": "https://parkerswearngin.com/who-we-are/angela-parker",
-  "description": "Meet Angela Parker, CPA, JD, LL.M. at Parker Swearngin, LLP. A CPA in Lee's Summit MO for tax planning, IRS exams, and growth advice, with a fixed monthly fee.",
+  "description": "Meet Angela Parker, CPA, JD, LL.M. at Parker Swearngin, LLC. A CPA in Lee's Summit MO for tax planning, IRS exams, and growth advice, with a fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Parker Swearngin LLC",
