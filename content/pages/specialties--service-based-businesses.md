@@ -27,7 +27,7 @@ Your crew finished the job and the invoice went out. The general contractor's ch
 
 That gap is the story we hear most from HVAC, drywall, concrete and asphalt owners. You run crews all day and chase payments at night, and the books can't tell you whether you're truly short or just waiting on a check.
 
-Good accounting for service based businesses in Lee's Summit MO answers three questions fast: what's in the account, what's owed to you, and what you owe this week. If a cash crunch, a missed payment or a missed payroll is what brought you here, that's exactly where our KC area team starts. You'll see your cash position before the bills land, not after they've already bounced.
+Good accounting for service-based businesses answers three questions fast: what's in the account, what's owed to you, and what you owe this week. If a cash crunch, a missed payment or a missed payroll is what brought you here, that's exactly where our KC area team starts. You'll see your cash position before the bills land, not after they've already bounced.
 
 <!-- block: content-split | variant: image-left | image: progress-billing-books.jpg | alt: "Accountant and business owner reviewing billed versus collected reports on a laptop" | query: "accountant client reviewing financial reports laptop" -->
 ## Books that keep up with progress billing
