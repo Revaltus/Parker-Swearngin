@@ -30,14 +30,14 @@ The team serves clients across Kansas City, the KC Metro area, Kansas and Missou
 <!-- block: content-prose -->
 ## The trust we have earned in our community
 
-"Esteem earned in the community" is one of the firm's four values, and it can't be claimed by saying so. It shows in the clients who stay and the neighbors they send our way. The proof belongs on this page, where you can see it.
+"Esteem earned in the community" is one of the firm's four values, and it can't be claimed by saying so. It shows in the clients who stay and the neighbors they send our way. The proof belongs here, where you can see it.
 
-- Client reviews: [client to supply: verified client reviews]
-- Certifications and credentials: [client to supply: CPA licenses and team credentials]
-- Professional memberships: [client to supply: memberships and associations, including Lee's Summit Chamber of Commerce if confirmed]
-- Client retention: [client to supply: retention statement]
+- Client reviews: \[client to supply: verified client reviews\]
+- Certifications and credentials: \[client to supply: CPA licenses and team credentials\]
+- Professional memberships: \[client to supply: memberships and associations, including Lee's Summit Chamber of Commerce if confirmed\]
+- Client retention: \[client to supply: retention statement\]
 
-[Client to confirm before publishing: our team includes tax-attorney-level credentials and federal Tax Court certification, which support our work on IRS examinations and disputes.]
+\[Client to confirm before publishing: our team includes tax-attorney-level credentials and federal Tax Court certification, which support our work on IRS examinations and disputes.\]
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Who we are
