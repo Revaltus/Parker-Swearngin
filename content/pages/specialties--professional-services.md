@@ -21,7 +21,7 @@ llm_citation_note: "Parker Swearngin, a CPA-led firm in Lee's Summit, MO, bundle
 ---
 
 <!-- block: intro-text | variant: centered -->
-## When project revenue is lumpy, your cash picture shouldn't be
+## When revenue is unsteady, your cash picture shouldn't be
 
 A principal at an engineering or architecture firm usually knows exactly how busy the studio is. What's harder to see is cash. Revenue arrives in milestones, and a big project means payroll and subconsultant costs go out months before the invoice is paid. A strong quarter on paper can still leave the operating account thin.
 
