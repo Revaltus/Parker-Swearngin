@@ -25,17 +25,6 @@ Our approach to law firm bookkeeping has one rule: client money and firm money n
 
 Here is where our lane ends. We don't give legal or ethics advice, and your bar's rules are yours and your counsel's to interpret. What we do is keep the books clean and ready for review, so you're never scrambling to explain a number. That is accounting for law firms in the Kansas City area that attorneys can hand off with confidence.
 
-<!-- block: content-prose -->
-## How can a law firm keep cash flow steady with contingency fees and billing cycles?
-
-Law firm revenue doesn't arrive on a schedule. Contingency fees land in lumps, retainers replenish unevenly, and hourly clients pay when they pay. Rent and salaries are due on the first anyway.
-
-Picture a firm that closes a large settlement in March. The fee hits, everyone feels flush, and then the next three months are thin. Without current books, nobody sees the thin stretch coming until payroll is a week away.
-
-With your books kept current, you can see your cash position at any point in the month. That lets you set aside what payroll, overhead, and partner draws need to cover the lean stretch before the next fee arrives. That is law firm cash management accounting in practice: a clear, up-to-date number you can plan around.
-
-We also plan estimated taxes around when fees arrive. A big month stays a good month instead of turning into a surprise tax bill the following spring.
-
 <!-- block: checklist-section | variant: with-image-left | image: law-firm-bundled-services.jpg | alt: "Accountant working on a laptop with payroll and tax documents on the desk" | query: "accountant laptop payroll documents desk" -->
 ## How do books, payroll, and tax from one team work for one fixed monthly fee?
 
