@@ -95,10 +95,6 @@
           "url": "/resources/refund-tracker"
         },
         {
-          "label": "Blog",
-          "url": "/resources/blog"
-        },
-        {
           "label": "SafeSend returns",
           "url": "/resources/safe-send-returns"
         }
