@@ -96,33 +96,6 @@ icon: Wrench
 
 HVAC, drywall, concrete, and asphalt subcontractors deal with 1099 income and slow-paying clients. Self-employed tax preparation in Lee's Summit, MO means planning so cash is set aside for taxes even when payments run late. [Visit our service-based business page](/industries/service-based-businesses).
 
-<!-- block: feature-grid | variant: 3-col -->
-## Advice that connects your personal and business finances
-
-If you own a business, your personal return depends on decisions made inside it. Our business advisory and consulting work is built for exactly that overlap, so we can look at both sides of the picture. Four areas drive most of the personal tax impact.
-
-You can also bundle personal returns with [business tax](/services/tax), [accounting](/services/accounting), and [payroll](/services/payroll) under one fixed monthly fee. That means no billing surprises, and one team that sees all of it.
-
-### Entity Type Analysis
-icon: Building
-
-An LLC, S-corp, or partnership changes how your income reaches your personal return. We model the options before you convert.
-
-### Accounting System Setup
-icon: Calculator
-
-Clean, current books are what make an accurate personal return possible. We set up your system so the numbers flow without a January scramble.
-
-### Retirement Plan Analysis
-icon: PiggyBank
-
-The right plan can lower this year's taxable income and build long-term savings. We compare the choices against your actual cash flow.
-
-### Credit Card Rewards
-icon: CreditCard
-
-We look at which cards and reward programs fit your spending and how rewards should be reported, so a perk never turns into a tax question.
-
 <!-- block: content-prose -->
 ## What happens if the IRS comes calling?
 
