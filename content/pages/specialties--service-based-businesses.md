@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "subcontractor-owner-reviewing-books.jpg"
 hero_image_alt: "Subcontractor business owner reviewing financial reports with an accountant at an office desk"
 hero_subhead: "See your cash position clearly, run payroll on time and stop tax surprises, even when GCs pay slowly"
-hero_headline: "Know your cash position when GCs pay slowly"
+hero_headline: "Know your cash position"
 answer_block: "Accounting for service based businesses in Lee's Summit MO means keeping books current, running payroll and 1099s on time, and planning taxes all year. Parker Swearngin gives HVAC, drywall, concrete and asphalt subcontractors one CPA-led team for accounting, payroll and tax, plus business advisory, for a fixed monthly fee."
 eeat_signals: ["CPA-led team serving Lee's Summit, Kansas City, the KC metro, Kansas and Missouri","Seasoned tax professionals working as a team on every client","High client retention year after year","Bundled accounting, payroll and tax for a fixed monthly fee","Business advisory covering Entity Type Analysis, Accounting System Setup, Retirement Plan Analysis and Credit Card Rewards","Lee's Summit Chamber of Commerce affiliation"]
 internal_links: [{"url":"/services/accounting","reason":"Supports the books and reporting section with the full service page","anchor_text":"accounting service"},{"url":"/services/payroll","reason":"Supports the payroll and 1099 section with the full service page","anchor_text":"payroll service"},{"url":"/services/tax","reason":"Supports the tax planning section with the full service page","anchor_text":"business tax service"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
