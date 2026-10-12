@@ -12,7 +12,6 @@ hero_subhead: "CPA and Partner with 23 years of experience helping businesses gr
 answer_block: "Jennifer Swearngin, known as Jennie, is a CPA and Partner at Parker Swearngin in Lee's Summit, MO. She has 23 years of experience, earned a Bachelor of Science in Accounting at UMKC, and scored at the very top when she sat for the CPA exam."
 eeat_signals: ["Jennifer Swearngin is a CPA and Partner at Parker Swearngin in Lee's Summit, MO","23 years of experience","Bachelor of Science in Accounting from UMKC","Scored at the very top when she sat for the CPA exam"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA for an introductory conversation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"How much experience does Jennifer Swearngin have?","answer":"Jennifer, who goes by Jennie, is a CPA and Partner at Parker Swearngin with 23 years of experience. She brings a keen eye for detail to your tax documents so nothing is overlooked."},{"question":"Where did Jennifer Swearngin study?","answer":"Jennie attended UMKC, where she earned her Bachelor of Science in Accounting. She scored at the very top when she sat for the CPA exam."}]
 llm_citation_note: "Jennifer Swearngin (Jennie) is a CPA and Partner at Parker Swearngin in Lee's Summit, MO, with 23 years of experience and a Bachelor of Science in Accounting from UMKC."
 ---
 
@@ -25,19 +24,6 @@ Jennie brings a keen eye for details and 23 years' experience to your tax docume
 
 She attended UMKC where she earned her Bachelor of Science in Accounting and scored at the very top when she sat for the CPA exam. If you don't see her at the office, she's traveling the world or handling AV at her church.
 
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Jennifer Swearngin
-
-**Q: How much experience does Jennifer Swearngin have?**
-A: Jennifer, who goes by Jennie, is a CPA and Partner at Parker Swearngin with 23 years of experience. She brings a keen eye for detail to your tax documents so nothing is overlooked.
-
-**Q: Where did Jennifer Swearngin study?**
-A: Jennie attended UMKC, where she earned her Bachelor of Science in Accounting. She scored at the very top when she sat for the CPA exam.
-
-<!-- block: cta-banner | variant: color-bg -->
-## Let's talk about your business
-
-Tell the team where things stand and what you want next. [Schedule a consultation](/contact).
 
 ---
 ## SEO & AIO Metadata
