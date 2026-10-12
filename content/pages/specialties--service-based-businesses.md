@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "subcontractor-owner-reviewing-books.jpg"
 hero_image_alt: "Subcontractor business owner reviewing financial reports with an accountant at an office desk"
 hero_subhead: "See your cash position clearly, run payroll on time and stop tax surprises, even when GCs pay slowly"
-hero_headline: "Know your cash position when GCs pay slowly"
+hero_headline: "Know your cash position"
 answer_block: "Accounting for service based businesses in Lee's Summit MO means keeping books current, running payroll and 1099s on time, and planning taxes all year. Parker Swearngin gives HVAC, drywall, concrete and asphalt subcontractors one CPA-led team for accounting, payroll and tax, plus business advisory, for a fixed monthly fee."
 eeat_signals: ["CPA-led team serving Lee's Summit, Kansas City, the KC metro, Kansas and Missouri","Seasoned tax professionals working as a team on every client","High client retention year after year","Bundled accounting, payroll and tax for a fixed monthly fee","Business advisory covering Entity Type Analysis, Accounting System Setup, Retirement Plan Analysis and Credit Card Rewards","Lee's Summit Chamber of Commerce affiliation"]
 internal_links: [{"url":"/services/accounting","reason":"Supports the books and reporting section with the full service page","anchor_text":"accounting service"},{"url":"/services/payroll","reason":"Supports the payroll and 1099 section with the full service page","anchor_text":"payroll service"},{"url":"/services/tax","reason":"Supports the tax planning section with the full service page","anchor_text":"business tax service"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
@@ -21,13 +21,13 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, bundles ac
 ---
 
 <!-- block: content-split | variant: image-right | image: subcontractor-reviewing-cash-flow.jpg | alt: "Subcontractor owner reviewing invoices and cash flow reports at a desk" | query: "contractor owner reviewing invoices office" -->
-## Know your cash position when GCs pay slowly
+## Know your cash position
 
 Your crew finished the job and the invoice went out. The general contractor's check shows up weeks later, and payroll, the supply house and your own subs are all due before it does.
 
 That gap is the story we hear most from HVAC, drywall, concrete and asphalt owners. You run crews all day and chase payments at night, and the books can't tell you whether you're truly short or just waiting on a check.
 
-Good accounting for service based businesses in Lee's Summit MO answers three questions fast: what's in the account, what's owed to you, and what you owe this week. If a cash crunch, a missed payment or a missed payroll is what brought you here, that's exactly where our KC area team starts. You'll see your cash position before the bills land, not after they've already bounced.
+Good accounting for service-based businesses answers three questions fast: what's in the account, what's owed to you, and what you owe this week. If a cash crunch, a missed payment or a missed payroll is what brought you here, that's exactly where our KC area team starts. You'll see your cash position before the bills land, not after they've already bounced.
 
 <!-- block: content-split | variant: image-left | image: progress-billing-books.jpg | alt: "Accountant and business owner reviewing billed versus collected reports on a laptop" | query: "accountant client reviewing financial reports laptop" -->
 ## Books that keep up with progress billing
