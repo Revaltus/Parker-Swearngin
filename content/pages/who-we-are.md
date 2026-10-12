@@ -27,39 +27,6 @@ Parker Swearngin has spent years giving individuals and businesses personal fina
 
 The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, we're people who know our clients' names and their financials.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Industries we understand from the inside
-
-### Service-based businesses
-icon: Wrench
-
-Subcontractors such as drywall, HVAC, concrete and asphalt crews wait on slow-paying GCs while payroll and 1099 subs still need tracking. Clean books, payroll and year-round tax planning from one team show you where your cash stands. [See how we help](/industries/service-based-businesses)
-
-### Medical professionals
-icon: Stethoscope
-
-Patients come first, so finances get squeezed, and practice income brings complicated taxes. A responsive, CPA-led team handles accounting, payroll and tax so you can stay with your patients. [See how we help](/industries/medical-professionals)
-
-### Real estate brokers
-icon: Home
-
-Commission income arrives unevenly, and estimated taxes are easy to get wrong. We track deductible expenses and run cost segregation studies on property purchases. [See how we help](/industries/real-estate)
-
-### Professional services
-icon: Building2
-
-Engineers and architects see project-based revenue and must track WIP and profitability. Accounting, payroll and proactive tax planning let principals see what each project earns. [See how we help](/industries/professional-services)
-
-### Veterinarians
-icon: HeartPulse
-
-Payroll-heavy practices also face large equipment and facility purchases. Responsive, CPA-led support covers depreciation and cost segregation, so you can focus on animals and plan for growth. [See how we help](/industries/veterinarians)
-
-### Law firms
-icon: Scale
-
-IOLTA trust accounting and uneven cash flow from contingency and billing cycles demand care. We integrate Clio with QuickBooks, so billing and the books agree. [See how we help](/industries/law-firms)
-
 <!-- block: content-prose -->
 ## The trust we have earned in our community
 
