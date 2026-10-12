@@ -27,18 +27,6 @@ Parker Swearngin has spent years giving individuals and businesses personal fina
 
 The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, we're people who know our clients' names and their financials.
 
-<!-- block: content-prose -->
-## The trust we have earned in our community
-
-"Esteem earned in the community" is one of the firm's four values, and it can't be claimed by saying so. It shows in the clients who stay and the neighbors they send our way. The proof belongs here, where you can see it.
-
-- Client reviews: \[client to supply: verified client reviews\]
-- Certifications and credentials: \[client to supply: CPA licenses and team credentials\]
-- Professional memberships: \[client to supply: memberships and associations, including Lee's Summit Chamber of Commerce if confirmed\]
-- Client retention: \[client to supply: retention statement\]
-
-\[Client to confirm before publishing: our team includes tax-attorney-level credentials and federal Tax Court certification, which support our work on IRS examinations and disputes.\]
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Who we are
 
