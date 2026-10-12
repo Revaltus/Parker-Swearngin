@@ -15,39 +15,30 @@ internal_links: [{"url":"/contact","reason":"Primary page CTA to get set up for 
 llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, uses SafeSend Returns so clients can review, e-sign, and electronically file tax returns through a secure login, with a team member available at each step, instead of receiving returns as email attachments. Services are bundled for a fixed monthly fee."
 ---
 
-<!-- block: content-split | variant: image-right | image: secure-tax-return-review.jpg | alt: "Business owner reviewing a tax return on a laptop with an accountant" | query: "business owner reviewing tax return laptop" -->
-## Your return, delivered safely instead of through an email attachment
+<!-- block: content-prose -->
+## SafeSend Returns™
 
-SafeSend Returns is the secure login our Lee's Summit, MO team uses for secure tax return filing: you review your return, sign it electronically, and we e-file it, with a team member available at every step. It replaces email attachments, which are the weakest way to send Social Security numbers, EINs, bank details, and payroll figures.
+We are pleased to offer SafeSend Returns to our clients as a secure, electronic tax return delivery system. The client-friendly interface walks you through a guided process that includes on-screen review of your return, collecting IRS-compliant e-signatures on e-file authorization forms, and options for making tax payments. Then, SafeSend Returns automatically sends the form(s) back to Parker Swearngin, LLC.
 
-SafeSend Returns is the secure delivery step the team uses instead. You get a notice, sign in through a secure login, review your return, and sign it right there. There are no attachments to hunt for and nothing new to learn.
+<!-- block: checklist-section | variant: standalone -->
+## Benefits of Using SafeSend Returns
 
-If you run a busy practice or business in Lee's Summit or anywhere in the Kansas City metro, you already have plenty to think about. Safe tax document delivery in Missouri should be one less task for you, not one more.
+- Receive your tax returns securely without the need to setup an account or remember a password
+- Accessible across all platforms: computer, smartphone, or tablet
+- Electronically sign your federal and state e-file authorizations (8879), no printing or mailing necessary
+- Receive payment reminder e-mails
+- Download a copy of your tax return
+- For businesses, conveniently distribute your K-1s electronically
 
-<!-- block: process-steps | variant: vertical -->
-## How does secure tax return filing work with SafeSend Returns, from review to e-file?
+<!-- block: content-prose -->
+## How it Works
 
-Here is the path from first notice to final copy. A team member is available at every step, so a question never stalls your filing.
-
-### The team lets you know your return is ready
-You receive a notification that your return is waiting. It tells you what to do next and who to call if you want to talk it through.
-
-### Sign in through your secure login
-One secure login replaces the email thread. Can't find it? Contact the team and they will get you in.
-
-### Review your return
-Your digital tax document upload is done, so now you check the result. If a number looks off, ask before you sign. Reviewing is the point, not a formality.
-
-### Authorize with your e-signature
-Signature and filing happen in the same place. Sign electronically, and the team knows you are ready to file.
-
-### The team files your return electronically
-Electronic filing follows your authorization. You do not need to mail anything or drop anything off.
-
-### Download your final copy
-You get access to a final copy of the filed return for your records. Need it later for a lender or an application? The team can help.
-
-<!-- confirm with firm before publishing: exact portal features, how long final copies stay available, and whether the signing link works on mobile devices. No technical specs are claimed above. -->
+- You will receive an email from Parker Swearngin, LLC with a “from” address of noreply@safesendreturns.com.
+- The email will contain a safe link for you to access your tax return.
+- After clicking on the link, you will be asked to enter the last four digits of your Social Security number to review your return.
+- SafeSend will email or text you an access code to further verify your identity. For emailed codes, check your spam or junk folders if you do not receive the code in your inbox. You must enter the code within 20 minutes of receipt. If you do not enter the code within 20 minutes, you can request another.
+- When you are ready to sign your e-file authorization form(s), you will be asked three simple questions to verify your identity.
+- Once you have signed the e-file authorization form(s), Parker Swearngin, LLC will be notified and will complete the rest of the e-filing process.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Confidential filing for the practices we serve
