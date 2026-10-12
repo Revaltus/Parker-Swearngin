@@ -25,26 +25,26 @@ llm_citation_note: "Parker Swearngin LLC, a Lee's Summit, MO CPA firm, provides 
 
 You went into medicine to treat people, not to read a profit and loss statement. So the numbers get a rushed look once a quarter, and the real questions stay open. What does the practice actually earn? What do you keep after payroll, debt, and taxes?
 
-Our team is a responsive, CPA-led group that handles accounting, payroll, and tax for medical practices, so you can stay focused on patients. If you are looking for an accountant for medical professionals in Lee's Summit MO, that is where we start: a clear picture of your cash position and what is coming due.
+The Parker Swearngin team is a responsive group that handles accounting, payroll, and tax for medical practices, so you can stay focused on patients. If you are looking for an accountant for medical professionals in the Kansas City metro area, that is where we start: a clear picture of your cash position and what is coming due.
 
-Physicians and dentists across Lee's Summit and KC come to us with the same worry. Their practice is busy, but they can't say with confidence how it is really doing. We keep the books current and explain them in plain language, so the numbers help you make decisions instead of just landing in a folder.
+Physicians and dentists across Kansas and Missouri come to us with the same worry. Their practice is busy, but they can't say with confidence how it is really doing. We keep the books current and explain them in plain language, so the numbers help you make decisions instead of just landing in a folder.
 
 <!-- block: content-prose -->
 ## Tax planning built around practice income, retirement plans, and entity structure
 
-A jump in income is good news that arrives with a bigger tax bill. Practice income, retirement contributions, and the way the business is structured all pull on each other, and a once-a-year filing can't sort them out. That is why our physician tax planning in Lee's Summit runs year-round, for the practice and for you personally.
+A jump in income is good news that arrives with a bigger tax bill. Practice income, retirement contributions, and the way the business is structured all pull on each other, and a once-a-year filing can't sort them out. That is why our physician tax planning runs year-round, for the practice and for you personally.
 
 Two advisory services come up most often with healthcare professionals:
 
-- **Entity Type Analysis.** It matters when income climbs, when a partner joins, or when the structure you chose at the start no longer fits the practice you have now. We lay out how each option affects your tax picture so you can decide with real numbers.
-- **Retirement Plan Analysis.** It matters when you are ready to fund a practice retirement plan and need to see how it works alongside your staff and your personal tax situation.
+- **Entity type analysis.** It matters when income climbs, when a partner joins, or when the structure you chose at the start no longer fits the practice you have now. We lay out how each option affects your tax picture so you can decide with real numbers.
+- **Retirement plan analysis.** It matters when you are ready to fund a practice retirement plan and need to see how it works alongside your staff and your personal tax situation.
 
-Filing is digital and secure: you upload documents, review, sign, and we file electronically. Questions between filings get answered, because year-round tax advice is part of the work. Whether you need [business tax](/services/tax) support for the practice or [personal income tax planning](/services/personal-tax-prep-planning) for your household, one team handles tax services for medical professionals across Kansas City.
+Filing is digital and secure: you upload documents, review, sign, and we file electronically. Questions between filings get answered, because year-round tax advice is part of the work. Whether you need [business tax](/services/tax) support for the practice or [personal income tax planning](/services/personal-tax-prep-planning) for your household, one team handles tax services for medical professionals.
 
 <!-- block: checklist-section | variant: with-image-left | image: clinic-staff-payroll-review.jpg | alt: "Clinic office manager and accountant reviewing payroll records on a computer screen" | query: "medical office manager payroll review" -->
 ## Payroll and compliance for your clinical and front-office staff
 
-Nurses, assistants, hygienists, and front-desk staff all need to be paid correctly and on time, with every filing in order. Payroll mistakes are stressful in any business, and in a practice they land on top of a full patient schedule. Our healthcare payroll accounting in Lee's Summit MO takes the whole task off your desk:
+Nurses, assistants, hygienists, and front-desk staff all need to be paid correctly and on time, with every filing in order. Payroll mistakes are stressful in any business, and in a practice they land on top of a full patient schedule. Our healthcare payroll accounting in takes the whole task off your desk:
 
 - Processing scheduled payrolls
 - Employee setup
@@ -82,25 +82,29 @@ Billing surprises are a bad fit for a practice that already runs on tight schedu
 
 You also get a dedicated point of contact who understands how medical practices work: revenue cycles, staffing costs, equipment purchases, and retirement planning. Behind that person is a team of seasoned tax professionals who each look closely at your numbers. Close analysis and personal attention are the standard, not an upgrade. It is a big reason clients return year after year.
 
-If you are comparing options for a CPA for medical practices in Kansas City, ask every firm one question: who will I actually talk to, and what will it cost? Our answers are simple. It is one team, and it is one fixed fee. We offer medical business accounting services in Lee's Summit with that same promise.
+If you are comparing options for a CPA for medical practices in Kansas City, ask every firm one question: who will I actually talk to, and what will it cost? Our answers are simple. It is one team, and it is one fixed fee. We offer medical business accounting services with that same promise.
 
 <!-- PLACEHOLDER: Insert a client-supplied testimonial, credential, or review here. Do not publish until the client provides approved text. -->
 
 <!-- block: process-steps | variant: horizontal -->
-## Frustrated with an accountant who doesn't call back?
+## An accountant who calls back
 
-You send a question on Monday and still wonder on Friday. Meanwhile a payroll deadline or an estimated tax payment keeps getting closer. Responsiveness and timely advice are values here, not slogans. If you are a physician looking for a CPA for doctors in Lee's Summit, or any provider looking for an accountant for healthcare providers in Lee's Summit, switching is more straightforward than you might expect.
+Responsiveness and timely advice are values at Parker Swearngin. If you are a physician looking for a CPA for doctors in Lee's Summit, or any provider looking for an accountant for healthcare providers in Lee's Summit, switching is more straightforward than you might expect.
 
 ### Intro conversation
+
 We talk about your practice, what is frustrating you now, and what you need next.
 
 ### Review of books and last return
+
 We look at your current books and most recent tax return to see where things stand.
 
 ### Transition plan
+
 We map out the handoff, including payroll and filing dates, so nothing is missed.
 
 ### First month of clean reporting
+
 You receive current books and a plain-language review of your numbers.
 
 <!-- block: faq-accordion -->
