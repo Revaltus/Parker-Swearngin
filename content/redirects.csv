@@ -21,3 +21,4 @@ old_url,new_url,status_code,reason
 /real-estate,/specialties/real-estate,301,Nested via nav editor
 /veterinarians,/specialties/veterinarians,301,Nested via nav editor
 /professional-services,/specialties/professional-services,301,Nested via nav editor
+/industries/law-firms,/specialties/law-firms,301,Relocated via AI
