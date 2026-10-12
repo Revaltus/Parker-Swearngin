@@ -27,11 +27,11 @@
       "url": "/specialties",
       "children": [
         {
-          "label": "Service Based Businesses",
+          "label": "Service-based businesses",
           "url": "/specialties/service-based-businesses"
         },
         {
-          "label": "Medical Professionals",
+          "label": "Medical professionals",
           "url": "/specialties/medical-professionals"
         },
         {
@@ -43,11 +43,11 @@
           "url": "/specialties/veterinarians"
         },
         {
-          "label": "Professional Services",
+          "label": "Professional services",
           "url": "/specialties/professional-services"
         },
         {
-          "label": "Law Firms",
+          "label": "Law firms",
           "url": "/specialties/law-firms"
         }
       ]
