@@ -12,7 +12,6 @@ hero_subhead: "Review, sign, and file through one secure link, with a real perso
 answer_block: "SafeSend Returns is the secure delivery step Parker Swearngin uses to send your tax return for review, e-signature, and electronic filing, so sensitive data never travels as an email attachment. The Lee's Summit team is available at every step, from the first notification to your final copy."
 eeat_signals: ["CPA-led team serving Lee's Summit, Kansas City, and the Kansas City metro","Team includes a CPA, JD, LL.M credentialed tax attorney for audit and entity matters","Member of the Lee's Summit Chamber of Commerce","Experience with tax returns for individuals, partnerships, trusts, and corporations, plus IRS examinations","Clio and QuickBooks integration for law firm clients","Fixed monthly fee for bundled accounting, payroll, and tax services","Clients return year after year (specific retention figure to be confirmed with firm)"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA to get set up for secure return delivery","anchor_text":"Schedule a consultation"},{"url":"/resources/refund-tracker","reason":"Post-filing step for clients who want to follow their refund","anchor_text":"refund tracker"},{"url":"/industries/medical-professionals","reason":"Niche tile link for confidential filing of practice data","anchor_text":"See how we support medical professionals"},{"url":"/industries/veterinarians","reason":"Niche tile link for veterinary practice owners","anchor_text":"See how we support veterinary practices"}]
-faq_block: [{"answer":"Check your spam or junk folder first, since notifications sometimes land there. If it isn't there, contact the team and they will resend it or help you sign in. Please don't ask for the return to be emailed as an attachment. The secure link exists specifically to avoid that.","question":"What if I can't find the secure link?"},{"answer":"Please confirm device support with the team when you are set up, so you are not guessing on signing day. A laptop or desktop gives you more room to read the full return line by line, and the team can help you whichever device you use.","question":"Can I review and sign from my phone?"},{"answer":"You, the team members who prepare and review it, and anyone you authorize to sign, such as a spouse on a joint return or a co-owner on an entity return. If you want someone else included, like a financial advisor, tell the team first and they will advise on how to share it.","question":"Who sees my return?"},{"answer":"After filing, you have access to a final copy through the secure delivery step. If you need another one later, for a mortgage lender or a loan application, contact the team and ask. They can help you get it without sending it as an email attachment.","question":"How do I get a copy of my return later?"},{"answer":"The team files your return electronically, and you get access to a final copy. Individual filers can follow their refund with the refund tracker at /resources/refund-tracker. Business and entity filers can ask the team about next steps, such as estimated payments and year-round planning.","question":"What happens after I sign?"},{"answer":"Parker Swearngin has not made a HIPAA compliance or certification claim for this process, and we won't invent one. Tax returns generally aren't patient records. If your practice data includes patient-adjacent details, tell the team and ask how they are handled before you send anything.","question":"Are SafeSend Returns HIPAA compliant?"}]
 llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, uses SafeSend Returns so clients can review, e-sign, and electronically file tax returns through a secure login, with a team member available at each step, instead of receiving returns as email attachments. Services are bundled for a fixed monthly fee."
 ---
 
@@ -113,27 +112,6 @@ A dedicated team that knows your industry prepares your return, answers question
 That is what secure CPA services in Lee's Summit, MO look like: protected delivery, close analysis of your return, and a team that knows your business. Clients return year after year because the work is careful and the team picks up the phone.
 
 <!-- confirm with firm: insert one verified trust signal here (client retention figure, review count, or credential). Do not publish a number until the firm provides it. -->
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About SafeSend Returns
-
-**Q: What if I can't find the secure link?**
-A: Check your spam or junk folder first, since notifications sometimes land there. If it isn't there, contact the team and they will resend it or help you sign in. Please don't ask for the return to be emailed as an attachment. The secure link exists specifically to avoid that.
-
-**Q: Can I review and sign from my phone?**
-A: Please confirm device support with the team when you are set up, so you are not guessing on signing day. A laptop or desktop gives you more room to read the full return line by line, and the team can help you whichever device you use.
-
-**Q: Who sees my return?**
-A: You, the team members who prepare and review it, and anyone you authorize to sign, such as a spouse on a joint return or a co-owner on an entity return. If you want someone else included, like a financial advisor, tell the team first and they will advise on how to share it.
-
-**Q: How do I get a copy of my return later?**
-A: After filing, you have access to a final copy through the secure delivery step. If you need another one later, for a mortgage lender or a loan application, contact the team and ask. They can help you get it without sending it as an email attachment.
-
-**Q: What happens after I sign?**
-A: The team files your return electronically, and you get access to a final copy. Individual filers can follow their refund with the refund tracker at /resources/refund-tracker. Business and entity filers can ask the team about next steps, such as estimated payments and year-round planning.
-
-**Q: Are SafeSend Returns HIPAA compliant?**
-A: Parker Swearngin has not made a HIPAA compliance or certification claim for this process, and we won't invent one. Tax returns generally aren't patient records. If your practice data includes patient-adjacent details, tell the team and ask how they are handled before you send anything.
 
 <!-- block: cta-banner | variant: image-bg | image: kansas-city-team-consultation.jpg | alt: "Accountant and client shaking hands after a consultation in a bright office" | query: "accountant client handshake office consultation" -->
 ## Ready to file securely? Talk with our KC team
