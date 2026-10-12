@@ -23,25 +23,25 @@ llm_citation_note: "Parker Swearngin is a CPA-led firm in Lee's Summit, MO that 
 <!-- block: content-split | variant: image-left | image: broker-closing-commission-income.jpg | alt: "Real estate broker and client shaking hands over a signed closing document" | query: "real estate broker closing signing" -->
 ## Commission income doesn't arrive on a tax-friendly schedule
 
-Parker Swearngin, LLP is a CPA firm for real estate brokers in Lee's Summit, MO. Our team plans around lumpy commission income and handles estimated taxes, cost segregation, bookkeeping, payroll, and entity and retirement advice for one fixed monthly fee, so a big closing year doesn't end in a surprise tax bill. If you're a broker, you already know the pattern. Nothing comes in for six weeks, then three closings land in the same month. The deposits feel great. The tax bill that follows a big commission year feels a lot less great, especially when it's larger than anyone planned for.
+Parker Swearngin, LLC is a CPA firm for real estate brokers in Lee's Summit, MO. Our team plans around lumpy commission income and handles estimated taxes, cost segregation, bookkeeping, payroll, and entity and retirement advice for one fixed monthly fee, so a big closing year doesn't end in a surprise tax bill. If you're a broker, you already know the pattern. Nothing comes in for six weeks, then three closings land in the same month. The deposits feel great. The tax bill that follows a big commission year feels a lot less great, especially when it's larger than anyone planned for.
 
-That gap between when you get paid and when the IRS expects its share is where most of the trouble starts. Commission income has no withholding, estimated payments are easy to miss, and a strong year can push you into a bracket you never budgeted for. Our team provides real estate broker tax services in Lee's Summit built around that reality. Our real estate commission accounting tracks what you earned, what you owe, and what is safe to spend.
+That gap between when you get paid and when the IRS expects its share is where most of the trouble starts. Commission income has no withholding, estimated payments are easy to miss, and a strong year can push you into a bracket you never budgeted for. Our team provides real estate broker tax services in the Kansas City metro built around that reality. Our real estate commission accounting tracks what you earned, what you owe, and what is safe to spend.
 
 The goal is simple: plan all year, so April holds no surprises. Whether you're a solo broker or you run a brokerage with agents under you, we start with your actual numbers, not last year's.
 
 <!-- block: content-split | variant: image-right | image: quarterly-tax-planning-meeting.jpg | alt: "Accountant and real estate agent reviewing a calendar and tax estimate on a laptop" | query: "accountant client reviewing tax estimate laptop" -->
 ## How should estimated tax payments match your closing calendar?
 
-A flat quarterly guess only works if your income is flat. Yours isn't. So the team sets your Missouri realtor quarterly tax payments around when commissions actually close, and adjusts as your pipeline changes. A strong quarter doesn't turn into an underpayment penalty, and a slow one doesn't mean you overpaid the IRS while cash was tight.
+A flat quarterly guess only works if your income is flat. Yours isn't. So the team sets your realtor quarterly tax payments around when commissions actually close, and adjusts as your pipeline changes. A strong quarter doesn't turn into an underpayment penalty, and a slow one doesn't mean you overpaid the IRS while cash was tight.
 
-This is independent contractor tax planning for real estate, built on self-employment tax, federal brackets, and Missouri tax. A planning check-in is short and practical:
+This is independent contractor tax planning for real estate, built on self-employment tax, federal brackets, and tax for the state where you live. A planning check-in is short and practical:
 
 1. We look at closed deals and the pending pipeline.
 2. We project income for the rest of the year and estimate federal and Missouri tax.
 3. We set your next payment amount and date, plus a percentage to set aside from each closing.
 4. We revisit the numbers after any big closing or when the pipeline shifts.
 
-Deductions get the same attention. Real estate agent tax deductions in Missouri are easy to miss: mileage, marketing, MLS and licensing fees, and client gifts, which carry their own IRS limits. We help you set up a simple way to capture them as they happen, so they show up on your return instead of getting lost.
+Deductions get the same attention. Real estate agent tax deductions are easy to miss: mileage, marketing, MLS and licensing fees, and client gifts, which carry their own IRS limits. We help you set up a simple way to capture them as they happen, so they show up on your return instead of getting lost.
 
 <!-- block: content-split | variant: image-left | image: investment-property-cost-segregation.jpg | alt: "Commercial and residential rental buildings on a street in a Midwestern city" | query: "commercial rental property building exterior" -->
 ## What is a cost segregation study for an investment property?
@@ -82,7 +82,7 @@ Marketing, software, and client entertainment add up fast. We help you pick busi
 <!-- block: checklist-section | variant: with-image | image: brokerage-bookkeeping-payroll.jpg | alt: "Bookkeeper reviewing payroll and commission reports on a computer in a small office" | query: "bookkeeper reviewing payroll reports office" -->
 ## Bookkeeping and payroll for brokerages and agent teams
 
-If you've outgrown a part-time bookkeeper, you probably feel it in the books first. Reports show up late, categories drift, and nobody can say with confidence how much cash the business actually has. Our [accounting](/services/accounting) and [payroll](/services/payroll) services fix that with real estate professional bookkeeping in Lee's Summit that stays current, so real estate business cash flow management rests on current numbers instead of a guess.
+If you've outgrown a part-time bookkeeper, you probably feel it in the books first. Reports show up late, categories drift, and nobody can say with confidence how much cash the business actually has. Our [accounting](/services/accounting) and [payroll](/services/payroll) services fix that with real estate professional bookkeeping that stays current, so real estate business cash flow management rests on current numbers instead of a guess.
 
 Here is what the team handles for you:
 
@@ -96,7 +96,7 @@ Here is what the team handles for you:
 One team does the books, payroll, and tax, so the numbers agree with each other.
 
 <!-- block: content-prose -->
-## One KC team and one fixed monthly fee
+## One team and one fixed monthly fee
 
 Billing surprises are a bad fit for a business that already has income surprises. So tax, accounting, payroll, and advisory are bundled into one fixed monthly fee. You know what you'll pay before the work starts, and a busy closing season doesn't change the invoice.
 
