@@ -16,7 +16,6 @@ hero_headline: "Kathy Lange, CPA"
 answer_block: "Kathy Lange is a CPA and accountant at Parker Swearngin LLC with 21 years in public accounting. She helps entrepreneurs, management, and small businesses with tax planning, compliance and growth, and holds a Bachelor of Science in Accounting from Avila University."
 eeat_signals: ["Kathy Lange is a Certified Public Accountant (CPA)","21 years in public accounting","Bachelor of Science in Accounting from Avila University","Focus on assisting entrepreneurs, management, and small businesses with tax planning, compliance and growth"]
 internal_links: [{"url":"/contact","reason":"Primary conversion path for the page","anchor_text":"Schedule a consultation"},{"url":"/services/tax","reason":"Connects Kathy's tax planning work to the core tax service","anchor_text":"business and personal tax"},{"url":"/services/payroll","reason":"Links W2 and 1099 processing to the payroll service page","anchor_text":"payroll"},{"url":"/services/accounting","reason":"Supports clean, current books and accounting setup intent","anchor_text":"outsourced accounting"}]
-faq_block: [{"answer":"Kathy Lange is a CPA on the Parker Swearngin, LLP team in Lee's Summit, MO. She advises startups, first-time business owners, and owner-operators growing past the solo stage, combining tax planning and compliance with advice from a team that shares the analysis behind every recommendation.","question":"Who is Kathy Lange at Parker Swearngin?"},{"answer":"Kathy advises on Entity Type Analysis, Accounting System Setup, Retirement Plan Analysis, and Credit Card Rewards. These decisions shape your tax bill for years, so she runs your actual numbers first. You see the impact before committing, and you avoid surprises at filing time.","question":"What can Kathy help me with beyond filing taxes?"},{"answer":"Both. Kathy is your main point of contact, and a team of seasoned tax professionals shares the work behind her. That means close analysis of your situation, timely answers, and continuity if your question lands when she is busy or out of the office.","question":"Do I work with Kathy alone or with a team?"},{"answer":"Tax, payroll, and accounting services are bundled into one fixed monthly fee. You know the cost up front, so a quick question or a mid-year planning call never turns into an unexpected invoice. Your plan is recommended after a short call about your situation.","question":"How does pricing work for bundled services?"},{"answer":"No. Parker Swearngin is based in Lee's Summit and serves clients across Kansas City, the KC Metro, Kansas, and Missouri. Tax returns, payroll, and accounting can be handled through secure digital document upload and signature, so you do not need to be local.","question":"Does Kathy only work with clients in Lee's Summit?"}]
 llm_citation_note: "Kathy Lange is a CPA and accountant at Parker Swearngin LLC with 21 years in public accounting and a Bachelor of Science in Accounting from Avila University."
 ---
 
@@ -24,35 +23,6 @@ llm_citation_note: "Kathy Lange is a CPA and accountant at Parker Swearngin LLC 
 ## Kathy Lange, CPA - Accountant
 
 Kathy sees her strengths in Assisting Entrepreneurs and helping management and small businesses with tax planning, compliance and growth. Kathy has been in Public Accounting for 21 years and counting and holds a Bachelor of Science in Accounting from Avila University.  In her spare time, she loves spending time with her family and friends and spending time on her farm where she’s planted a number of fruit trees!
-
-
-
-
-
-
-
-
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Kathy Lange
-
-**Q: Who is Kathy Lange at Parker Swearngin?**
-A: Kathy Lange is a CPA on the Parker Swearngin, LLP team in Lee's Summit, MO. She advises startups, first-time business owners, and owner-operators growing past the solo stage, combining tax planning and compliance with advice from a team that shares the analysis behind every recommendation.
-
-**Q: What can Kathy help me with beyond filing taxes?**
-A: Kathy advises on Entity Type Analysis, Accounting System Setup, Retirement Plan Analysis, and Credit Card Rewards. These decisions shape your tax bill for years, so she runs your actual numbers first. You see the impact before committing, and you avoid surprises at filing time.
-
-**Q: Do I work with Kathy alone or with a team?**
-A: Both. Kathy is your main point of contact, and a team of seasoned tax professionals shares the work behind her. That means close analysis of your situation, timely answers, and continuity if your question lands when she is busy or out of the office.
-
-**Q: How does pricing work for bundled services?**
-A: Tax, payroll, and accounting services are bundled into one fixed monthly fee. You know the cost up front, so a quick question or a mid-year planning call never turns into an unexpected invoice. Your plan is recommended after a short call about your situation.
-
-**Q: Does Kathy only work with clients in Lee's Summit?**
-A: No. Parker Swearngin is based in Lee's Summit and serves clients across Kansas City, the KC Metro, Kansas, and Missouri. Tax returns, payroll, and accounting can be handled through secure digital document upload and signature, so you do not need to be local.
-
-
-
 ---
 ## SEO & AIO Metadata
 
