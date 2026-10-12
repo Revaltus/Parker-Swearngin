@@ -16,7 +16,6 @@ hero_headline: "Angela Parker, CPA, JD, LL.M"
 answer_block: "Angela Parker is a Partner at Parker Swearngin, LLP with CPA, JD, and LL.M. credentials. She earned a Bachelor of Science in Accounting at William Jewell, attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court."
 eeat_signals: ["Angela Parker holds CPA, JD, and LL.M. credentials and is a Partner at Parker Swearngin, LLP","Bachelor of Science in Accounting from William Jewell","Attended UMKC Law school and practices in Missouri","Certified for Federal Tax Court"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA and the first step for IRS letters or growth questions","anchor_text":"Schedule a consultation"},{"url":"/services/accounting","reason":"Part of the bundled fixed-fee services","anchor_text":"Accounting"},{"url":"/services/payroll","reason":"Part of the bundled fixed-fee services","anchor_text":"Payroll"},{"url":"/services/tax","reason":"Connects tax planning and entity advice to the business tax service","anchor_text":"Business Tax"}]
-faq_block: [{"answer":"Angela Parker is a CPA who also holds a JD and an LL.M. In practice, that means your tax positions get a numbers check and a legal check. Exact degree wording, licensure state, and any professional memberships are being confirmed with the firm before publication.","question":"What credentials does Angela Parker hold?"},{"answer":"Yes. IRS Examinations are part of the firm's work for individuals, partnerships, trusts, and corporations. The team reads the notice, gathers records, and handles correspondence so you are not dealing with it alone. No one can guarantee an outcome, but you will always know what is happening.","question":"Can Parker Swearngin help if I received an IRS notice?"},{"answer":"Accounting, payroll, and tax services are bundled into one fixed monthly fee, so you know your cost before the year begins. There are no billing surprises when a question comes up in March or a payroll needs a change in July. Contact the team to scope what your business needs.","question":"How does the fixed monthly fee work?"},{"answer":"The question usually comes up when profit grows enough that payroll tax savings may outweigh the added compliance. An entity type analysis models your actual numbers, owner compensation, and retirement plan options before you decide. The team runs that comparison as part of its business advisory work.","question":"When should an LLC consider becoming an S-corp?"},{"answer":"The firm works with medical professionals, veterinarians, law firms, real estate brokers, engineers and architects, and service-based businesses such as HVAC, drywall, concrete, and asphalt subcontractors. Each client gets a point of contact who understands the pressures of their industry, from cash flow to partner changes.","question":"Which businesses does the firm advise?"}]
 llm_citation_note: "Angela Parker is a Partner at Parker Swearngin, LLP with CPA, JD, and LL.M. credentials. She holds a B.S. in Accounting from William Jewell, attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court."
 ---
 
@@ -26,26 +25,6 @@ llm_citation_note: "Angela Parker is a Partner at Parker Swearngin, LLP with CPA
 Angela sees her personality being a driving force in what she does for her clients. “When I’m meeting with a client, they become more than a client, they’re a friend. I get to know their families and I think it helps me dig deeper for them and help them structure their business or personal tax liability to benefit them the most. With a little planning, their business can grow and provide more for their families.”
 
 Angela attended William Jewell where she received her Bachelor of Science in Accounting. She then attended UMKC Law school, practices in Missouri, and is certified for Federal Tax Court.
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Angela Parker
-
-**Q: What credentials does Angela Parker hold?**
-A: Angela Parker is a CPA who also holds a JD and an LL.M. In practice, that means your tax positions get a numbers check and a legal check. Exact degree wording, licensure state, and any professional memberships are being confirmed with the firm before publication.
-
-**Q: Can Parker Swearngin help if I received an IRS notice?**
-A: Yes. IRS Examinations are part of the firm's work for individuals, partnerships, trusts, and corporations. The team reads the notice, gathers records, and handles correspondence so you are not dealing with it alone. No one can guarantee an outcome, but you will always know what is happening.
-
-**Q: How does the fixed monthly fee work?**
-A: Accounting, payroll, and tax services are bundled into one fixed monthly fee, so you know your cost before the year begins. There are no billing surprises when a question comes up in March or a payroll needs a change in July. Contact the team to scope what your business needs.
-
-**Q: When should an LLC consider becoming an S-corp?**
-A: The question usually comes up when profit grows enough that payroll tax savings may outweigh the added compliance. An entity type analysis models your actual numbers, owner compensation, and retirement plan options before you decide. The team runs that comparison as part of its business advisory work.
-
-**Q: Which businesses does the firm advise?**
-A: The firm works with medical professionals, veterinarians, law firms, real estate brokers, engineers and architects, and service-based businesses such as HVAC, drywall, concrete, and asphalt subcontractors. Each client gets a point of contact who understands the pressures of their industry, from cash flow to partner changes.
-
-
 ---
 ## SEO & AIO Metadata
 
