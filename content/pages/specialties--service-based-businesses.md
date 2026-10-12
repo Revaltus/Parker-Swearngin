@@ -21,7 +21,7 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, bundles ac
 ---
 
 <!-- block: content-split | variant: image-right | image: subcontractor-reviewing-cash-flow.jpg | alt: "Subcontractor owner reviewing invoices and cash flow reports at a desk" | query: "contractor owner reviewing invoices office" -->
-## Know your cash position when GCs pay slowly
+## Know your cash position
 
 Your crew finished the job and the invoice went out. The general contractor's check shows up weeks later, and payroll, the supply house and your own subs are all due before it does.
 
