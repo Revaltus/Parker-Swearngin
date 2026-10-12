@@ -2,8 +2,8 @@
 title: "Personal income tax | Parker Swearngin LLC"
 url: "/what-we-do/personal-tax-prep-planning"
 meta_title: "Personal Income Tax Preparation Lee's Summit MO | CPA"
-meta_description: "CPA-led personal income tax preparation in Lee's Summit, MO. Secure digital filing, year-round planning, and IRS support. Schedule a consultation today."
-target_keyword: "personal income tax preparation Lee's Summit MO"
+meta_description: "CPA-led personal income tax preparation in the Kansas City metro area. Secure digital filing, year-round planning, and IRS support. Schedule a consultation today."
+target_keyword: "personal income tax preparation Kansas City metro"
 secondary_keywords: ["tax preparation Lee's Summit","personal tax planning Lee's Summit MO","CPA personal income tax Lee's Summit","tax filing services Lee's Summit","individual tax return preparation Lee's Summit","tax prep for medical professionals Lee's Summit","tax planning real estate brokers Lee's Summit","self-employed tax preparation Lee's Summit MO","tax advisor Lee's Summit Missouri","business owner personal taxes Lee's Summit","veterinarian tax planning Lee's Summit","attorney tax preparation Lee's Summit","professional services tax Lee's Summit MO","income tax consultant Lee's Summit","retirement tax planning Lee's Summit","tax strategy Lee's Summit CPA","personal tax consultant near Lee's Summit","1099 tax preparation Lee's Summit","W2 tax filing Lee's Summit Missouri","estimated quarterly taxes Lee's Summit"]
 canonical_url: "https://parkerswearngin.com/what-we-do/personal-tax-prep-planning"
 schema_markup: "Service"
@@ -12,38 +12,42 @@ hero_variant: "image-right"
 hero_image: "personal-income-tax-consultation.jpg"
 hero_image_alt: "CPA reviewing a personal tax return with a client at a desk"
 hero_subhead: "Know your numbers before April, with a CPA-led team that files accurately and answers your calls year-round"
-hero_headline: "Personal income tax preparation in Lee's Summit, without the scramble"
-answer_block: "Parker Swearngin provides personal income tax preparation in Lee's Summit, MO through a secure digital process: upload documents, sign electronically, and have the return filed by a CPA-led team. The firm also offers year-round tax planning, estimated quarterly tax guidance, and IRS examination support. Clients can bundle personal returns with business services under a fixed monthly fee."
+hero_headline: "Personal income tax preparation without the scramble"
+answer_block: "Parker Swearngin provides personal income tax preparation to clients in Lee's Summit, MO, the Kansas City metro area, and across Kansas and Missouri through a secure digital process: upload documents, sign electronically, and have the return filed by a CPA-led team. The firm also offers year-round tax planning, estimated quarterly tax guidance, and IRS examination support. Clients can bundle personal returns with business services under a fixed monthly fee."
 eeat_signals: ["CPA-led team preparing personal returns for individuals, owners, and professionals in Lee's Summit and the Kansas City Metro","Team includes a CPA who is also a tax attorney (JD, LL.M) able to represent clients in U.S. Tax Court","IRS examination support is part of the firm's documented service history","High client retention year after year","Member of the Lee's Summit Chamber of Commerce","Bundled services under a fixed monthly fee with no billing surprises"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA and conversion path","anchor_text":"Schedule a consultation"},{"url":"/industries/medical-professionals","reason":"Connects personal tax content to the medical niche page","anchor_text":"See how we help medical professionals"},{"url":"/industries/real-estate","reason":"Connects commission income and cost segregation content to the real estate page","anchor_text":"Explore real estate tax planning"},{"url":"/industries/veterinarians","reason":"Connects practice acquisition and equipment content to the veterinarian page","anchor_text":"Read about veterinary practice support"}]
-faq_block: [{"answer":"Pricing depends on the complexity of your return: W2 income alone is simpler than a return with 1099 income, rental property, or a business. For clients who also use us for business tax, accounting, or payroll, we can bundle everything into one fixed monthly fee, so there are no billing surprises.","question":"How much does personal income tax preparation cost in Lee's Summit?"},{"answer":"Bring your prior-year return and every income document you received: W2s, 1099s, and brokerage or retirement account statements. Add records of deductions, such as mortgage interest, charitable gifts, and childcare costs. You upload them through our digital process, and the team tells you if anything is missing before the return is prepared.","question":"What documents do I need to bring for my tax return?"},{"answer":"Likely yes if you're self-employed, earn commissions, or have income without withholding, such as 1099 work or investment gains. Federal estimates are generally due four times a year. We calculate them from your actual year-to-date numbers, so you set aside the right amount instead of guessing.","question":"Do I need to make estimated quarterly tax payments?"},{"answer":"Yes. We serve individuals and owners across Kansas City, the KC Metro, Missouri, and Kansas, so a return that touches both states is familiar territory. We prepare federal and state returns together and handle electronic filing. Tell us where you live and where you earn, and the team sorts out the credits and filing requirements for each state.","question":"Can you prepare both Missouri and Kansas returns?"},{"answer":"Don't ignore it, and don't respond before you understand it. Send us the notice and the team reviews what the IRS is asking, gathers supporting records, and prepares a response before the deadline printed on the letter. Our history includes IRS examination support, and the team includes a tax attorney for disputes.","question":"What should I do if I receive an IRS notice?"}]
+faq_block: [{"answer":"Pricing depends on the complexity of your return: W2 income alone is simpler than a return with 1099 income, rental property, or a business. For clients who also use us for business tax, accounting, or payroll, we can bundle everything into one fixed monthly fee, so there are no billing surprises.","question":"How much does personal income tax preparation cost in the Kansas City metro area?"},{"answer":"Bring your prior-year return and every income document you received: W2s, 1099s, and brokerage or retirement account statements. Add records of deductions, such as mortgage interest, charitable gifts, and childcare costs. You upload them through our digital process, and the team tells you if anything is missing before the return is prepared.","question":"What documents do I need to bring for my tax return?"},{"answer":"Likely yes if you're self-employed, earn commissions, or have income without withholding, such as 1099 work or investment gains. Federal estimates are generally due four times a year. We calculate them from your actual year-to-date numbers, so you set aside the right amount instead of guessing.","question":"Do I need to make estimated quarterly tax payments?"},{"answer":"Yes. We serve individuals and owners across Kansas City, the KC Metro, Missouri, and Kansas, so a return that touches both states is familiar territory. We prepare federal and state returns together and handle electronic filing. Tell us where you live and where you earn, and the team sorts out the credits and filing requirements for each state.","question":"Can you prepare both Missouri and Kansas returns?"},{"answer":"Don't ignore it, and don't respond before you understand it. Send us the notice and the team reviews what the IRS is asking, gathers supporting records, and prepares a response before the deadline printed on the letter. Our history includes IRS examination support, and the team includes a tax attorney for disputes.","question":"What should I do if I receive an IRS notice?"}]
 llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, offers personal income tax preparation with digital document upload, electronic signature and filing, year-round tax planning, and IRS examination support, and can bundle personal returns with business services under a fixed monthly fee."
 ---
 
 <!-- block: content-split | variant: image-left | image: personal-tax-consultation.jpg | alt: "CPA reviewing a personal tax return with a client at a desk" | query: "accountant client reviewing tax return" -->
-## Personal income tax preparation in Lee's Summit, without the scramble
+## Personal income tax preparation without the scramble
 
-We are a CPA-led team in Lee's Summit, MO providing personal income tax preparation for individuals and business owners across Lee's Summit and KC. Our services include secure digital filing, year-round tax advice, and support if the IRS writes, all handled by people who already know your return.
+We are a CPA-led team in Lee's Summit, MO, serving clients across Kansas and Missouri, providing personal income tax preparation for individuals and business owners. Our services include secure digital filing, year-round tax advice, and support if the IRS writes, all handled by people who already know your return.
 
-That is how personal income tax preparation works here in Lee's Summit, MO. A CPA-led team prepares your return year after year, with your prior filings in front of them. There is no seasonal storefront and no drop-off counter. Clients return every year, and that high retention is the best proof we have that the experience feels different.
+The Parker Swearngin team prepares your return year after year, with your prior filings in front of them. There is no seasonal storefront and no drop-off counter. Clients return every year, and that high retention is the best proof we have that the experience feels different.
 
-Looking for a CPA for personal income tax in Lee's Summit who treats your return as more than a form? [Schedule a consultation](/contact) and meet the team that will prepare your return.
+Looking for a CPA for personal income tax in the Kansas City metro area who treats your return as more than a form? [Schedule a consultation](/contact) and meet the team that will prepare your return.
 
 <!-- block: process-steps | variant: horizontal -->
 ## How does our secure digital tax filing process work?
 
-Individual tax return preparation in Lee's Summit should not mean driving across town with a folder. Here is how tax filing works with us, including W2 and 1099 income, and who does what at each step. The process is modern and secure, and the same team that knows your return is there to help.
+Here is how tax filing works with us, including W2 and 1099 income, and who does what at each step. The process is modern and secure, and the same team that knows your return is there to help.
 
 ### Upload your documents
+
 You send W2s, 1099s, brokerage statements, and deduction records through our secure digital upload. The team reviews what arrives and tells you if anything is missing.
 
 ### Review and sign
+
 The team prepares your return and walks you through it. You review it and sign electronically, so there is no printing and no second trip to the office.
 
 ### Get answers from a real person
-Customized tax support means your questions go to people who know your return. Ask about a W2 filing in Missouri, a 1099 side income question, or a life change.
+
+Customized tax support means your questions go to people who know your return. Ask about a W2 filing, a 1099 side income question, or a life change.
 
 ### Electronic filing
+
 Once you approve it, the team files your federal and state returns electronically. You do not have to track it down or chase a confirmation.
 
 <!-- block: content-split | variant: image-right | image: year-round-tax-planning.jpg | alt: "Tax advisor and client discussing a planning calendar over coffee" | query: "tax advisor planning meeting client" -->
@@ -53,7 +57,7 @@ Filing a return tells you what happened last year. Planning tells you what to do
 
 Our year-round tax advice is built for people whose income does not arrive evenly. If you earn commissions, 1099 income, or a variable bonus, estimated quarterly taxes in Lee's Summit are a real part of your year. The team calculates each payment from your actual year-to-date numbers, so you set aside the right amount instead of guessing and hoping.
 
-Personal tax planning in Lee's Summit, MO also looks ahead to retirement. Our Retirement Plan Analysis compares your options, such as a SEP, a solo 401(k), or a workplace plan, and shows how each contribution changes your tax result this year and later. A CPA-led team that already knows your return can compare those options against your actual numbers.
+Personal tax planning also looks ahead to retirement. Our retirement plan analysis compares your options, such as a SEP, a solo 401(k), or a workplace plan, and shows how each contribution changes your tax result this year and later. A CPA-led team that already knows your return can compare those options against your actual numbers.
 
 If last April's bill caught you off guard, we should talk before this year closes. [Talk with us about your plan](/contact).
 
@@ -92,33 +96,6 @@ icon: Wrench
 
 HVAC, drywall, concrete, and asphalt subcontractors deal with 1099 income and slow-paying clients. Self-employed tax preparation in Lee's Summit, MO means planning so cash is set aside for taxes even when payments run late. [Visit our service-based business page](/industries/service-based-businesses).
 
-<!-- block: feature-grid | variant: 3-col -->
-## Advice that connects your personal and business finances
-
-If you own a business, your personal return depends on decisions made inside it. Our business advisory and consulting work is built for exactly that overlap, so we can look at both sides of the picture. Four areas drive most of the personal tax impact.
-
-You can also bundle personal returns with [business tax](/services/tax), [accounting](/services/accounting), and [payroll](/services/payroll) under one fixed monthly fee. That means no billing surprises, and one team that sees all of it.
-
-### Entity Type Analysis
-icon: Building
-
-An LLC, S-corp, or partnership changes how your income reaches your personal return. We model the options before you convert.
-
-### Accounting System Setup
-icon: Calculator
-
-Clean, current books are what make an accurate personal return possible. We set up your system so the numbers flow without a January scramble.
-
-### Retirement Plan Analysis
-icon: PiggyBank
-
-The right plan can lower this year's taxable income and build long-term savings. We compare the choices against your actual cash flow.
-
-### Credit Card Rewards
-icon: CreditCard
-
-We look at which cards and reward programs fit your spending and how rewards should be reported, so a perk never turns into a tax question.
-
 <!-- block: content-prose -->
 ## What happens if the IRS comes calling?
 
@@ -126,12 +103,12 @@ An IRS notice is stressful, but the first step is simple: find out exactly what 
 
 Send us the letter and the team reads it first. We confirm what the IRS is asking, gather the records that support your return, and prepare a response before the deadline printed on the notice. IRS examination support is part of this firm's history, not an add-on.
 
-If a dispute grows more serious, the team includes a CPA who is also a tax attorney (JD, LL.M) and can represent clients in U.S. Tax Court. We keep the plan calm and direct, one step at a time. We will not promise an outcome, but we will make sure you are not facing the IRS alone.
+If a dispute grows more serious, the team includes a CPA who is also a tax attorney and can represent clients in U.S. Tax Court. We keep the plan calm and direct, one step at a time. We will not promise an outcome, but we will make sure you are not facing the IRS alone.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Personal income tax
 
-**Q: How much does personal income tax preparation cost in Lee's Summit?**
+**Q: How much does personal income tax preparation cost in the Kansas City metro area?**
 A: Pricing depends on the complexity of your return: W2 income alone is simpler than a return with 1099 income, rental property, or a business. For clients who also use us for business tax, accounting, or payroll, we can bundle everything into one fixed monthly fee, so there are no billing surprises.
 
 **Q: What documents do I need to bring for my tax return?**
@@ -149,7 +126,7 @@ A: Don't ignore it, and don't respond before you understand it. Send us the noti
 <!-- block: cta-banner | variant: image-bg | image: tax-consultation-call.jpg | alt: "Client and CPA talking through a tax return in a bright office" | query: "client meeting professional office" -->
 ## Start with a conversation about your return
 
-The first step is a no-pressure call about where you stand. Have your prior-year return and your income documents handy, such as W2s and 1099s, and we will take it from there. We serve individuals and owners across the Kansas City Metro, and we can set up a fixed monthly fee if you want business tax, accounting, or payroll alongside your personal return.
+The first step is a no-pressure call about where you stand. Have your prior-year return and your income documents handy, such as W2s and 1099s, and we will take it from there. We serve individuals and business owners across the Kansas City Metro, and we can set up a fixed monthly fee if you want business tax, accounting, or payroll alongside your personal return.
 
 [Schedule a consultation](/contact)
 
