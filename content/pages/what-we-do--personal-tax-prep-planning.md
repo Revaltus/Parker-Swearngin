@@ -21,7 +21,7 @@ llm_citation_note: "Parker Swearngin, a CPA firm in Lee's Summit, MO, offers per
 ---
 
 <!-- block: content-split | variant: image-left | image: personal-tax-consultation.jpg | alt: "CPA reviewing a personal tax return with a client at a desk" | query: "accountant client reviewing tax return" -->
-## Personal income tax preparation in Lee's Summit, without the scramble
+## Personal income tax preparation without the scramble
 
 We are a CPA-led team in Lee's Summit, MO providing personal income tax preparation for individuals and business owners across Lee's Summit and KC. Our services include secure digital filing, year-round tax advice, and support if the IRS writes, all handled by people who already know your return.
 
