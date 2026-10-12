@@ -23,20 +23,20 @@ llm_citation_note: "Parker Swearngin, a CPA-led firm in Lee's Summit, MO, bundle
 <!-- block: content-split | variant: image-left | image: vet-practice-owner-finances.jpg | alt: "Veterinarian in scrubs reviewing clinic financial reports at a desk" | query: "veterinarian reviewing clinic paperwork office" -->
 ## Payroll, equipment, and cash decisions shouldn't compete with your appointments
 
-Veterinary practice accounting in Lee's Summit from Parker Swearngin, LLP is a CPA-led service that handles a clinic's books, payroll, and taxes together for one fixed monthly fee. It is built for veterinarians and practice owners across the KC metro who want current numbers and no billing surprises, without giving up time with patients.
+Veterinary practice accounting in the Kansas City metro area from Parker Swearngin, LLC is a service that handles a clinic's books, payroll, and taxes together for one fixed monthly fee. It is built for veterinarians and practice owners across Kansas and Missourie who want current numbers and no billing surprises, without giving up time with patients.
 
 You went to vet school to treat animals, not to reconcile a payroll register at 9 p.m. Yet between technicians, front desk staff, and associate DVMs, payroll is usually the biggest line on your P&L. Add a new digital radiography unit or a building purchase, and one quarter can swing both your cash and your tax bill.
 
-Veterinary practice accounting in Lee's Summit works best when it is built around that reality. Parker Swearngin, LLP is a CPA-led firm based here, serving clinics across the KC metro. The team handles your books, payroll, and taxes together, so the numbers are current when you need to make a call, not weeks afterward. You stay with your patients, and the team reaches out when something needs your attention.
+Veterinary practice accounting works best when it is built around that reality. We handle your books, payroll, and taxes together, so the numbers are current when you need to make a call, not weeks afterward. You stay with your patients, and the team reaches out when something needs your attention.
 
 <!-- block: content-split | variant: image-right | image: clinic-bookkeeping-payroll.jpg | alt: "Accountant and clinic manager reviewing payroll reports on a laptop together" | query: "accountant reviewing payroll with clinic manager" -->
 ## Who handles bookkeeping and payroll for a veterinary clinic?
 
 A clinic's books are busier than most small businesses' books. Pharmacy purchases, lab fees, supply orders, and client payments move every day, and your payroll may include technicians, associate DVMs, and relief vets who are paid in different ways. When those pieces sit in separate places, you hear about a cash problem after it happens.
 
-One team covers both sides. On the [accounting](/services/accounting) side, that means daily transaction classification, expense tracking, and reporting. Your veterinary practice bookkeeping in Lee's Summit stays current, and you can see your cash position on any day of the month. On the [payroll](/services/payroll) side, the team handles scheduled payroll processing, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking.
+One team covers both sides. On the [accounting](/services/accounting) side, that means daily transaction classification, expense tracking, and reporting. Your veterinary practice bookkeeping stays current, and you can see your cash position on any day of the month. On the [payroll](/services/payroll) side, the team handles scheduled payroll processing, employee setup, salary changes, payroll filings, W2 and 1099 processing, and time tracking.
 
-Because one team sees both, a raise shows up in your reports right away, and a slow month is visible before the next payroll date. That is what vet practice payroll services in Lee's Summit should do: keep staff paid on time and keep you informed.
+Because one team sees both, a raise shows up in your reports right away, and a slow month is visible before the next payroll date. That is what vet practice payroll services should do: keep staff paid on time and keep you informed.
 
 [Ask about outsourced accounting for your clinic](/contact)
 
@@ -47,7 +47,7 @@ Veterinary medicine is capital heavy. Ultrasound, digital imaging, surgical equi
 
 Depreciation lets you deduct the cost of equipment over time, and in some cases on a faster schedule. If you own or buy your building, a cost segregation study can separate parts of the property, such as flooring, cabinetry, and certain electrical and plumbing systems, from the structure so they depreciate on a shorter schedule. The result can be a meaningfully lower tax bill in the early years.
 
-The catch is timing. The best tax planning for a veterinary practice happens before the purchase, not after the invoice is paid. That is why business tax planning here runs year-round, and why vet practice tax preparation in Lee's Summit includes electronic filing and ongoing advice, not just a return in April.
+The catch is timing. The best tax planning for a veterinary practice happens before the purchase, not after the invoice is paid. That is why business tax planning at Parker Swearngin runs year-round, and why our vet practice tax preparation includes electronic filing and ongoing advice, not just a return in April.
 
 If a big purchase is on your horizon, [talk with us before you sign](/contact).
 
@@ -81,11 +81,11 @@ A clinic spends heavily on supplies, equipment, and services. A clear rewards st
 
 A generalist accountant sees a vet clinic as one more small business. Then a question comes up about depreciating a surgical suite or structuring an associate buy-in, and the answer arrives three weeks late or not at all.
 
-Parker Swearngin, LLP is a CPA-led team of seasoned tax professionals who work together, so your file gets close analysis from more than one set of eyes. You get a dedicated point of contact who understands how veterinary practices run and who calls you back. Clients return year after year, which says more than any promise we could make.
+Parker Swearngin, LLC is a team of experienced tax professionals who work together, so your file gets close analysis from more than one set of eyes. You get a dedicated point of contact who understands how veterinary practices run and who calls you back. Clients return year after year, which says more than any promise we could make.
 
-Accounting, payroll, and business tax come bundled at one fixed monthly fee. There is no clock running when you call with a question and no surprise invoice after a busy quarter. Your [personal income tax](/services/personal-tax-prep-planning) support is part of the same relationship, so the clinic and the household are planned together. This is the kind of veterinary business CPA service you can expect from us as a CPA for veterinarians in Lee's Summit, MO.
+Accounting, payroll, and business tax come bundled at one fixed monthly fee. There is no clock running when you call with a question and no surprise invoice after a busy quarter. Your [personal income tax](/services/personal-tax-prep-planning) support is part of the same relationship, so the clinic and the household are planned together. This is the kind of veterinary business CPA service you can expect from us.
 
-[Placeholder: veterinary client testimonial to be supplied by the client before publishing.]
+\[Placeholder: veterinary client testimonial to be supplied by the client before publishing.\]
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Veterinary practice accounting
@@ -106,9 +106,9 @@ A: Before you sign a letter of intent or a purchase agreement. The structure of 
 A: Yes. Practice owners often have one tax picture split across the clinic and the household, so the same team prepares your personal return with digital document upload, signature, and filing. Year-round advice covers estimated payments, retirement contributions, and the effect of practice decisions on your personal bill.
 
 <!-- block: cta-banner | variant: image-bg | image: kc-vet-clinic-consultation.jpg | query: "veterinary clinic team friendly reception" -->
-## Talk with a KC team that knows veterinary practices
+## Talk with a team that knows veterinary practices
 
-Start with a conversation about where things stand: your current books, your payroll, and any purchase, acquisition, or buy-in on the horizon. No pressure and no jargon. Parker Swearngin, LLP serves Lee's Summit, Kansas City, the KC metro, and clients across Kansas and Missouri.
+Start with a conversation about where things stand: your current books, your payroll, and any purchase, acquisition, or buy-in on the horizon. No pressure and no jargon. 
 
 [Schedule a consultation](/contact)
 
