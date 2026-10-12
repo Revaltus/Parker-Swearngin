@@ -27,20 +27,6 @@ Parker Swearngin has spent years giving individuals and businesses personal fina
 
 The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, we're people who know our clients' names and their financials.
 
-<!-- block: content-prose -->
-## Staying on a healthy financial path, today and down the road
-
-Most owners know the feeling. You hear from your accountant in March, get a bill in April, and then nothing until the next deadline. That isn't guidance. It's a transaction.
-
-Our mission is to help you stay financially viable now while taking a proactive approach to the goals ahead. That takes open communication, plus research and sound analysis, so the team understands what you need before offering advice. It is also why our tagline reads the way it does: stay on a healthy financial path with dedicated, strategic advisory services.
-
-Four values shape how the team works:
-
-- Competent and timely advice
-- Responsiveness
-- Hard work
-- Esteem earned in the community
-
 <!-- block: content-split | variant: image-left | image: team-reviewing-client-file.jpg | alt: "Accounting team members reviewing a client's financial documents together at a table" | query: "accounting team reviewing documents together" -->
 ## One team that gives every client close attention
 
