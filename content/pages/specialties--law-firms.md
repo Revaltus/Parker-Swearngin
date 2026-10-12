@@ -21,9 +21,9 @@ llm_citation_note: "Parker Swearngin is a CPA-led firm in Lee's Summit, MO that 
 
 A trust account error doesn't announce itself. It sits quietly until a bar inquiry, a partner departure, or a client question sends someone looking. Our team keeps your books ready for that moment.
 
-Our approach to law firm bookkeeping in Lee's Summit has one rule: client money and firm money never blur together on your books. We integrate Clio with QuickBooks, so billing and trust activity flow into your books instead of being retyped from one system to another. Client funds are tracked as client funds. Your operating account shows what belongs to the firm. That separation is what makes reconciliation straightforward when it's time to do it.
+Our approach to law firm bookkeeping has one rule: client money and firm money never blur together on your books. We integrate Clio with QuickBooks, so billing and trust activity flow into your books instead of being retyped from one system to another. Client funds are tracked as client funds. Your operating account shows what belongs to the firm. That separation is what makes reconciliation straightforward when it's time to do it.
 
-Here is where our lane ends. We don't give legal or ethics advice, and your bar's rules are yours and your counsel's to interpret. What we do is keep the books clean and ready for review, so you're never scrambling to explain a number. That is accounting for law firms in Lee's Summit, MO that attorneys can hand off with confidence.
+Here is where our lane ends. We don't give legal or ethics advice, and your bar's rules are yours and your counsel's to interpret. What we do is keep the books clean and ready for review, so you're never scrambling to explain a number. That is accounting for law firms in the Kansas City area that attorneys can hand off with confidence.
 
 <!-- block: content-prose -->
 ## How can a law firm keep cash flow steady with contingency fees and billing cycles?
