@@ -3,7 +3,7 @@ title: "Who we are | Parker Swearngin LLC"
 url: "/who-we-are"
 meta_title: "Accounting Firm Lee's Summit MO | Parker Swearngin"
 meta_description: "Parker Swearngin is a CPA-led accounting firm in Lee's Summit, MO offering tax, bookkeeping, payroll and advisory for one fixed monthly fee. Meet our team."
-target_keyword: "accounting firm Lee's Summit MO"
+target_keyword: "accounting firm Lee's Summit MO Kansas City metro"
 secondary_keywords: ["CPA Lee's Summit Missouri","business accountant Lee's Summit","small business accountant Lee's Summit","payroll services Lee's Summit MO","outsourced accounting Lee's Summit","business advisory services Lee's Summit","entity type analysis Lee's Summit","accounting system setup Lee's Summit","retirement planning CPA Lee's Summit","accounting firm near me Lee's Summit","CPA for medical professionals Lee's Summit","accountant for real estate brokers Lee's Summit","veterinary accounting Lee's Summit MO","law firm accounting Lee's Summit","professional services accounting Lee's Summit","service-based business accounting Lee's Summit"]
 canonical_url: "https://parkerswearngin.com/who-we-are"
 schema_markup: "LocalBusiness"
