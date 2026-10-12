@@ -23,80 +23,6 @@ Janet likes to make sure the client feels she is giving them the personal attent
 
 Janet went to Longview Community College and UMKC and has over 25 years in the business. Off the clock, she loves spending time with her grandchildren and making beautiful floral arrangements!
 
-<!-- block: checklist-section | variant: with-image-left | image: bookkeeping-records-review.jpg | alt: "Accountant organizing financial statements and a laptop on a tidy office desk" | query: "accountant reviewing financial statements office" -->
-## Experience and credentials you can verify
-
-Here is what the firm can confirm about Janet's role and the team behind her work:
-
-- Hands-on bookkeeping for family-owned and small local businesses
-- Daily transaction classification, expense tracking, and reporting, the work that keeps books current
-- Works alongside the firm's CPAs: Angela Parker (CPA, JD, LL.M), Jennifer Swearngin (CPA), and Kathy Lange (CPA)
-- Part of a firm connected with the Lee's Summit Chamber of Commerce
-
-<!-- FIRM TO CONFIRM: CPA license state (if applicable), education, years in practice, professional memberships, prior experience. Add as list items once supplied. Do not borrow the JD/LL.M or Tax Court credentials, which belong to Angela Parker. -->
-
-Her work is backed by a firm of seasoned tax professionals, and that is a big reason clients return year after year.
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Which businesses and professionals does Janet work with?
-
-Janet's day-to-day bookkeeping stays close to home with the owners of local companies. The team around her knows the money problems that come with each of these industries.
-
-<!-- FIRM TO CONFIRM: which of these niches Janet works with directly. -->
-
-### Medical professionals
-icon: Stethoscope
-
-Patients come first, so the books slide. The team keeps records current while a CPA handles practice income, retirement plans, and entity questions. Looking for a CPA for medical professionals in Lee's Summit? [See how we help](/industries/medical-professionals).
-
-### Veterinarians
-icon: HeartPulse
-
-Payroll runs heavy, and equipment or building purchases change your tax picture. A veterinarian CPA in Lee's Summit should understand depreciation and cost segregation. [Explore veterinary support](/industries/veterinarians).
-
-### Law firms
-icon: Scale
-
-IOLTA trust accounting and uneven contingency cash flow need careful handling. The team integrates Clio with QuickBooks, so billing and books match. Need a law firm accountant in Lee's Summit? [See accounting for law firms](/industries/law-firms).
-
-### Real estate brokers
-icon: Home
-
-Commission income arrives in lumps, and estimated taxes follow. Cost segregation studies can soften a big year. The team serves as a tax accountant for real estate brokers in Lee's Summit. [See tax help for real estate brokers](/industries/real-estate).
-
-### Engineers and architects
-icon: Building2
-
-Project-based revenue makes cash uneven. You need WIP tracking and clear project profitability, plus a sensible owner compensation plan. [Learn about support for engineers and architects](/industries/professional-services).
-
-### Service-based businesses
-icon: Wrench
-
-HVAC, drywall, concrete, and asphalt subcontractors wait on slow-paying general contractors and progress billing. Clean books, payroll, and 1099 tracking keep payments on time. [Explore accounting for service-based businesses](/industries/service-based-businesses).
-
-<!-- block: content-prose -->
-## What business advice goes beyond filing a return?
-
-A return filed in April only tells you what already happened. The Parker Swearngin team also advises on decisions while they can still change the outcome. That is where business tax services in Lee's Summit earn their keep, especially for owners who want year-round planning instead of a once-a-year check-in.
-
-Four advisory areas come up most often:
-
-- **Entity Type Analysis:** Should your LLC elect S-corp status? The team models salary, distributions, and self-employment tax before you commit.
-- **Accounting System Setup:** The right chart of accounts and software configuration from day one, so your reports mean something. It is the first step of our accounting system setup for Lee's Summit businesses.
-- **Retirement Plan Analysis:** Plan options compared against your cash flow and payroll, with retirement planning led by CPAs.
-- **Credit Card Rewards:** Business cards and rewards that pay you back without muddying your books.
-
-Behind that advice is the daily work. Bookkeeping keeps your numbers current. Payroll covers processing, filings, and W2 and 1099 forms. Business and personal tax preparation come with year-round advice.
-
-<!-- block: content-split | variant: image-right | image: client-consultation-office.jpg | alt: "Two accountants and a client talking through documents at a conference table" | query: "client consultation accountant professional office" -->
-## What is it like to work with Janet and the team?
-
-You get one point of contact who knows your industry, and answers that arrive when you need them. Competent, timely advice is the standard here. Responsiveness, hard work, and esteem earned in the Lee's Summit community are the values the whole team works by.
-
-Billing is just as predictable. Bookkeeping, payroll, and tax services are bundled into one fixed monthly fee, so there are no billing surprises and no dreading the invoice after a busy quarter. When tax season arrives, the groundwork is already done.
-
-<!-- CLIENT QUOTE SLOT: Insert one real client quote or review, with name and business, supplied by the firm. Do not publish fabricated testimonials. -->
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Janet Williams
 
@@ -111,13 +37,6 @@ A: The team serves medical professionals, veterinarians, law firms, real estate 
 
 **Q: Does the firm help with entity structure and retirement plans?**
 A: Yes. Advisory work includes Entity Type Analysis, such as whether an LLC should elect S-corp status, plus Retirement Plan Analysis, Accounting System Setup, and Credit Card Rewards. The goal is year-round planning, so decisions get made before deadlines rather than discovered afterward at filing time.
-
-<!-- block: cta-banner | variant: image-bg | image: lees-summit-main-street.jpg | query: "small town main street storefronts" -->
-## Schedule a conversation with Janet
-
-Start with a no-pressure intro call about your books, payroll, or tax situation. Bring last year's return and, if you have it, access to your current accounting software. That's enough to get started. Parker Swearngin, LLP serves Lee's Summit, KC, and surrounding Missouri and Kansas communities.
-
-[Schedule a consultation](/contact)
 
 
 ---
