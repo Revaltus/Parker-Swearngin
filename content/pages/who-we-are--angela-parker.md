@@ -2,9 +2,9 @@
 title: "Angela Parker | Parker Swearngin LLC"
 url: "/who-we-are/angela-parker"
 meta_title: "Angela Parker, CPA in Lee's Summit MO | Parker Swearngin"
-meta_description: "Meet Angela Parker, CPA, JD, LL.M., Partner at Parker Swearngin. She is certified for Federal Tax Court and helps clients structure business and personal tax liability."
+meta_description: "Meet Angela Parker, CPA, JD, LL.M., Partner at Parker Swearngin. Certified for Federal Tax Court, she gets to know clients and their families to plan business and personal taxes."
 target_keyword: "CPA in Lee's Summit MO"
-secondary_keywords: ["Angela Parker CPA Lee's Summit","accountant Lee's Summit Missouri","tax planning Lee's Summit Missouri","entity type analysis CPA Lee's Summit","retirement plan analysis Lee's Summit","accounting system setup Lee's Summit","small business CPA Lee's Summit","outsourced accounting Lee's Summit","CPA firm Lee's Summit Missouri","tax advice Lee's Summit MO"]
+secondary_keywords: ["Angela Parker CPA Lee's Summit","tax attorney CPA Lee's Summit MO","Federal Tax Court CPA Missouri","tax planning Lee's Summit Missouri","business tax liability planning Lee's Summit","personal tax liability planning Kansas City","small business CPA Lee's Summit","CPA firm Lee's Summit Missouri"]
 canonical_url: "https://parkerswearngin.com/who-we-are/angela-parker"
 schema_markup: "WebPage"
 hero: "hero-split"
