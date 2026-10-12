@@ -27,27 +27,6 @@ Parker Swearngin has spent years giving individuals and businesses personal fina
 
 The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, we're people who know our clients' names and their financials.
 
-<!-- block: content-prose -->
-## One fixed monthly fee, no billing surprises
-
-Nothing sours an accounting relationship faster than an invoice you didn't expect. So the firm bundles its services into one fixed monthly fee, with the scope agreed before work begins. A question in March doesn't change what you pay.
-
-For owners who want outsourced accounting Lee's Summit businesses can budget around, the bundle includes:
-
-- [Accounting](/services/accounting): daily transaction classification, expense tracking and reporting
-- [Payroll](/services/payroll): scheduled payrolls, filings, and W2 and 1099 processing. Payroll services Lee's Summit MO owners need, from employee setup to salary changes and time tracking, sit in the same fee.
-- [Business tax](/services/tax): planning, preparation, e-filing and year-round advice
-- [Personal income tax](/services/personal-tax-prep-planning): secure digital filing with support through the year
-
-A fixed fee settles the billing side. Surprise tax bills are a planning problem, and proactive year-round tax planning is what addresses them. The team reviews your numbers before deadlines, not after, so April holds fewer unpleasant discoveries.
-
-Within the same relationship, the firm's business advisory services in Lee's Summit cover four areas:
-
-- Entity Type Analysis
-- Accounting System Setup
-- Retirement Plan Analysis
-- Credit Card Rewards
-
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Industries we understand from the inside
 
