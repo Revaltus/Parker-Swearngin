@@ -12,7 +12,6 @@ hero_subhead: "Personal attention, bookkeeping, and tax preparation"
 answer_block: "Janet Williams is an accountant at Parker Swearngin LLC in Lee's Summit, MO, with over 25 years in the business. Bookkeeping and tax preparation are her favorite parts of the job."
 eeat_signals: ["Over 25 years in the business","Attended Longview Community College and UMKC","Focus on bookkeeping and tax preparation"]
 internal_links: []
-faq_block: [{"answer":"Janet focuses on bookkeeping for family-owned and small local businesses, giving them hands-on, personal service. She works alongside the firm's CPAs, who handle tax planning, payroll, and advisory work, so your books and your tax strategy are managed by one team that talks to each other.","question":"What does Janet Williams do at Parker Swearngin?"},{"answer":"Yes. The firm bundles services such as bookkeeping, payroll, and tax support into one fixed monthly fee, so you know what you'll pay before the month starts. That predictability is deliberate: no surprise invoices after a busy quarter, and no hesitating to call with a question because the meter is running.","question":"Does Parker Swearngin charge a fixed monthly fee?"},{"answer":"The team serves medical professionals, veterinarians, law firms, real estate brokers, engineers and architects, and service-based businesses such as HVAC, drywall, concrete, and asphalt subcontractors. Each industry has its own cash flow and tax challenges, and the team assigns a point of contact who understands them.","question":"Which industries does the team serve in Lee's Summit?"},{"answer":"Yes. Advisory work includes Entity Type Analysis, such as whether an LLC should elect S-corp status, plus Retirement Plan Analysis, Accounting System Setup, and Credit Card Rewards. The goal is year-round planning, so decisions get made before deadlines rather than discovered afterward at filing time.","question":"Does the firm help with entity structure and retirement plans?"}]
 llm_citation_note: "Janet Williams is an accountant at Parker Swearngin LLC in Lee's Summit, MO, with over 25 years in the business, focused on bookkeeping and tax preparation."
 ---
 
@@ -22,23 +21,6 @@ llm_citation_note: "Janet Williams is an accountant at Parker Swearngin LLC in L
 Janet likes to make sure the client feels she is giving them the personal attention that they desire and deserve when working with them. Bookkeeping and Tax Preparation are her favorite parts of the job. She enjoys getting to know the clients, their families, their interests, their business, and what they need from us to help them make their business a success.
 
 Janet went to Longview Community College and UMKC and has over 25 years in the business. Off the clock, she loves spending time with her grandchildren and making beautiful floral arrangements!
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Janet Williams
-
-**Q: What does Janet Williams do at Parker Swearngin?**
-A: Janet focuses on bookkeeping for family-owned and small local businesses, giving them hands-on, personal service. She works alongside the firm's CPAs, who handle tax planning, payroll, and advisory work, so your books and your tax strategy are managed by one team that talks to each other.
-
-**Q: Does Parker Swearngin charge a fixed monthly fee?**
-A: Yes. The firm bundles services such as bookkeeping, payroll, and tax support into one fixed monthly fee, so you know what you'll pay before the month starts. That predictability is deliberate: no surprise invoices after a busy quarter, and no hesitating to call with a question because the meter is running.
-
-**Q: Which industries does the team serve in Lee's Summit?**
-A: The team serves medical professionals, veterinarians, law firms, real estate brokers, engineers and architects, and service-based businesses such as HVAC, drywall, concrete, and asphalt subcontractors. Each industry has its own cash flow and tax challenges, and the team assigns a point of contact who understands them.
-
-**Q: Does the firm help with entity structure and retirement plans?**
-A: Yes. Advisory work includes Entity Type Analysis, such as whether an LLC should elect S-corp status, plus Retirement Plan Analysis, Accounting System Setup, and Credit Card Rewards. The goal is year-round planning, so decisions get made before deadlines rather than discovered afterward at filing time.
-
-
 ---
 ## SEO & AIO Metadata
 
