@@ -95,13 +95,6 @@ Here is what the team handles for you:
 
 One team does the books, payroll, and tax, so the numbers agree with each other.
 
-<!-- block: content-prose -->
-## One team and one fixed monthly fee
-
-Billing surprises are a bad fit for a business that already has income surprises. So tax, accounting, payroll, and advisory are bundled into one fixed monthly fee. You know what you'll pay before the work starts, and a busy closing season doesn't change the invoice.
-
-You also get a team that works together. A dedicated point of contact knows your business, and other seasoned tax professionals review the details, so you get close analysis rather than a once-a-year handoff. Questions get answered quickly, because responsiveness is a core value here. If you're looking for a realtor CPA near Lee's Summit who treats your numbers as seriously as you do, this is how we work. Clients return to us year after year, and that is the standard we keep.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Real estate CPA services
 
