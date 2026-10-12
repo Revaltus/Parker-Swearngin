@@ -1,11 +1,11 @@
 ---
 title: "Accounting for attorneys and law firms | Parker Swearngin LLC"
-url: "/industries/law-firms"
+url: "/specialties/law-firms"
 meta_title: "Accounting for Law Firms Lee's Summit MO | Parker Swearngin"
 meta_description: "CPA-led accounting for law firms in Lee's Summit, MO. Clio and QuickBooks integration, payroll, and tax for one fixed monthly fee. Talk with our team today."
 target_keyword: "accounting for law firms Lee's Summit MO"
 secondary_keywords: ["CPA for attorneys Lee's Summit","law firm accounting services Missouri","payroll services law firms Lee's Summit","business tax CPA law firms","accounting for legal practices Lee's Summit MO","law firm bookkeeping Lee's Summit","professional services accounting attorney","law office accounting setup","entity structure analysis law firms","law firm cash management accounting","outsourced accounting legal practices","business advisory CPA law firms Missouri","law firm tax planning Lee's Summit","accounting system setup law office","retirement planning law firm owners","Lee's Summit CPA legal professionals","law firm financial management services","small law firm accounting Missouri"]
-canonical_url: "https://parkerswearngin.com/industries/law-firms"
+canonical_url: "https://parkerswearngin.com/specialties/law-firms"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Clean books, steady cash flow, and one fixed monthly fee, so your time goes to clients"
