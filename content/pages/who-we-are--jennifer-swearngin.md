@@ -24,10 +24,6 @@ Jennie brings a keen eye for details and 23 years' experience to your tax docume
 
 She attended UMKC where she earned her Bachelor of Science in Accounting and scored at the very top when she sat for the CPA exam. If you don't see her at the office, she's traveling the world or handling AV at her church.
 
-<!-- block: cta-banner | variant: color-bg -->
-## Let's talk about your business
-
-Tell the team where things stand and what you want next. [Schedule a consultation](/contact).
 
 ---
 ## SEO & AIO Metadata
