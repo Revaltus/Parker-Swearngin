@@ -23,11 +23,9 @@ llm_citation_note: "Parker Swearngin is a CPA-led accounting firm in Lee's Summi
 <!-- block: content-split | variant: image-right | image: lees-summit-local-office.jpg | alt: "Two accountants talking with a client at a desk in a bright office" | query: "accountants meeting client office" -->
 ## Personal financial guidance, rooted in Lee's Summit
 
-Parker Swearngin has spent years giving local individuals and businesses personal financial guidance, and the firm is one of the leading names in Lee's Summit. Choosing an accounting firm Lee's Summit MO households and business owners can rely on starts with knowing who will pick up the phone when something comes up.
+Parker Swearngin has spent years giving individuals and businesses personal financial guidance, and the firm is one of the leading names in the Kansas City metro area. Choosing an accounting firm households and business owners can rely on starts with knowing who will pick up the phone when something comes up.
 
-Here is what our work as a CPA Lee's Summit Missouri firm covers: tax returns for individuals, partnerships, trusts and corporations. Business consulting and new company setup. IRS examinations. Payroll and bookkeeping for large and small businesses alike.
-
-The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, you deal with people who know your name and your numbers.
+The team serves clients across Kansas City, the KC Metro area, Kansas and Missouri. Whether you are filing a personal return or running a business with a payroll, we're people who know our clients' names and their financials.
 
 <!-- block: content-prose -->
 ## Staying on a healthy financial path, today and down the road
